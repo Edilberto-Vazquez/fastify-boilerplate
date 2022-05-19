@@ -1,0 +1,22 @@
+{
+  "name": "fastify-boilerplate",
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "bootstrap": "yarn install -W && lerna bootstrap"
+  },
+  "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Edilberto-Vazquez/fastify-boilerplate#readme",
+  "devDependencies": {
+    "lerna": "4.0.0"
+  }
+}
