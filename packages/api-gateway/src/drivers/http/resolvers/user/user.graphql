@@ -1,0 +1,40 @@
+scalar DateTime
+scalar Country
+
+type User {
+  id: ID!
+  connected: Boolean!
+  connectedAt: DateTime
+  disconnectedAt: DateTime
+  firstName: String!
+  lastName: String!
+  email: String
+  phone: String
+  phoneCountry: Country
+  country: Country
+  company: String
+  createdAt: DateTime!
+  updatedAt: DateTime!
+  stripeId: String
+}
+
+input NewUser {
+  id: ID
+  firstName: String!
+  lastName: String!
+  userName: String!
+  email: String!
+  phone: String!
+  phoneCountry: ID!
+  country: ID!
+  company: String!
+  createdAt: DateTime
+}
+
+type Mutation {
+  createUser(input: NewUser!): User
+}
+
+type Query {
+  userName: Int
+}

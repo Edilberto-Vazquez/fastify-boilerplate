@@ -10,14 +10,10 @@ const getByUserName = (findOne) => async (userName) => {
 
 const createUser = (create, findOne) => async (user) => {
   let res;
-  try {
-    const userExist = await findOne(user.userName);
-    if (userExist)
-      throw new Error(`This user name alredy exist please use another`);
-    res = await create({ ...user });
-  } catch (error) {
-    console.log('14A7WF1EQ', error);
-  }
+  const userExist = await findOne(user.userName);
+  if (userExist)
+    throw new Error(`This user name alredy exist please use another`);
+  res = await create({ ...user });
   return res;
 };
 

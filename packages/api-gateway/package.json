@@ -1,26 +1,37 @@
 {
   "name": "@boilerplate/api-gateway",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
   "homepage": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/tree/main/packages/api-gateway#readme",
   "license": "MIT",
-  "main": "lib/api-gateway.js",
+  "main": "src/index.js",
   "directories": {
-    "lib": "lib",
+    "src": "src",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src",
+    "__tests__"
   ],
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "start:dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "@boilerplate/user": "^0.0.0",
-    "fastify": "^3.29.0"
+    "@boilerplate/user": "^1.0.0",
+    "@graphql-tools/load-files": "6.5.3",
+    "@graphql-tools/merge": "8.2.12",
+    "apollo-server-core": "3.7.0",
+    "apollo-server-fastify": "3.7.0",
+    "fastify": "3.29.0",
+    "fastify-autoload": "^3.13.0",
+    "fastify-plugin": "^3.0.1",
+    "graphql": "16.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.16"
   }
 }
