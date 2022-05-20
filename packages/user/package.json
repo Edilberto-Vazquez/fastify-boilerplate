@@ -1,7 +1,7 @@
 {
   "name": "@boilerplate/user",
-  "version": "0.0.0",
-  "description": "> TODO: description",
+  "version": "1.0.0",
+  "description": "User package",
   "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
   "homepage": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/tree/main/packages/user#readme",
   "license": "MIT",
