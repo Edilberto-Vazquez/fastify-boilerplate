@@ -1,7 +1,7 @@
 {
-  "name": "@boilerplate/api-gateway",
+  "name": "@package/api-gateway",
   "version": "1.0.0",
-  "description": "> TODO: description",
+  "description": "api gateway package",
   "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
   "homepage": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/tree/main/packages/api-gateway#readme",
   "license": "MIT",
@@ -21,10 +21,10 @@
     "start:dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "@boilerplate/user": "1.0.0",
     "@graphql-tools/load-files": "6.5.3",
     "@graphql-tools/merge": "8.2.12",
     "@graphql-tools/schema": "^8.3.14",
+    "@package/user": "^1.0.0",
     "fastify": "4.0.3",
     "fastify-plugin": "3.0.1",
     "graphql": "16.5.0",

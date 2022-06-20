@@ -1,4 +1,4 @@
-const UserServices = require('@boilerplate/user');
+const UserServices = require('@package/user');
 
 async function services(fastify) {
   await fastify.decorate('userServices', UserServices);
