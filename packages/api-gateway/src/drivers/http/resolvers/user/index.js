@@ -7,10 +7,10 @@ module.exports = {
     },
   },
   Mutation: {
-    createUser: async (_, { input }, { fastify }) => {
+    createUser: async (_, { input }, { services }) => {
       let res;
       try {
-        res = await userAdapters.createUser(input, fastify);
+        res = await userAdapters.createUser(input, services);
       } catch (error) {
         throw new Error(error);
       }

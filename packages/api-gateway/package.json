@@ -21,15 +21,14 @@
     "start:dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "@boilerplate/user": "^1.0.0",
+    "@boilerplate/user": "1.0.0",
     "@graphql-tools/load-files": "6.5.3",
     "@graphql-tools/merge": "8.2.12",
-    "apollo-server-core": "3.7.0",
-    "apollo-server-fastify": "3.7.0",
-    "fastify": "3.29.0",
-    "fastify-autoload": "^3.13.0",
-    "fastify-plugin": "^3.0.1",
-    "graphql": "16.5.0"
+    "@graphql-tools/schema": "^8.3.14",
+    "fastify": "4.0.3",
+    "fastify-plugin": "3.0.1",
+    "graphql": "16.5.0",
+    "mercurius": "10.0.0"
   },
   "devDependencies": {
     "nodemon": "2.0.16"
