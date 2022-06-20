@@ -4,7 +4,7 @@ services:
   mysql:
     image: mysql:latest
     environment:
-      MYSQL_DATABASE: boilerplate
+      MYSQL_DATABASE: veritrade-test
       MYSQL_USER: sandbox
       MYSQL_ROOT_PASSWORD: sandbox
       MYSQL_PORT: 3306

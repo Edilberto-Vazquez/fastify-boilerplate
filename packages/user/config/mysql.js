@@ -1,4 +1,4 @@
-const prefix = require('../environment');
+const prefix = require('./environment');
 
 const config = {
   logging: false,
@@ -18,6 +18,8 @@ const config = {
     timestamps: true,
   },
 };
+
+console.log(config);
 
 module.exports = {
   development: config,

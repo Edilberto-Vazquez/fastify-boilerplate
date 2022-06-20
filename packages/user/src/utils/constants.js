@@ -1,6 +1,6 @@
 // Constants to set the environment
 const supportedEnvs = {
-  DEVELOP: 'develop',
+  DEVELOP: 'development',
   TEST: 'test',
   PRODUCTION: 'production',
 };

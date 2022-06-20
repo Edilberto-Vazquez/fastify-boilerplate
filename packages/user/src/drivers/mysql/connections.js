@@ -1,6 +1,6 @@
 const { Sequelize } = require('sequelize');
-const config = require('../../../config/db/config');
-const setupModels = require('../../../config/db/models');
+const config = require('../../../config/mysql');
+const setupModels = require('./models');
 
 const sequelize = new Sequelize(config.development);
 setupModels(sequelize);
