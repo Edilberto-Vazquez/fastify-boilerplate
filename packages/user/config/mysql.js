@@ -19,8 +19,6 @@ const config = {
   },
 };
 
-console.log(config);
-
 module.exports = {
   development: config,
   production: config,

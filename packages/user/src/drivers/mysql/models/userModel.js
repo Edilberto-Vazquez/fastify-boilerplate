@@ -34,6 +34,10 @@ const UserSchema = {
     type: DataTypes.STRING(50),
     allowNull: false,
   },
+  password: {
+    type: DataTypes.STRING(64),
+    allowNull: false,
+  },
   stripeId: {
     type: DataTypes.STRING(64),
     allowNull: true,
@@ -77,7 +81,11 @@ const UserSchema = {
 };
 
 class User extends Model {
-  static associate(models) {}
+  static associate(models) {
+    // this.hasOne(models.Password, { as:'password', foreignKey: { name: 'userId', allowNull: false } })
+    this.hasOne(models.PaymentMethod, { as:'payment_method', foreignKey: { name: 'userId', allowNull: true } })
+    this.hasOne(models.UserSearch, { as:'user_search', foreignKey: { name: 'userId', allowNull: true } })
+  }
 
   static config(sequelize) {
     return {
