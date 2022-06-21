@@ -5,4 +5,4 @@ const setupModels = require('./models');
 const sequelize = new Sequelize(config.development);
 setupModels(sequelize);
 
-module.exports = sequelize.model('User');
+module.exports = sequelize;

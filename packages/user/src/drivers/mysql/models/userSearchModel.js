@@ -83,7 +83,7 @@ const UserSearchSchema = {
 };
 
 class UserSearch extends Model {
-  static associations(models) {
+  static associate(models) {
     this.belongsTo(models.User, {
       as: 'user',
       foreignKey: { name: 'userId', allowNull: true },
