@@ -4,7 +4,7 @@
     "packages/*"
   ],
   "version": "1.0.0",
-  "description": "",
+  "description": "boilerplate with fastify and lerna",
   "main": "index.js",
   "private": true,
   "scripts": {
