@@ -11,7 +11,7 @@
     "bootstrap": "yarn install -W && lerna bootstrap"
   },
   "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/issues"
   },
