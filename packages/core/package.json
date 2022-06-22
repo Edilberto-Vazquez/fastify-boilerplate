@@ -1,0 +1,37 @@
+{
+  "name": "@package/core",
+  "version": "1.0.0",
+  "description": "core functionalities",
+  "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
+  "homepage": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/tree/main/packages/core#readme",
+  "license": "ISC",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edilberto-Vazquez/fastify-boilerplate.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/issues"
+  },
+  "dependencies": {
+    "@sentry/node": "7.2.0",
+    "aws-sdk": "2.1160.0",
+    "btoa": "1.2.1",
+    "crypto-random-string": "5.0.0",
+    "dotenv": "16.0.1",
+    "graphql-redis-subscriptions": "2.4.2",
+    "ioredis": "5.0.6",
+    "mandrill-api": "1.0.45",
+    "moment-timezone": "0.5.34",
+    "querystring": "0.2.1"
+  }
+}

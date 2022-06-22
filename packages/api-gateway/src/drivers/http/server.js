@@ -1,6 +1,7 @@
 const Fastify = require('fastify');
-const PluginLoader = require('fastify-plugin');
-const services = require('./plugins/services');
+// if use rest API or need that fastify use a service enable this line
+// const PluginLoader = require('fastify-plugin');
+const { services } = require('./plugins/services');
 const mercurius = require('mercurius');
 const { print } = require('graphql');
 const { loadFilesSync } = require('@graphql-tools/load-files');
@@ -9,7 +10,8 @@ const path = require('path');
 
 const fastify = Fastify({ logger: true });
 
-fastify.register(PluginLoader(services.servicesAsPlugin));
+// if use rest API or need that fastify use a service enable this line
+// fastify.register(PluginLoader(services.loadServicesAsPlugin));
 
 const typeDefs = loadFilesSync(path.join(__dirname, 'resolvers'), {
   extensions: ['graphql'],
@@ -23,11 +25,18 @@ fastify.register(mercurius, {
   schema: print(mergeTypeDefs(typeDefs)),
   resolvers: mergeResolvers(resolvers),
   graphiql: true,
-  services: services.services,
   context: (request, reply) => {
-    return {
-      services: services.services,
-    };
+    if (request && reply) {
+      return {
+        req: request,
+        res: reply,
+        pubsub: services.coreServices.redis.pubsub,
+        services: services.userServices,
+      };
+    } else
+      return {
+        pubsub: services.coreServices.redis.pubsub,
+      };
   },
 });
 

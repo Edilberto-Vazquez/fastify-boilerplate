@@ -1,12 +1,15 @@
 const UserServices = require('@package/user');
+const CoreServices = require('@package/core');
 
 async function services(fastify) {
   await fastify.decorate('userServices', UserServices);
+  await fastify.decorate('coreServices', CoreServices);
 }
 
 module.exports = {
-  servicesAsPlugin: services,
+  loadServicesAsPlugin: services,
   services: {
     userServices: UserServices,
+    coreServices: CoreServices,
   },
 };
