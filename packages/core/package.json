@@ -12,15 +12,8 @@
   "files": [
     "src"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Edilberto-Vazquez/fastify-boilerplate.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/issues"
+  "publishConfig": {
+    "access": "public"
   },
   "dependencies": {
     "@sentry/node": "7.2.0",

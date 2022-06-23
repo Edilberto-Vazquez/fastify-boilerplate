@@ -1,0 +1,38 @@
+{
+  "name": "@package/18n-service",
+  "version": "1.0.0",
+  "description": "18n service",
+  "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
+  "homepage": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/tree/main/packages/18n-service#readme",
+  "license": "ISC",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "migrations:generate": "sequelize-cli migration:generate --name",
+    "migrations:run": "sequelize-cli db:migrate",
+    "migrations:revert": "sequelize-cli db:migrate:undo",
+    "migrations:delete": "sequelize-cli db:migrate:undo:all"
+  },
+  "dependencies": {
+    "crypto-random-string": "5.0.0",
+    "dotenv": "16.0.1",
+    "mysql2": "2.3.3",
+    "sequelize": "6.19.2"
+  },
+  "devDependencies": {
+    "eslint": "8.15.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "jest": "28.1.0",
+    "prettier": "2.6.2",
+    "sequelize-cli": "6.4.1"
+  }
+}
