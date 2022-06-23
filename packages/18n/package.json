@@ -22,6 +22,7 @@
     "migrations:delete": "sequelize-cli db:migrate:undo:all"
   },
   "dependencies": {
+    "@package/core": "1.0.0",
     "crypto-random-string": "5.0.0",
     "dotenv": "16.0.1",
     "mysql2": "2.3.3",
