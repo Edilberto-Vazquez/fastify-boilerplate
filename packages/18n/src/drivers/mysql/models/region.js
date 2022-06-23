@@ -1,7 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
 const { COUNTRY_TABLE } = require('./country');
 
-const REGION_TABLE = 'country';
+const REGION_TABLE = 'region';
 
 const RegionSchema = {
   id: {
