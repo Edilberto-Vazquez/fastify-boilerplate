@@ -5,15 +5,15 @@ const REGION_TABLE = 'country';
 
 const RegionSchema = {
   id: {
-    type: Sequelize.STRING(50),
+    type: DataTypes.STRING(50),
     primaryKey: true,
   },
   nameEs: {
-    type: Sequelize.STRING(100),
+    type: DataTypes.STRING(100),
     allowNull: false,
   },
   nameEn: {
-    type: Sequelize.STRING(100),
+    type: DataTypes.STRING(100),
     allowNull: false,
   },
   countryId: {
@@ -30,7 +30,10 @@ const RegionSchema = {
 
 class Region extends Model {
   static associate(models) {
-    this.belongsTo(models.Country, { as: 'country', foreignKey: {  name: 'countryId',  allowNull: false } });
+    this.belongsTo(models.Country, {
+      as: 'country',
+      foreignKey: { name: 'countryId', allowNull: false },
+    });
   }
 
   static config(sequelize) {

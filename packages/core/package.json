@@ -15,6 +15,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "scripts": {
+    "migrations:run": "npm --prefix ../user/ run migrations:run && npm --prefix ../18n/ run migrations:run"
+  },
   "dependencies": {
     "@sentry/node": "7.2.0",
     "aws-sdk": "2.1160.0",
