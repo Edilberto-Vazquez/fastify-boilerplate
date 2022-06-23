@@ -1,7 +1,7 @@
-const { User, UserSchema } = require('./userModel');
+const { User, UserSchema, USER_TABLE } = require('./userModel');
 // const { Password, PasswordSchema } = require('./passwordModel');
-const { PaymentMethod, PaymentMethodSchema } = require('./paymentMethodModel');
-const { UserSearch, UserSearchSchema } = require('./userSearchModel');
+const { PaymentMethod, PaymentMethodSchema, PAYMENT_METHOD_TABLE } = require('./paymentMethodModel');
+const { UserSearch, UserSearchSchema, USER_SEARCH_TABLE } = require('./userSearchModel');
 
 function setupModels(sequelize) {
   User.init(UserSchema, User.config(sequelize));
@@ -15,4 +15,18 @@ function setupModels(sequelize) {
   UserSearch.associate(sequelize.models);
 }
 
-module.exports = setupModels;
+module.exports = {
+  setupModels,
+  UserModel: {
+    UserSchema,
+    USER_TABLE
+  },
+  PaymentMethodModel: {
+    PaymentMethodSchema,
+    PAYMENT_METHOD_TABLE
+  },
+  UserSearchModel: {
+    UserSearchSchema,
+    USER_SEARCH_TABLE
+  },
+};
