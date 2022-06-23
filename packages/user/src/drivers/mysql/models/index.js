@@ -18,14 +18,17 @@ function setupModels(sequelize) {
 module.exports = {
   setupModels,
   UserModel: {
+    User,
     UserSchema,
     USER_TABLE
   },
   PaymentMethodModel: {
+    PaymentMethod,
     PaymentMethodSchema,
     PAYMENT_METHOD_TABLE
   },
   UserSearchModel: {
+    UserSearch,
     UserSearchSchema,
     USER_SEARCH_TABLE
   },
