@@ -10,7 +10,7 @@ const filename = '.env';
 switch (process.env.NODE_ENV) {
   case supportedEnvs.PRODUCTION: {
     environment = '';
-    path = `/src/${filename}`;
+    path = `${join(__dirname, '../../..')}/${filename}`;
     break;
   }
   case supportedEnvs.TEST: {
