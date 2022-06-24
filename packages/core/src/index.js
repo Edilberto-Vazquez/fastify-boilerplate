@@ -9,6 +9,7 @@ const sequelize = require('./drivers/mysql/connection');
 
 // utils
 const environment = require('./utils/environment');
+const loadSeed = require('./utils/loadSeed');
 
 module.exports = {
   configs: {
@@ -22,5 +23,6 @@ module.exports = {
   },
   utils: {
     environment,
+    loadSeed,
   },
 };

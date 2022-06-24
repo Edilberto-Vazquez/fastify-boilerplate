@@ -1,6 +1,6 @@
 const { Model, DataTypes } = require('sequelize');
 
-const USER_TABLE = 'users';
+const USER_TABLE = 'Users';
 
 const UserSchema = {
   id: {
@@ -84,7 +84,7 @@ const UserSchema = {
     type: DataTypes.STRING(6),
     unique: true,
     references: {
-      model: 'country',
+      model: 'Countries',
       key: 'id',
     },
     onUpdate: 'CASCADE',

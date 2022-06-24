@@ -2,7 +2,7 @@ const { Model, DataTypes } = require('sequelize');
 const { LOCALE_TABLE } = require('./locale');
 const { CURRENCY_TABLE } = require('./currency');
 
-const COUNTRY_TABLE = 'country';
+const COUNTRY_TABLE = 'Countries';
 
 const CountrySchema = {
   id: {
@@ -10,24 +10,29 @@ const CountrySchema = {
     primaryKey: true,
   },
   nameEs: {
+    field: "name_es",
     type: DataTypes.STRING(100),
     allowNull: false,
   },
   nameEn: {
+    field: "name_en",
     type: DataTypes.STRING(100),
     allowNull: false,
   },
   dialCode: {
+    field: "dial_code",
     type: DataTypes.INTEGER,
     allowNull: true,
     defaultValue: null,
   },
   payPalAccepted: {
+    field:"paypal_accepted",
     type: DataTypes.BOOLEAN,
     allowNull: false,
     defaultValue: true,
   },
   cardsAccepted: {
+    field: "cards_accepted",
     type: DataTypes.BOOLEAN,
     allowNull: false,
     defaultValue: true,
@@ -36,7 +41,6 @@ const CountrySchema = {
     field: 'locale_id',
     allowNull: false,
     type: DataTypes.STRING(3),
-    unique: true,
     references: {
       model: LOCALE_TABLE,
       key: 'id',
@@ -46,7 +50,6 @@ const CountrySchema = {
     field: 'currency_id',
     allowNull: false,
     type: DataTypes.STRING(3),
-    unique: true,
     references: {
       model: CURRENCY_TABLE,
       key: 'id',
@@ -56,7 +59,7 @@ const CountrySchema = {
 
 class Country extends Model {
   static associate(models) {
-    this.belongsTo(models.Locale, { as: 'locale',foreignKey: {  name: 'localeId',  allowNull: false,  defaultValue: 'es' } });
+    this.belongsTo(models.Locale, { as: 'locale', foreignKey: {  name: 'localeId',  allowNull: false,  defaultValue: 'es' } });
     this.belongsTo(models.Currency, { as: 'currency', foreignKey: { name: 'currencyId', allowNull: false } });
   }
 
@@ -64,7 +67,7 @@ class Country extends Model {
     return {
       sequelize,
       tableName: COUNTRY_TABLE,
-      modelName: 'country',
+      modelName: 'Country',
     };
   }
 }

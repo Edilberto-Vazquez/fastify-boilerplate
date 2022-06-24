@@ -35,7 +35,6 @@ const PasswordSchema = {
     field: 'user_id',
     allowNull: false,
     type: DataTypes.STRING(10),
-    unique: true,
     references: {
       model: {
         tableName: 'users',

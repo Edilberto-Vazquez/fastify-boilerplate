@@ -1,7 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
 const { USER_TABLE } = require('./userModel');
 
-const PAYMENT_METHOD_TABLE = 'payment_methods';
+const PAYMENT_METHOD_TABLE = 'PaymentMethods';
 
 
 const PaymentMethodSchema = {
@@ -60,7 +60,6 @@ const PaymentMethodSchema = {
     field: 'user_id',
     allowNull: false,
     type: DataTypes.STRING(10),
-    unique: true,
     references: {
       model: USER_TABLE,
       key: 'id',

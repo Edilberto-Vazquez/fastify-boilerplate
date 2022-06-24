@@ -1,7 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
 const { USER_TABLE } = require('./userModel');
 
-const USER_SEARCH_TABLE = 'user_searches';
+const USER_SEARCH_TABLE = 'UserSearches';
 
 const UserSearchSchema = {
   id: {
@@ -72,7 +72,6 @@ const UserSearchSchema = {
     field: 'user_id',
     allowNull: false,
     type: DataTypes.STRING(10),
-    unique: true,
     references: {
       model: USER_TABLE,
       key: 'id',

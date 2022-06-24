@@ -1,0 +1,4520 @@
+id	name_es	name_en	country_id
+AD-02	Canillo	Canillo	AD
+AD-03	Encamp	Encamp	AD
+AD-04	La Massana	La Massana	AD
+AD-05	Ordino	Ordino	AD
+AD-06	Sant Julià De Lòria	Sant Julia De Loria	AD
+AD-07	Andorra La Vella	Andorra La Vella	AD
+AD-08	Escaldes-Engordany	Escaldes-Engordany	AD
+AE-AJ	Ajman	Ajman	AE
+AE-AZ	Abu Dabi	Abu Dhabi	AE
+AE-DU	Dubai	Dubai	AE
+AE-FU	Fujairah	Fujairah	AE
+AE-RK	Ras Al Khaimah	Ras Al Khaimah	AE
+AE-SH	Sharjah	Sharjah	AE
+AE-UQ	Umm Al Quwain	Umm Al Quwain	AE
+AF-BAL	Balkh	Balkh	AF
+AF-BAM	Bamyan	Bāmyān	AF
+AF-BDG	Badghis	Bādghīs	AF
+AF-BDS	Badakhshan	Badakhshān	AF
+AF-BGL	Baghlān	Baghlān	AF
+AF-DAY	Daykundi	Dāykundī	AF
+AF-FRA	Farāh	Farāh	AF
+AF-FYB	Faryab	Fāryāb	AF
+AF-GHA	Ghaznī	Ghaznī	AF
+AF-GHO	Ghor	Ghōr	AF
+AF-HEL	Helmand	Helmand	AF
+AF-HER	Herāt	Herāt	AF
+AF-JOW	Jowzjān	Jowzjān	AF
+AF-KAB	Kābul	Kābul	AF
+AF-KAN	Kandahar	Kandahār	AF
+AF-KAP	Kapisa	Kāpīsā	AF
+AF-KDZ	Kunduz	Kunduz	AF
+AF-KHO	Khost	Khōst	AF
+AF-KNR	Kunar	Kunaṟ	AF
+AF-LAG	Laghman	Laghmān	AF
+AF-LOG	Logar	Lōgar	AF
+AF-NAN	Nangarhar	Nangarhār	AF
+AF-NIM	Nimroz	Nīmrōz	AF
+AF-NUR	Nuristan	Nūristān	AF
+AF-PAN	Panjshayr	Panjshayr	AF
+AF-PAR	Parwan	Parwān	AF
+AF-PIA	Paktiya	Paktiyā	AF
+AF-PKA	Paktika	Paktīkā	AF
+AF-SAM	Samangān	Samangān	AF
+AF-SAR	Sar-E Pul	Sar-E Pul	AF
+AF-TAK	Takhar	Takhār	AF
+AF-URU	Uruzgan	Uruzgān	AF
+AF-WAR	Wardak	Wardak	AF
+AF-ZAB	Zabul	Zābul	AF
+AG-01	Isla De Antigua	Antigua Island	AG
+AG-02	Isla De Barbuda	Barbuda Island	AG
+AG-03	Isla Redonda	Redonda Island	AG
+AG-04	Isla De Los Pájaros	Bird Island	AG
+AG-05	Isla Del Obispo	Bishop Island	AG
+AG-06	Isla Blake	Blake Island	AG
+AG-09	Isla Crump	Crump Island	AG
+AG-10	Isla Dulcina	Dulcina Island	AG
+AG-11	Isla De Intercambio	Exchange Island	AG
+AG-12	Cinco Islas	Five Islands	AG
+AG-13	Isla Gran Pájaro	Great Bird Island	AG
+AG-14	Isla Verde	Green Island	AG
+AG-15	Isla De Guayana	Guiana Island	AG
+AG-16	Isla De La Puerta Del Infierno	Hells Gate Island	AG
+AG-17	Isla De Hawes	Hawes Island	AG
+AG-18	Isla Henry	Henry Island	AG
+AG-19	Isla Johnson	Johnson Island	AG
+AG-20	Isla De Los Niños	Kid Island	AG
+AG-22	Isla De La Langosta	Lobster Island	AG
+AG-24	Isla Doncella	Maiden Island	AG
+AG-25	Isla De Los Moros	Moor Island	AG
+AG-26	Isla Nana	Nanny Island	AG
+AG-27	Isla Pelícano	Pelican Island	AG
+AG-28	La Isla De Los Hongos	Prickly Pear Island	AG
+AG-29	Isla De Los Conejos	Rabbit Island	AG
+AG-31	Isla Cabeza Roja	Red Head Island	AG
+AG-32	Isla Sandy	Sandy Island	AG
+AG-33	Isla Smith	Smith Island	AG
+AG-34	Las Hermanas	The Sisters	AG
+AG-35	Isla De Vernon	Vernon Island	AG
+AG-36	La Isla De Wicked Will	Wicked Will Island	AG
+AG-37	Isla De York	York Island	AG
+AI-01	Anguila	Anguilla	AI
+AI-02	Isla Anguillita	Anguillita Island	AI
+AI-03	Roca Sopladora	Blowing Rock	AI
+AI-04	Cayo Cala	Cove Cay	AI
+AI-05	Cayo Crocus	Crocus Cay	AI
+AI-06	Deadman'S Cay	Deadman'S Cay	AI
+AI-07	Isla De Los Perros	Dog Island	AI
+AI-08	Cayo Este	East Cay	AI
+AI-09	Pequeña Isla	Little Island	AI
+AI-10	Pequeña Isla De Matorrales	Little Scrub Island	AI
+AI-11	Cayo Medio	Mid Cay	AI
+AI-12	Cayo Norte	North Cay	AI
+AI-13	Cayos Chumbos	Prickly Pear Cays	AI
+AI-14	Isla De Los Conejos	Rabbit Island	AI
+AI-15	Isla De Arena/Isla De Arena	Sandy Island/Sand Island	AI
+AI-16	Scilly Cay	Scilly Cay	AI
+AI-17	Isla De Los Matorrales	Scrub Island	AI
+AI-18	Isla Seal	Seal Island	AI
+AI-19	Sombrero/Islas Del Sombrero	Sombrero/Hat Island	AI
+AI-20	Cayo Sur	South Cay	AI
+AI-21	Isla De La Apuesta Del Sur	South Wager Island	AI
+AI-22	Cayo Oeste	West Cay	AI
+AL-01	Berat	Berat	AL
+AL-02	Durrës	Durrës	AL
+AL-03	Elbasan	Elbasan	AL
+AL-04	Fier	Fier	AL
+AL-05	Gjirokastër	Gjirokastër	AL
+AL-06	Korçë	Korçë	AL
+AL-07	Kukës	Kukës	AL
+AL-08	Lezhë	Lezhë	AL
+AL-09	Dibër	Dibër	AL
+AL-10	Shkodër	Shkodër	AL
+AL-11	Tirana	Tirana	AL
+AL-12	Vlorë	Vlorë	AL
+AM-AG	Aragatsotn	Aragatsotn	AM
+AM-AR	Ararat	Ararat	AM
+AM-AV	Armavir	Armavir	AM
+AM-ER	Ereván	Yerevan	AM
+AM-GR	Gegharkunik	Gegharkunik	AM
+AM-KT	Kotayk	Kotayk	AM
+AM-LO	Lori	Lori	AM
+AM-SH	Shirak	Shirak	AM
+AM-SU	Syunik	Syunik	AM
+AM-TV	Tavush	Tavush	AM
+AM-VD	Vayots Dzor	Vayots Dzor	AM
+AO-BGO	Bengo	Bengo	AO
+AO-BGU	Benguela	Benguela	AO
+AO-BIE	Bie	Bié	AO
+AO-CAB	Cabinda	Cabinda	AO
+AO-CCU	Kuando Kubango	Kuando Kubango	AO
+AO-CNN	Cunene	Cunene	AO
+AO-CNO	Kwanza Norte	Kwanza Norte	AO
+AO-CUS	Kwanza Sur	Kwanza Sul	AO
+AO-HUA	Huambo	Huambo	AO
+AO-HUI	Huila	Huíla	AO
+AO-LNO	Lunda Norte	Lunda Norte	AO
+AO-LSU	Lunda Sur	Lunda Sul	AO
+AO-LUA	Luanda	Luanda	AO
+AO-MAL	Malanje	Malanje	AO
+AO-MOX	Moxico	Moxico	AO
+AO-NAM	Namibe	Namibe	AO
+AO-UIG	Uíge	Uíge	AO
+AO-ZAI	Zaire	Zaire	AO
+AQ-AQ	Antártida	Antarctica	AQ
+AR-A	Salta	Salta	AR
+AR-B	Buenos Aires	Buenos Aires	AR
+AR-C	Capital Federal	Capital Federal	AR
+AR-D	San Luis	San Luis	AR
+AR-E	Entre Ríos	Entre Ríos	AR
+AR-F	La Rioja	La Rioja	AR
+AR-G	Santiago Del Estero	Santiago Del Estero	AR
+AR-H	Chaco	Chaco	AR
+AR-J	San Juan	San Juan	AR
+AR-K	Catamarca	Catamarca	AR
+AR-L	La Pampa	La Pampa	AR
+AR-M	Mendoza	Mendoza	AR
+AR-N	Misiones	Misiones	AR
+AR-P	Formosa	Formosa	AR
+AR-Q	Neuquén	Neuquén	AR
+AR-R	Río Negro	Río Negro	AR
+AR-S	Santa Fe	Santa Fe	AR
+AR-T	Tucumán	Tucumán	AR
+AR-U	Chubut	Chubut	AR
+AR-V	Tierra Del Fuego	Tierra Del Fuego	AR
+AR-W	Corrientes	Corrientes	AR
+AR-X	Córdoba	Córdoba	AR
+AR-Y	Jujuy	Jujuy	AR
+AR-Z	Santa Cruz	Santa Cruz	AR
+AS-01	Tutuila	Tutuila	AS
+AS-02	Aunu'U	Aunu'U	AS
+AS-03	Ta'U	Ta'Ū	AS
+AS-04	Ofu-Olosega	Ofu‑Olosega	AS
+AS-21	Rose Atoll	Rose Atoll	AS
+AS-22	Isla De Swain	Swains Island	AS
+AT-1	Burgenland	Burgenland	AT
+AT-2	Carintia	Carinthia	AT
+AT-3	Baja Austria	Lower Austria	AT
+AT-4	Alta Austria	Upper Austria	AT
+AT-5	Salzburgo	Salzburg	AT
+AT-6	Estiria	Styria	AT
+AT-7	Tirol	Tirol	AT
+AT-8	Vorarlberg	Vorarlberg	AT
+AT-9	Viena	Vienna	AT
+AU-ACT	Territorio De La Capital Australiana	Australian Capital Territory	AU
+AU-NSW	Nueva Gales Del Sur	New South Wales	AU
+AU-NT	Territorio Del Norte	Northern Territory	AU
+AU-QLD	Queensland	Queensland	AU
+AU-SA	Sur De Australia	South Australia	AU
+AU-TAS	Tasmania	Tasmania	AU
+AU-VIC	Victoria	Victoria	AU
+AU-WA	El Oeste De Australia	Western Australia	AU
+AW-AW	Aruba	Aruba	AW
+AX-BR	Brando	Brando	AX
+AX-EC	Eckerö	Eckerö	AX
+AX-FG	Föglö	Föglö	AX
+AX-FN	Finström	Finström	AX
+AX-GT	Geta	Geta	AX
+AX-HM	Hammarland	Hammarland	AX
+AX-JM	Jomala	Jomala	AX
+AX-KK	Kökar	Kökar	AX
+AX-KM	Kumlinge	Kumlinge	AX
+AX-LE	Lemland	Lemland	AX
+AX-LU	Lumparland	Lumparland	AX
+AX-MH	Mariehamn	Mariehamn	AX
+AX-SD	Sund	Sund	AX
+AX-ST	Sottunga	Sottunga	AX
+AX-SV	Saltvik	Saltvik	AX
+AX-VR	Vårdö	Vårdö	AX
+AZ-ABS	Absherón	Absheron	AZ
+AZ-AGA	Agstafa	Agstafa	AZ
+AZ-AGC	Agjabadi	Agjabadi	AZ
+AZ-AGM	Agdam	Agdam	AZ
+AZ-AGS	Agdash	Agdash	AZ
+AZ-AGU	Agsu	Agsu	AZ
+AZ-AST	Astara	Astara	AZ
+AZ-BA	Bakú	Baku	AZ
+AZ-BAB	Babak	Babak	AZ
+AZ-BAL	Balakan	Balakan	AZ
+AZ-BAR	Barda	Barda	AZ
+AZ-BEY	Beylagan	Beylagan	AZ
+AZ-BIL	Bilasuvar	Bilasuvar	AZ
+AZ-CAB	Gabriel	Gabriel	AZ
+AZ-CAL	Jalilabad	Jalilabad	AZ
+AZ-CUL	Julfa	Julfa	AZ
+AZ-DAS	Dashkasan	Dashkasan	AZ
+AZ-FUZ	Fuzili	Fizuli	AZ
+AZ-GA	Ganja	Ganja	AZ
+AZ-GAD	Gadabay	Gadabay	AZ
+AZ-GOR	Goranboy	Goranboy	AZ
+AZ-GOY	Goychay	Goychay	AZ
+AZ-GYG	Goygol	Goygol	AZ
+AZ-HAC	Hajigabul	Hajigabul	AZ
+AZ-IMI	Imishli	Imishli	AZ
+AZ-ISM	Ismayilli	Ismayilli	AZ
+AZ-KAL	Kalbajar	Kalbajar	AZ
+AZ-KAN	Kǝngǝrli	Kǝngǝrli	AZ
+AZ-KUR	Kurdamir	Kurdamir	AZ
+AZ-LA	Lankaran	Lankaran	AZ
+AZ-LAC	Lachin	Lachin	AZ
+AZ-LAN	Lankaran	Lankaran	AZ
+AZ-LER	Lerik	Lerik	AZ
+AZ-MAS	Masalli	Masalli	AZ
+AZ-MI	Mingechevir	Mingachevir	AZ
+AZ-NA	Naftalina	Naphthalene	AZ
+AZ-NEF	Neftchala	Neftchala	AZ
+AZ-NV	Najchiván	Nakhchivan	AZ
+AZ-OGU	Oghuz	Oghuz	AZ
+AZ-ORD	Ordubad	Ordubad	AZ
+AZ-QAB	Gabala	Gabala	AZ
+AZ-QAX	Qax	Qax	AZ
+AZ-QAZ	Kazakh	Kazakh	AZ
+AZ-QBA	Guba	Guba	AZ
+AZ-QBI	Gubadli	Gubadli	AZ
+AZ-QOB	Qobustan	Qobustan	AZ
+AZ-QUS	Gusar	Gusar	AZ
+AZ-SA	Shaki	Shaki	AZ
+AZ-SAB	Sabirabad	Sabirabad	AZ
+AZ-SAD	Sederek	Sederek	AZ
+AZ-SAH	Shahbuz	Shahbuz	AZ
+AZ-SAK	Shaki	Shaki	AZ
+AZ-SAL	Salyan	Salyan	AZ
+AZ-SAR	Sherur	Sherur	AZ
+AZ-SAT	Reloj	Clock	AZ
+AZ-SBN	Shabran	Shabran	AZ
+AZ-SIY	Siyazan	Siyazan	AZ
+AZ-SKR	Shamkir	Shamkir	AZ
+AZ-SM	Sumgait	Sumgait	AZ
+AZ-SMI	Shamakhi	Shamakhi	AZ
+AZ-SMX	Samukh	Samukh	AZ
+AZ-SR	Shirván	Shirvan	AZ
+AZ-SUS	Shushá	Shusha	AZ
+AZ-TAR	Sarro	Tartar	AZ
+AZ-TOV	Tovuz	Tovuz	AZ
+AZ-UCA	Ucar	Ucar	AZ
+AZ-XA	Stepanakert	Stepanakert	AZ
+AZ-XAC	Jachmaz	Khachmaz	AZ
+AZ-XCI	Jodjalí	Khojaly	AZ
+AZ-XIZ	Xizi	Xizi	AZ
+AZ-XVD	Khojavand	Khojavand	AZ
+AZ-YAR	Yardimli	Yardimli	AZ
+AZ-YE	Yevlaj	Yevlakh	AZ
+AZ-YEV	Yevlaj	Yevlakh	AZ
+AZ-ZAN	Zengilan	Zengilan	AZ
+AZ-ZAQ	Zaqatala	Zaqatala	AZ
+AZ-ZAR	Zardab	Zardab	AZ
+BA-BIH	La Federación De Bosnia Y Herzegovina	Federation Of Bosnia And Herzegovina	BA
+BA-BRC	Distrito De Brcko	Brcko District	BA
+BA-SRP	República De Serbia	Republic Of Serbia	BA
+BB-01	Iglesia De Cristo	Christ Church	BB
+BB-02	San Andrés	Saint Andrew	BB
+BB-03	San Jorge	Saint George	BB
+BB-04	Saint James	Saint James	BB
+BB-05	San Juan	Saint John	BB
+BB-06	San José	Saint Joseph	BB
+BB-07	Santa Lucía	Saint Lucy	BB
+BB-08	San Miguel	Saint Michael	BB
+BB-09	San Pedro	Saint Peter	BB
+BB-10	San Felipe	Saint Philip	BB
+BB-11	Santo Tomás	Saint Thomas	BB
+BD-A	Barisal	Barisal	BD
+BD-B	Chittagong	Chittagong	BD
+BD-C	Dacca	Dhaka	BD
+BD-D	Khulna	Khulna	BD
+BD-E	Rajshahi	Rajshahi	BD
+BD-F	Rangpur	Rangpur	BD
+BD-G	Sylhet	Sylhet	BD
+BD-M	Mymensingh	Mymensingh	BD
+BE-BRU	Bruselas	Brussels	BE
+BE-VLG	Flandes	Flanders	BE
+BE-WAL	Valonia	Wallonia	BE
+BF-BAL	Balé	Balé	BF
+BF-BAM	Bam Bam Lago /	Bam / Bam Lake	BF
+BF-BAN	Provincia Banwa	Banwa Province	BF
+BF-BAZ	Bazèga	Bazèga	BF
+BF-BGR	Bougouriba	Bougouriba	BF
+BF-BLG	Provincia Boulgou	Boulgou Province	BF
+BF-BLK	Boulkiemdé	Boulkiemdé	BF
+BF-COM	Comoé	Comoé	BF
+BF-GAN	Provincia Ganzourgou	Ganzourgou Province	BF
+BF-GNA	Gnagna	Gnagna	BF
+BF-GOU	Provincia Gourma	Gourma Province	BF
+BF-HOU	Houet	Houet	BF
+BF-IOB	Ioba	Ioba	BF
+BF-KAD	Kadiogo	Kadiogo	BF
+BF-KEN	Kénédougou	Kénédougou	BF
+BF-KMD	Komondjari	Komondjari	BF
+BF-KMP	Kompienga	Kompienga	BF
+BF-KOP	Koulpélogo	Koulpélogo	BF
+BF-KOS	Provincia Kossi	Kossi Province	BF
+BF-KOT	Kouritenga	Kouritenga	BF
+BF-KOW	Kourwéogo	Kourwéogo	BF
+BF-LER	Léraba	Léraba	BF
+BF-LOR	Loroum	Loroum	BF
+BF-MOU	Mouhoun	Mouhoun	BF
+BF-NAM	Namentenga	Namentenga	BF
+BF-NAO	Naouri	Naouri	BF
+BF-NAY	Nayala	Nayala	BF
+BF-NOU	Noumbiel	Noumbiel	BF
+BF-OUB	Oubritenga	Oubritenga	BF
+BF-OUD	Oudalan	Oudalan	BF
+BF-PAS	Passoré	Passoré	BF
+BF-PON	Poni	Poni	BF
+BF-SEN	Seno	Seno	BF
+BF-SIS	Sissili	Sissili	BF
+BF-SMT	Sanmatenga	Sanmatenga	BF
+BF-SNG	Sanguié	Sanguié	BF
+BF-SOM	Soum	Soum	BF
+BF-SOR	Sourou	Sourou	BF
+BF-TAP	Tapoa	Tapoa	BF
+BF-TUI	Tui	Tui	BF
+BF-YAG	Yagha	Yagha	BF
+BF-YAT	Yatenga	Yatenga	BF
+BF-ZIR	Ziro	Ziro	BF
+BF-ZON	Zondoma	Zondoma	BF
+BF-ZOU	Zoundwéogo	Zoundwéogo	BF
+BG-01	Blagoevgrad	Blagoevgrad	BG
+BG-02	Burgas	Burgas	BG
+BG-03	Varna	Varna	BG
+BG-04	Veliko Tarnovo	Veliko Tarnovo	BG
+BG-05	Vidin	Vidin	BG
+BG-06	Vratsa	Vratsa	BG
+BG-07	Gabrovo	Gabrovo	BG
+BG-08	Dobrich	Dobrich	BG
+BG-09	Kardzhali	Kardzhali	BG
+BG-10	Kyustendil	Kyustendil	BG
+BG-11	Lovech	Lovech	BG
+BG-12	Montana	Montana	BG
+BG-13	Pazardzhik	Pazardzhik	BG
+BG-14	Pernik	Pernik	BG
+BG-15	Pleven	Pleven	BG
+BG-16	Plovdiv	Plovdiv	BG
+BG-17	Razgrad	Razgrad	BG
+BG-18	Ruse	Ruse	BG
+BG-19	Silistra	Silistra	BG
+BG-20	Sliven	Sliven	BG
+BG-21	Smolyan	Smolyan	BG
+BG-22	Sofía	Sofia	BG
+BG-23	Sofía	Sofia	BG
+BG-24	Stara Zagora	Stara Zagora	BG
+BG-25	Targovishte	Targovishte	BG
+BG-26	Haskovo	Haskovo	BG
+BG-27	Shumen	Shumen	BG
+BG-28	Yambol	Yambol	BG
+BH-13	Capital De Gobernación	Capital Governorate	BH
+BH-14	Sur	South	BH
+BH-15	Muharraq	Muharraq	BH
+BH-17	Norte	North	BH
+BI-BB	Bubanza	Bubanza	BI
+BI-BL	Bujumbura Rural	Bujumbura Rural	BI
+BI-BM	Bujumbura Mairie	Bujumbura Mairie	BI
+BI-BR	Bururi	Bururi	BI
+BI-CA	Cankuzo	Cankuzo	BI
+BI-CI	Cibitoke	Cibitoke	BI
+BI-GI	Gitega	Gitega	BI
+BI-KI	Kirundo	Kirundo	BI
+BI-KR	Karuzi	Karuzi	BI
+BI-KY	Kayanza	Kayanza	BI
+BI-MA	Makamba	Makamba	BI
+BI-MU	Muramvya	Muramvya	BI
+BI-MW	Mwaro	Mwaro	BI
+BI-MY	Muyinga	Muyinga	BI
+BI-NG	Ngozi	Ngozi	BI
+BI-RT	Rutana	Rutana	BI
+BI-RY	Ruyigi	Ruyigi	BI
+BJ-AK	Atakora	Atakora	BJ
+BJ-AL	Alibori	Alibori	BJ
+BJ-AQ	Atlántico	Atlantic	BJ
+BJ-BO	Borgou	Borgou	BJ
+BJ-CO	Departamento Colinas	Hills Department	BJ
+BJ-DO	Donga	Donga	BJ
+BJ-KO	Kouffo	Kouffo	BJ
+BJ-LI	Departamento Litoral	Littoral Department	BJ
+BJ-MO	Departamento Mono	Mono Department	BJ
+BJ-OU	Ouémé	Ouémé	BJ
+BJ-PL	Bandeja	Tray	BJ
+BJ-ZO	Zou	Zou	BJ
+BL-01	Bajo El Viento	Downwind	BL
+BL-02	El Viento Se Llevó	The Wind	BL
+BM-01	Devonshire Parish	Devonshire Parish	BM
+BM-02	Hamilton Parish	Hamilton Parish	BM
+BM-03	Hamilton	Hamilton	BM
+BM-04	Paget Parish	Paget Parish	BM
+BM-05	Pembroke Parish	Pembroke Parish	BM
+BM-06	Ciudad De St. George	Town Of St. George	BM
+BM-07	Parroquia De San Jorge	St. George'S Parish	BM
+BM-08	Sandys Parish	Sandys Parish	BM
+BM-09	Parroquia De Smith	Smith'S Parish	BM
+BM-10	Southampton Parish	Southampton Parish	BM
+BM-11	Parroquia De Warwick	Warwick Parish	BM
+BN-BE	Belait	Belait	BN
+BN-BM	Brunei Muara	Brunei Muara	BN
+BN-TE	Temburong	Temburong	BN
+BN-TU	Tutong	Tutong	BN
+BO-B	Beni	Beni	BO
+BO-C	Cochabamba	Cochabamba	BO
+BO-H	Chuquisaca	Chuquisaca	BO
+BO-L	La Paz	La Paz	BO
+BO-N	Pando	Pando	BO
+BO-O	Oruro	Oruro	BO
+BO-P	Potosí	Potosí	BO
+BO-S	Santa Cruz	Santa Cruz	BO
+BO-T	Tarija	Tarija	BO
+BR-AC	Acre	Acre	BR
+BR-AL	Alagoas	Alagoas	BR
+BR-AM	Amazonas	Amazon	BR
+BR-AP	Amapá	Amapá	BR
+BR-BA	Bahía	Bahia	BR
+BR-CE	Ceará	Ceará	BR
+BR-DF	Distrito Federal	Distrito Federal	BR
+BR-ES	Espíritu Santo	Holy Spirit	BR
+BR-GO	Goiás	Goiás	BR
+BR-MA	Maranhão	Maranhão	BR
+BR-MG	Minas Gerais	Minas Gerais	BR
+BR-MS	Mato Grosso Del Sur	Mato Grosso Do Sul	BR
+BR-MT	Mato Grosso	Mato Grosso	BR
+BR-PA	Pará	For	BR
+BR-PB	Paraíba	Paraíba	BR
+BR-PE	Pernambuco	Pernambuco	BR
+BR-PI	Piauí	Piauí	BR
+BR-PR	Paraná	Paraná	BR
+BR-RJ	Rio De Janeiro	Rio De Janeiro	BR
+BR-RN	Río Grande Del Norte	Large Northern River	BR
+BR-RO	Rondônia	Rondônia	BR
+BR-RR	Roraima	Roraima	BR
+BR-RS	Río Grande Del Sur	Rio Grande Do Sul	BR
+BR-SC	Santa Catarina	Santa Catarina	BR
+BR-SE	Sergipe	Sergipe	BR
+BR-SP	San Pablo	Sao Paulo	BR
+BR-TO	Tocantins	Tocantins	BR
+BS-01	Acklins	Acklins Island	BS
+BS-02	Bimini	Bimini	BS
+BS-03	Cat Island	Cat Island	BS
+BS-04	Exuma	Exuma	BS
+BS-05	Puerto Libre	Freeport	BS
+BS-06	Fresh Creek	Fresh Creek	BS
+BS-07	Puerto Del Gobernador	Governor'S Harbour	BS
+BS-08	Green Turtle Cay	Green Turtle Cay	BS
+BS-09	Harbour Island	Harbour Island	BS
+BS-10	High Rock	High Rock	BS
+BS-11	Inagua	Inagua	BS
+BS-12	Kemps Bay	Kemps Bay	BS
+BS-13	Isla Grande	Long Island	BS
+BS-14	Marsh Harbour	Marsh Harbour	BS
+BS-15	Mayaguana	Mayaguana	BS
+BS-16	Nueva Providencia	New Providence	BS
+BS-17	Nichollstown Y Berry Islands	Nichollstown And Berry Islands	BS
+BS-18	Isla Desigual	Ragged Island	BS
+BS-19	Rock Sound	Rock Sound	BS
+BS-20	San Salvador Y Rum Cay	San Salvador And Rum Cay	BS
+BS-21	Sandy Point	Sandy Point	BS
+BS-22	Berry Islands	Berry Islands	BS
+BS-23	Punto Negro	Black Point	BS
+BS-24	Central Abaco	Central Abaco	BS
+BS-28	Crooked Island Y Long Cay	Crooked Island And Long Cay	BS
+BS-29	East Grand Bahama	East Grand Bahama	BS
+BS-33	North Eleuthera	North Eleuthera	BS
+BS-35	Sur Abaco	South Abaco	BS
+BS-36	South Andros	South Andros	BS
+BS-37	Eleuthera Sur	South Eleuthera	BS
+BS-39	West Grand Bahama	West Grand Bahama	BS
+BS-40	Isla De Moore	Moore’S Island	BS
+BS-41	Andros Del Norte	North Andros	BS
+BS-42	Abaco Norte	North Abaco	BS
+BT-11	Paro	Paro	BT
+BT-12	Chhukha	Chhukha	BT
+BT-13	Haa	Haa	BT
+BT-14	Samtse	Samtse	BT
+BT-15	Thimphu	Thimphu	BT
+BT-21	Tsirang	Tsirang	BT
+BT-22	Dagana	Dagana	BT
+BT-23	Punakha	Punakha	BT
+BT-24	Wangdue	Wangdue Phodrang	BT
+BT-31	Sarpang	Sarpang	BT
+BT-32	Trongsa	Trongsa	BT
+BT-33	Bumthang	Bumthang	BT
+BT-34	Zhemgang	Zhemgang	BT
+BT-41	Trashigang	Trashigang	BT
+BT-42	Mongar	Mongar	BT
+BT-43	Pemagatshel	Pemagatshel	BT
+BT-44	Lhuntse	Lhuntse	BT
+BT-45	Samdrup Jongkhar	Samdrup Jongkhar	BT
+BT-GA	Gasa	Gasa	BT
+BT-TY	Trashiyangtse	Trashiyangtse	BT
+BV-BV	Isla Bouvet	Bouvet Island	BV
+BW-CE	Central	Central	BW
+BW-GH	Ghanzi	Ghanzi	BW
+BW-KG	Kgalagadi	Kgalagadi	BW
+BW-KL	Kgatleng	Kgatleng	BW
+BW-KW	Kweneng	Kweneng	BW
+BW-NE	Noreste	North East	BW
+BW-NW	Noroeste	North West	BW
+BW-SE	Sureste	South East	BW
+BW-SO	Del Sur	Southern	BW
+BY-BR	Región De Brest	Brest Region	BY
+BY-HM	Minsk	Minsk	BY
+BY-HO	Región De Gomel	Gomel Region	BY
+BY-HR	La Región De Grodno	Grodno Region	BY
+BY-MA	Región De Mogilev	Mogilev Region	BY
+BY-MI	La Región De Minsk	Minsk Oblast	BY
+BY-VI	Región De Vitebsk	Vitebsk Region	BY
+BZ-BZ	Distrito De Belice	Belize District	BZ
+BZ-CY	Distrito De Cayo	Cayo District	BZ
+BZ-CZL	Distrito De Corozal	Corozal District	BZ
+BZ-OW	Distrito De Orange Walk	Orange Walk District	BZ
+BZ-SC	Distrito De Stann Creek	Stann Creek District	BZ
+BZ-TOL	Distrito De Toledo	Toledo District	BZ
+CA-AB	Alberta	Alberta	CA
+CA-BC	Colombia Británica	British Columbia	CA
+CA-MB	Manitoba	Manitoba	CA
+CA-NB	Nuevo Brunswick	New Brunswick	CA
+CA-NL	Newfoundland Y Labrador	Newfoundland And Labrador	CA
+CA-NS	Nueva Escocia	Nova Scotia	CA
+CA-NT	Territorios Del Noroeste	Northwest Territories	CA
+CA-NU	Nunavut	Nunavut	CA
+CA-ON	Ontario	Ontario	CA
+CA-PE	Isla Del Príncipe Eduardo	Prince Edward Island	CA
+CA-QC	Quebec	Quebec	CA
+CA-SK	Saskatchewan	Saskatchewan	CA
+CA-YT	Yukón	Yukon	CA
+CC-DI	Dirección Isla	Direction Island	CC
+CC-HM	Hogar De La Isla	Home Island	CC
+CC-HR	Isla Horsburgh	Horsburgh Island	CC
+CC-NK	Keeling Isla Norte	North Keeling Island	CC
+CC-SI	Isla Del Sur	South Island	CC
+CC-WI	West Island	West Island	CC
+CD-BC	Bajo Congo	Lower Congo	CD
+CD-BN	Bandundu	Bandundu	CD
+CD-EQ	Ecuador	Ecuador	CD
+CD-KA	Katanga	Katanga	CD
+CD-KE	Kasai Occidental	Kasai Occidental	CD
+CD-KN	Kinshasa	Kinshasa	CD
+CD-KW	Kasai Oriental	Kasai Oriental	CD
+CD-MA	Maniema	Maniema	CD
+CD-NK	Kivu Del Norte	North Kivu	CD
+CD-OR	Oriental	Eastern	CD
+CD-SK	Kivu Del Sur	South Kivu	CD
+CF-10	Nana Grebizi	Nana Grebizi	CF
+CF-AC	Ouham	Ouham	CF
+CF-BB	Bamingui-Bangoran	Bamingui-Bangoran	CF
+CF-BGF	Bangui	Bangui	CF
+CF-BK	Menor Kotto	Lower Kotto	CF
+CF-HK	Haute-Kotto	Haute-Kotto	CF
+CF-HM	Haut-Mbomou	Haut-Mbomou	CF
+CF-HS	Mambéré-Kadéï	Mambéré-Kadéï	CF
+CF-KG	Kemo	Kemo	CF
+CF-LB	Lobaye	Lobaye	CF
+CF-MB	Mbomou	Mbomou	CF
+CF-MP	Ombella-M'Poko	Ombella-M'Poko	CF
+CF-NM	Nana-Mambéré	Nana-Mambéré	CF
+CF-OP	Ouham Pendé	Ouham Péndé	CF
+CF-SE	Sangha- Mbaéré	Sangha-Mbaéré	CF
+CF-UK	Ouaka	Ouaka	CF
+CF-VK	Vakaga	Vakaga	CF
+CG-11	Bouenza	Bouenza	CG
+CG-12	Piscina	Pool	CG
+CG-13	Sangha	Sangha	CG
+CG-14	Tierras Altas	Uplands	CG
+CG-15	Cubeta-Ouest	Cuvette-Ouest	CG
+CG-16	Pointe-Noire	Black Point	CG
+CG-2	Lékoumou	Lékoumou	CG
+CG-5	Kouilou	Kouilou	CG
+CG-7	Likuala	Likouala	CG
+CG-8	Bowl	Bowl	CG
+CG-9	Niari	Niari	CG
+CG-BZV	Brazzaville	Brazzaville	CG
+CH-AG	Argovia	Aargau	CH
+CH-AI	Appenzell Innerhoden	Appenzell Innerhoden	CH
+CH-AR	Appenzell Rodas Exteriores	Appenzell Outer Rhodes	CH
+CH-BE	Berna	Bern	CH
+CH-BL	Basilea-País	Basel-Country	CH
+CH-BS	Basilea-Ciudad	Basel-Stadt	CH
+CH-FR	Friburgo	Friborg	CH
+CH-GE	Ginebra	Geneva	CH
+CH-GL	Glarus	Glarus	CH
+CH-GR	Grisons	Grisons	CH
+CH-JU	Montañas Del Jura	Jura Mountains	CH
+CH-LU	Lucerna	Lucerne	CH
+CH-NE	Neuchatel	Neuchâtel	CH
+CH-NW	Nidwalden	Nidwalden	CH
+CH-OW	Obwalden	Obwalden	CH
+CH-SG	Sankt Gallen	Sankt Gallen	CH
+CH-SH	Schaffhausen	Schaffhausen	CH
+CH-SO	Solothurn	Solothurn	CH
+CH-SZ	Schwyz	Schwyz	CH
+CH-TG	Thurgau	Thurgau	CH
+CH-TI	Ticino	Ticino	CH
+CH-UR	Uri	Uri	CH
+CH-VD	Vaud	Vaud	CH
+CH-VS	Valais	Valais	CH
+CH-ZG	Zug	Zug	CH
+CH-ZH	Zúrich	Zurich	CH
+CI-01	Lagunes	Lagunes	CI
+CI-02	Haut-Sassandra	Haut-Sassandra	CI
+CI-03	Savanes	Savanes	CI
+CI-04	Vallée Du Bandama	Vallée Du Bandama	CI
+CI-05	Comoé Medio	Middle Comoé	CI
+CI-06	Dix-Huit Montagnes	Dix-Huit Montagnes	CI
+CI-07	Lacs	Lacs	CI
+CI-08	Zanzan	Zanzan	CI
+CI-09	Bas-Sassandra	Bas-Sassandra	CI
+CI-10	Denguele	Denguélé	CI
+CI-11	N'Zi-Comoé	N'Zi-Comoé	CI
+CI-12	Marahoué	Marahoué	CI
+CI-13	Sur Comoé	South Comoé	CI
+CI-14	Worodougou	Worodougou	CI
+CI-15	Sud-Bandama	Sud-Bandama	CI
+CI-16	Agnéby	Agnéby	CI
+CI-17	Bafing	Bafing	CI
+CI-18	Fromager	Fromager	CI
+CI-19	Moyen-Cavally	Moyen-Cavally	CI
+CK-0	Aitutaki	Aitutaki	CK
+CK-1	Atiu	Atiu	CK
+CK-10	Pukapuka	Pukapuka	CK
+CK-11	Rakahanga	Rakahanga	CK
+CK-2	Avarua	Avarua	CK
+CK-3	Mangaia	Mangaia	CK
+CK-4	Manihiki	Manihiki	CK
+CK-5	Ma'Uke	Ma'Uke	CK
+CK-6	Mitiaro	Mitiaro	CK
+CK-7	Nassau	Nassau	CK
+CK-8	Palmerston	Palmerston	CK
+CK-9	Penrhyn	Penrhyn	CK
+CL-11	Marga-Marga	Marl-Marl	CL
+CL-AI	Aisén Del General Carlos Ibáñez Del Campo	Aisen Of General Carlos Ibáñez Of The Field	CL
+CL-AN	Antofagasta	Antofagasta	CL
+CL-AP	Arica Y Parinacota	Arica Y Parinacota	CL
+CL-AR	Araucanía	Araucanía	CL
+CL-AT	Atacama	Atacama	CL
+CL-BI	Bío-Bío	Bio-Bio	CL
+CL-CO	Coquimbo	Coquimbo	CL
+CL-LI	Libertador General Bernardo O'Higgins	Libertador General Bernardo O'Higgins	CL
+CL-LL	Los Lagos	The Lakes	CL
+CL-LR	Los Ríos	The Rivers	CL
+CL-MA	Magallanes Y Antartica Chilena	Magallanes And	CL
+CL-ML	Maule	Maule	CL
+CL-NB	Ñuble	Ñuble	CL
+CL-RM	Región Metropolitana De Santiago	Santiago Metropolitan Region	CL
+CL-TA	Tarapacá	Tarapaca	CL
+CL-VS	Valparaíso	Valparaiso	CL
+CM-AD	Adamawa	Adamawa	CM
+CM-CE	Centro	Center	CM
+CM-EN	Extremo Norte	Far North	CM
+CM-ES	Oriente	East	CM
+CM-LT	Orilla	Littoral	CM
+CM-NO	Norte	North	CM
+CM-NW	Noroeste	North West	CM
+CM-OU	Oeste	Where Is	CM
+CM-SU	Sur	South	CM
+CM-SW	Sudoeste	South West	CM
+CN-AH	Anhui	Anhui	CN
+CN-BJ	Pekín	Beijing	CN
+CN-CQ	La Ciudad De Chongqing	Chongqing	CN
+CN-FJ	Provincia De Fujian	Fujian Province	CN
+CN-GD	Guangdong	Guangdong	CN
+CN-GS	Provincia De Gansu	Gansu Province	CN
+CN-GX	Guangxi Zhuang	Guangxi Zhuang	CN
+CN-GZ	Guizhou	Guizhou	CN
+CN-HA	Shanghai	Henan	CN
+CN-HB	Hubei	Hubei Province	CN
+CN-HE	Hebei	Hebei	CN
+CN-HI	Hainan	Hainan	CN
+CN-HK	Rae De Hong Kong	Hong Kong Sar	CN
+CN-HL	Heilongjiang	Heilongjiang	CN
+CN-HN	Hunan	Hunan	CN
+CN-JL	Jilin	Jilin	CN
+CN-JS	Provincia De Jiangsu	Jiangsu Province	CN
+CN-JX	Provincia De Jiangxi	Jiangxi Province	CN
+CN-LN	Provincia De Liaoning	Liaoning Province	CN
+CN-MO	Macao, Región Administrativa Especial	Macao Special Administrative Region	CN
+CN-NM	Mongolia Interior	Inner Mongolia	CN
+CN-NX	Ningxia Hui	Ningxia Hui	CN
+CN-QH	Qinghai	Qinghai	CN
+CN-SC	La Provincia De Sichuan	Sichuan Province	CN
+CN-SD	Shandong	Shandong	CN
+CN-SH	Shanghai	Shanghai	CN
+CN-SN	La Provincia De Shanxi	Shanxi Province	CN
+CN-SX	Shanxi	Shanxi	CN
+CN-TJ	Tianjin	Tianjin	CN
+CN-TW	Taiwán	Taiwan	CN
+CN-XJ	Xinjiang Uygur	Xinjiang Uygur	CN
+CN-XZ	Tíbet	Tibet	CN
+CN-YN	Yunnan	Yunnan	CN
+CN-ZJ	Zhejiang	Zhejiang	CN
+CO-AMA	Amazonas	Amazon	CO
+CO-ANT	Antioquia	Antioquia	CO
+CO-ARA	Arauca	Arauca	CO
+CO-ATL	Atlántico	Atlántico	CO
+CO-BOL	Bolívar	Bolivar	CO
+CO-BOY	Boyacá	Boyacá	CO
+CO-CAL	Caldas	Caldas	CO
+CO-CAQ	Caquetá	Caqueta	CO
+CO-CAS	Casanare	Casanare	CO
+CO-CAU	Cauca	Cauca	CO
+CO-CES	Cesar	Cesar	CO
+CO-CHO	Chocó	Chocó	CO
+CO-COR	Córdoba	Cordova	CO
+CO-CUN	Cundinamarca	Cundinamarca	CO
+CO-DC	Bogotá	Bogotá	CO
+CO-GUA	Guainía	Guainía	CO
+CO-GUV	Guaviare	Guaviare	CO
+CO-HUI	Huila	Huila	CO
+CO-LAG	La Guajira	La Guajira	CO
+CO-MAG	Magdalena	Magdalena	CO
+CO-MET	Meta	Meta	CO
+CO-NAR	Nariño	Nariño	CO
+CO-NSA	Norte De Santander	North Of Santander	CO
+CO-PUT	Putumayo	Putumayo	CO
+CO-QUI	Quindío	Quindio	CO
+CO-RIS	Risaralda	Risaralda	CO
+CO-SAN	Santander	Santander	CO
+CO-SAP	Archipiélago De San Andrés	San Andrés Archipelago	CO
+CO-SUC	Sucre	Sucre	CO
+CO-TOL	Tolima	Tolima	CO
+CO-VAC	Valle Del Cauca	Cauca'S Valley	CO
+CO-VAU	Vaupés	Vaupes	CO
+CO-VID	Vichada	Vichada	CO
+CR-1	San José	Saint Joseph	CR
+CR-2	Alajuela	Alajuela	CR
+CR-3	Cartago	Cartago	CR
+CR-4	Heredia	Heredia	CR
+CR-5	Guanacaste	Guanacaste	CR
+CR-6	Puntarenas	Puntarenas	CR
+CR-7	Limón	Lemon	CR
+CU-01	Pinar Del Río	Pinar Del Río	CU
+CU-03	La Habana	Havana	CU
+CU-04	Matanzas	Matanzas	CU
+CU-05	Villa Clara	Villa Clara	CU
+CU-06	Cienfuegos	Cienfuegos	CU
+CU-07	Sancti Spíritus	Sancti Spiritus	CU
+CU-08	Ciego De Ávila	Ciego De Avila	CU
+CU-09	Camagüey	Camagüey	CU
+CU-10	Las Tunas	Las Tunas	CU
+CU-11	Holguín	Holguin	CU
+CU-12	Granma	Granma	CU
+CU-13	Santiago De Cuba	Santiago De Cuba	CU
+CU-14	Guantánamo	Guantánamo	CU
+CU-15	Artemisa	Sagebrush	CU
+CU-16	Mayabeque	Mayabeque	CU
+CU-99	Isla De La Juventud	Isla De La Juventud	CU
+CV-BR	Brava	Brava	CV
+CV-BV	Boa Vista	Boa Vista	CV
+CV-CA	Santa Catarina	Santa Catarina	CV
+CV-CR	Santa Cruz	Holy Cross	CV
+CV-CS	Calheta De San Miguel	Calheta De São Miguel	CV
+CV-MA	Maio	Maio	CV
+CV-MO	Mosteiros	Mosteiros	CV
+CV-PA	Paúl	Paúl	CV
+CV-PN	Porto Novo	Porto Novo	CV
+CV-PR	Praia	Praia	CV
+CV-RB	Ribeira Brava	Ribeira Brava	CV
+CV-RG	Ribeira Grande	Ribeira Grande	CV
+CV-SD	Sao Domingos	Saint Domingos	CV
+CV-SF	São Filipe	São Filipe	CV
+CV-SL	Sal	Sal	CV
+CV-SN	São Nicolau	São Nicolau	CV
+CV-SV	São Vicente	São Vicente	CV
+CV-TA	Tarrafal	Tarrafal	CV
+CV-TS	Tarrafal De São Nicolau	Tarrafal De São Nicolau	CV
+CW-CW	Curacao	Curacao	CW
+CX-CX	Isla De Navidad	Christmas Island	CX
+CY-01	Nicosia	Nicosia	CY
+CY-02	Limassol	Limassol	CY
+CY-03	Larnaca	Larnaca	CY
+CY-04	Famagusta	Famagusta	CY
+CY-05	Paphos	Paphos	CY
+CY-06	Keryveia	Keryveia	CY
+CZ-10	Praga	Prague	CZ
+CZ-20	Región Centro	Central Bohemian Region	CZ
+CZ-31	Región De Bohemia Del Sur	South Bohemian Region	CZ
+CZ-32	Región De Pilsen	Pilsen Region	CZ
+CZ-41	Carlsbad	Karlovy Vary Region	CZ
+CZ-42	Usti Región	Usti Region	CZ
+CZ-51	Región De Liberec	Liberec Region	CZ
+CZ-52	Región De Hradec Králové	Hradec Kralove Region	CZ
+CZ-53	Región De Pardubice	Pardubice Region	CZ
+CZ-63	Vysocina Región	Highlands Region	CZ
+CZ-64	Región Sur De Moravia	South-Moravian Region	CZ
+CZ-71	Región De Olomouc	Olomouc Region	CZ
+CZ-72	Región De Zlin	Zlín Region	CZ
+CZ-80	Moravia-Silesia	Moravian-Silesian Region	CZ
+DE-BB	Brandenburgo	Brandenburg	DE
+DE-BE	Berlín	Berlin	DE
+DE-BW	Baden-Wurttemberg	Baden-Wurttemberg	DE
+DE-BY	Baviera	Bavaria	DE
+DE-HB	Bremen	Bremen	DE
+DE-HE	Hesse	Hesse	DE
+DE-HH	Hamburgo	Hamburg	DE
+DE-MV	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	DE
+DE-NI	Baja Sajonia	Lower Saxony	DE
+DE-NW	Renania Del Norte-Westfalia	North Rhine-Westphalia	DE
+DE-RP	Rheinland-Pfalz	Rheinland-Pfalz	DE
+DE-SH	Schleswig-Holstein	Schleswig-Holstein	DE
+DE-SL	Sarre	Saarland	DE
+DE-SN	Sajonia	Saxony	DE
+DE-ST	Sajonia-Anhalt	Saxony-Anhalt	DE
+DE-TH	Turingia	Thuringia	DE
+DJ-AR	Arta	Arta	DJ
+DJ-AS	Ali Sabieh	Ali Sabieh	DJ
+DJ-DI	Dikhil	Dikhil	DJ
+DJ-OB	Obock	Obock	DJ
+DJ-TA	Tadjourah	Tadjourah	DJ
+DK-81	Jutlandia Del Norte	North Jutland	DK
+DK-82	Midtjylland	Midtjylland	DK
+DK-83	Syddanmark	Syddanmark	DK
+DK-84	Copenhague	Copenhagen	DK
+DK-85	Zelandia	Zealand	DK
+DK-FO-01	Islas Del Norte	Northern Isles	DK
+DK-FO-02	Sando	Sando	DK
+DK-FO-03	Streamsey	Streamsey	DK
+DK-FO-04	Sudero	Suderø	DK
+DK-FO-05	Vagar	Vagar	DK
+DK-FO-06	Østerø	Østerø	DK
+DK-GL-KU	Kujalleq	Kujalleq	DK
+DK-GL-QA	Qaasuitsup	Qaasuitsup	DK
+DK-GL-QE	Qeqqata	Qeqqata	DK
+DK-GL-SM	Sermersooq	Sermersooq	DK
+DM-02	Parroquia De Saint Andrew	Saint Andrew Parish	DM
+DM-03	Parroquia De Saint David	Saint David Parish	DM
+DM-04	Parroquia De Saint George	Saint George Parish	DM
+DM-05	Parroquia De Saint John	Saint John Parish	DM
+DM-06	Parroquia San José	Saint Joseph Parish	DM
+DM-07	Parroquia San Lucas	Saint Luke Parish	DM
+DM-08	Parroquia San Marcos	Saint Mark Parish	DM
+DM-09	Parroquia San Patricia	Saint Patrick Parish	DM
+DM-10	Parroquia De Saint Paul	Saint Paul Parish	DM
+DM-11	Parroquia San Pedro	Saint Peter Parish	DM
+DO-01	Distrito Nacional	National District	DO
+DO-02	Cibao Central	Cibao Central	DO
+DO-04	Norcentral	North Central	DO
+DO-34	Nordeste	Northeast	DO
+DO-35	Norte	North	DO
+DO-37	Del Valle	From The Valley	DO
+DO-38	Enriquillo	Enriquillo	DO
+DO-42	Valdesia	Valdesia	DO
+DZ-01	Adrar	Adrar	DZ
+DZ-02	Chlef	Chlef	DZ
+DZ-03	Laghouat	Laghouat	DZ
+DZ-04	Oum El Bouaghi	Oum El Bouaghi	DZ
+DZ-05	Batna	Batna	DZ
+DZ-06	Bejaia	Bejaia	DZ
+DZ-07	Biskra	Biskra	DZ
+DZ-08	Bashar	Bashar	DZ
+DZ-09	Blida	Blida	DZ
+DZ-10	Bouira	Bouira	DZ
+DZ-11	Tamanrasset	Tamanrasset	DZ
+DZ-12	Tebessa	Tebessa	DZ
+DZ-13	Tlemcen	Tlemcen	DZ
+DZ-14	Tiaret	Tiaret	DZ
+DZ-15	Tizi Ouzou	Tizi Ouzou	DZ
+DZ-16	Argelia	Algeria	DZ
+DZ-17	Djelfa	Djelfa	DZ
+DZ-18	Jijel	Jijel	DZ
+DZ-19	Sétif	Sétif	DZ
+DZ-20	Saïda	Saïda	DZ
+DZ-21	Skikda	Skikda	DZ
+DZ-22	Sidi Bel Abbes	Sidi Bel Abbes	DZ
+DZ-23	Annaba	Annaba	DZ
+DZ-24	Guelma	Guelma	DZ
+DZ-25	Constantino	Constantine	DZ
+DZ-26	Medea	Medea	DZ
+DZ-27	Mostaganem	Mostaganem	DZ
+DZ-28	M'Sila	M'Sila	DZ
+DZ-29	Mascara	Mascara	DZ
+DZ-30	Ouargla	Ouargla	DZ
+DZ-31	Oran	Oran	DZ
+DZ-32	El Bayadh	El Bayadh	DZ
+DZ-33	Elezi	Elezi	DZ
+DZ-34	Bordj Bou Arréridj	Bordj Bou Arréridj	DZ
+DZ-35	Boumerdes	Boumerdes	DZ
+DZ-36	Taref	Taref	DZ
+DZ-37	Tinduf	Tindouf	DZ
+DZ-38	Tsmcilt	Tsmcilt	DZ
+DZ-39	El Oued	El Oued	DZ
+DZ-40	Khenchela	Khenchela	DZ
+DZ-41	Souk Ahras	Souk Ahras	DZ
+DZ-42	Tipaza	Tipaza	DZ
+DZ-43	Mila	Mila	DZ
+DZ-44	Ain Defla	Ain Defla	DZ
+DZ-45	Naama	Naama	DZ
+DZ-46	Ain Temouchent	Ain Temouchent	DZ
+DZ-47	Ghardaia	Ghardaia	DZ
+DZ-48	Relizane	Relizane	DZ
+EC-A	Azuay	Azuay	EC
+EC-B	Bolívar	Bolivar	EC
+EC-C	Carchi	Carchi	EC
+EC-D	Orellana	Orellana	EC
+EC-E	Esmeraldas	Emeralds	EC
+EC-F	Cañar	Cañar	EC
+EC-G	Guayas	Guayas	EC
+EC-H	Chimborazo	Chimborazo	EC
+EC-I	Imbabura	Imbabura	EC
+EC-L	Loja	Loja	EC
+EC-M	Manabí	Manabi	EC
+EC-N	Napo	I Napo	EC
+EC-O	El Oro	Gold	EC
+EC-P	Pichincha	Pichincha	EC
+EC-R	Los Ríos	The Rivers	EC
+EC-S	Morona-Santiago	Morona-Santiago	EC
+EC-SD	Santo Domingo De Los Tsáchilas	Santo Domingo De Los Tsáchilas	EC
+EC-SE	Santa Elena	St. Helen	EC
+EC-T	Tungurahua	Tungurahua	EC
+EC-U	Sucumbíos	Sucumbíos	EC
+EC-W	Galápagos	Galapagos	EC
+EC-X	Cotopaxi	Cotopaxi	EC
+EC-Y	Pastaza	Pastaza	EC
+EC-Z	Zamora-Chinchipe	Zamora-Chinchipe	EC
+EE-37	Harju	Harju	EE
+EE-39	Hiiumaa	Hiiumaa	EE
+EE-44	Condado De Ida-Viru	Ida-Viru County	EE
+EE-49	Jõgevamaa	Jõgevamaa	EE
+EE-51	Järvamaa	Järvamaa	EE
+EE-57	Läänemaa	Läänemaa	EE
+EE-59	Condado De West-Viru	West-Viru County	EE
+EE-65	Põlvamaa	Põlvamaa	EE
+EE-67	Pärnumaa	Pärnumaa	EE
+EE-70	Raplamaa	Raplamaa	EE
+EE-74	Saaremaa	Saaremaa	EE
+EE-78	Tartumaa	Tartumaa	EE
+EE-82	Valga	Valga	EE
+EE-84	Viljandi	Viljandi	EE
+EE-86	Võrumaa	Võrumaa	EE
+EG-ALX	Alejandría	Alexandria	EG
+EG-ASN	Asuán	Aswan	EG
+EG-AST	Assiut	Asyut	EG
+EG-BA	Mar Rojo	The Red Sea	EG
+EG-BH	Al BuḩAyrah	Al BuḩAyrah	EG
+EG-BNS	Beni Suef	Bani Sweif	EG
+EG-C	El Cairo	Cairo	EG
+EG-DK	Dakahlia	Dakahlia	EG
+EG-DT	Damietta	Damietta	EG
+EG-FYM	Fayoum	Fayoum	EG
+EG-GH	Occidental	Western	EG
+EG-GZ	Giza	Giza	EG
+EG-IS	Ismailia	Ismailia	EG
+EG-JS	Sinaí Del Sur	South Of Sinaa	EG
+EG-KB	Qaliubiya	Qaliubiya	EG
+EG-KFS	Kafr El Sheikh	Kafr El Sheikh	EG
+EG-KN	Qena	Qena	EG
+EG-LX	Luxor	Luxor	EG
+EG-MN	Minya	Minya	EG
+EG-MNF	Monoufia	Monoufia	EG
+EG-MT	Matrouh	Matrouh	EG
+EG-PTS	Port Said	Port Said	EG
+EG-SHG	Sohag	Sohag	EG
+EG-SHR	Oriente	Eastern	EG
+EG-SIN	Sinaí Del Norte	North Sinai	EG
+EG-SUZ	Suez	Suez	EG
+EG-WAD	Valle Nuevo	The New Valley	EG
+ER-AN	Anspa Región	Anspa Region	ER
+ER-DK	Zona Sur Del Mar Rojo	South Red Sea Area	ER
+ER-DU	Región Sur	Southern Area	ER
+ER-GB	La Región De Gash Barka	The Gash Barka Region	ER
+ER-MA	Región Centro	Central Region	ER
+ER-SK	Zona Del Mar Rojo Al Norte	Red Sea Area North	ER
+ES-A	Alicante	Alicante	ES
+ES-AB	Albacete	Albacete	ES
+ES-AL	Almería	Almería	ES
+ES-AN	Andalucía	Andalusia	ES
+ES-AR	Aragón	Aragon	ES
+ES-AS	Asturias	Asturias	ES
+ES-AV	Ávila	Ávila	ES
+ES-B	Barcelona	Barcelona	ES
+ES-BA	Badajoz	Badajoz	ES
+ES-BI	Bizkaia	Bizkaia	ES
+ES-BU	Burgos	Burgos	ES
+ES-C	A Coruña	A Coruña	ES
+ES-CA	Cádiz	Cádiz	ES
+ES-CB	Cantabria	Cantabria	ES
+ES-CC	Cáceres	Cáceres	ES
+ES-CL	León	Lion	ES
+ES-CM	La Mancha	La Mancha	ES
+ES-CN	Islas Canarias	Canary Islands	ES
+ES-CO	Córdoba	Cordova	ES
+ES-CR	Ciudad Real	Ciudad Real	ES
+ES-CS	Castellón	Castellón	ES
+ES-CT	Cataluña	Catalonia	ES
+ES-CU	Cuenca	Basin	ES
+ES-EX	Extremadura	Estremadura	ES
+ES-GA	Galicia	Galicia	ES
+ES-GC	Las Palmas	Las Palmas	ES
+ES-GI	Girona	Girona	ES
+ES-GR	Granada	Pomegranate	ES
+ES-GU	Guadalajara	Guadalajara	ES
+ES-H	Huelva	Huelva	ES
+ES-HU	Huesca	Huesca	ES
+ES-IB	Islas Baleares	Balearic Islands	ES
+ES-J	Jaén	Jaén	ES
+ES-L	Lleida	Lleida	ES
+ES-LE	León	Lion	ES
+ES-LO	La Rioja	The Rioja	ES
+ES-LU	Lugo	Lugo	ES
+ES-M	Madrid	Madrid	ES
+ES-MA	Málaga	Malaga	ES
+ES-MC	Murcia	Murcia	ES
+ES-MD	Madrid	Madrid	ES
+ES-ML	Melilla	Melilla	ES
+ES-MU	Murcia	Murcia	ES
+ES-NA	Navarre	Navarre	ES
+ES-NC	Navarra	Navarre	ES
+ES-O	Asturias	Asturias	ES
+ES-OR	Ourense	Ourense	ES
+ES-P	Palencia	Palencia	ES
+ES-PM	Illes Balears	Illes Balears	ES
+ES-PO	Pontevedra	Pontevedra	ES
+ES-PV	País Vasco	Basque Country	ES
+ES-RI	La Rioja	The Rioja	ES
+ES-S	Cantabria	Cantabria	ES
+ES-SA	Salamanca	Salamanca	ES
+ES-SE	Sevilla	Seville	ES
+ES-SG	Segovia	Segovia	ES
+ES-SO	Soria	Soria	ES
+ES-SS	Gipuzkoa	Gipuzkoa	ES
+ES-T	Tarragona	Tarragona	ES
+ES-TE	Teruel	Teruel	ES
+ES-TF	Santa Cruz De Tenerife	Santa Cruz Of Tenerife	ES
+ES-TO	Toledo	Toledo	ES
+ES-V	Valencia	Valencia	ES
+ES-VA	Valladolid	Valladolid	ES
+ES-VC	Valencia	Valencia	ES
+ES-VI	Araba/Álava	Araba / Álava	ES
+ES-Z	Zaragoza	Saragossa	ES
+ES-ZA	Zamora	Zamora	ES
+ET-AA	Addis Abeba	Addis Ababa	ET
+ET-AF	Lejos	Afar	ET
+ET-AM	Amhara	Amhara	ET
+ET-BE	Benshangul-Gumaz	Benshangul-Gumaz	ET
+ET-DD	Dire Dawa	Dire Dawa	ET
+ET-GA	Gambela	Gambela	ET
+ET-HA	Harari	Harari	ET
+ET-OR	Oromía	Oromia	ET
+ET-SN	Naciones Nacionalidades Sur Y Región De Personas	Southern Nations Nationalities And People'S Region	ET
+ET-SO	Somalí	Somali	ET
+ET-TI	Tigray	Tigray	ET
+FI-01	Åland	Åland	FI
+FI-02	Karelia del Sur	South Karelia	FI
+FI-03	Ostrobotnia del Sur	Southern Ostrobothnia	FI
+FI-04	Savonia del Sur	Southern Savonia	FI
+FI-05	Kainuu	Kainuu	FI
+FI-06	Tavastia Propia	Tavastia Proper	FI
+FI-07	Ostrobotnia Central	Central Ostrobothnia	FI
+FI-08	Finlandia Central	Central Finland	FI
+FI-09	Kymenlaakso	Kymenlaakso	FI
+FI-10	Laponia finlandesa	Lapland	FI
+FI-11	Pirkanmaa	Pirkanmaa	FI
+FI-12	Ostrobotnia	Ostrobothnia	FI
+FI-13	Karelia del Norte	North Karelia	FI
+FI-14	Ostrobotnia del Norte	Northern Ostrobothnia	FI
+FI-15	Savonia del Norte	Northern Savonia	FI
+FI-16	Päijänne Tavastia	Päijänne Tavastia	FI
+FI-17	Satakunta	Satakunta	FI
+FI-18	Uusimaa	Uusimaa	FI
+FI-19	Finlandia Propia	Finland Proper	FI
+FI-AL	Åland	Åland	FI
+FI-ES	Finlandia Meridional	Southern Finland	FI
+FI-IS	Finlandia Oriental	Eastern Finland	FI
+FI-LL	Laponia	Lapland	FI
+FI-LS	Finlandia Occidental	Western Finland	FI
+FI-OL	Provincia De Oulu	Oulu Province	FI
+FJ-01	Ba	Ba	FJ
+FJ-011	Ra	Ra	FJ
+FJ-02	Bua	Bua	FJ
+FJ-03	Cakaudrove	Cakaudrove	FJ
+FJ-04	Kadavu	Kadavu	FJ
+FJ-05	Lau	Lau	FJ
+FJ-06	Lomaiviti	Lomaiviti	FJ
+FJ-07	Macuata	Macuata	FJ
+FJ-08	Nadroga Y Navosa	Nadroga And Navosa	FJ
+FJ-09	Naitasiri	Naitasiri	FJ
+FJ-10	Namosi	Namosi	FJ
+FJ-12	Rewa	Rewa	FJ
+FJ-13	Serua	Serua	FJ
+FJ-14	Tailevu	Tailevu	FJ
+FJ-R	Rotuma	Rotuma	FJ
+FK-0	Islas Malvinas	Falkland Islands	FK
+FM-KSA	Kosrae	Kosrae	FM
+FM-PNI	Pohnpei	Pohnpei	FM
+FM-TRK	Chuuk	Chuuk	FM
+FM-YAP	Ladrar	Yap	FM
+FO-0	Bordoy	Bordoy	FO
+FO-1	Eysturoy	Eysturoy	FO
+FO-2	Mykines	Mykines	FO
+FO-3	Sandoy	Sandoy	FO
+FO-4	Skúvoy	Skúvoy	FO
+FO-5	Streymoy	Streymoy	FO
+FO-6	Suduroy	Suduroy	FO
+FO-7	Tvoroyri	Tvoroyri	FO
+FO-8	Vagar	Vagar	FO
+FR-ARA	Auvernia Ródano-Alpes	Auvergne-Rhône-Alpes	FR
+FR-BFC	Borgoña-Franco-Condado	Bourgogne-Franche-Comté	FR
+FR-BL	San Bartolomé	Saint Barthélemy	FR
+FR-BRE	Bretaña	Brittany	FR
+FR-COR	Córcega	Corsica	FR
+FR-CP	Clipperton	Clipperton	FR
+FR-CVL	Centro-Val De Loire	Center-Val De Loire	FR
+FR-GES	Great Eastern	Great Eastern	FR
+FR-GF	Guayana	Guyana	FR
+FR-GP	Guadalupe	Guadeloupe	FR
+FR-HDF	Hauts-De-France	Hauts-De-France	FR
+FR-IDF	Ile De France	Ile-De-France	FR
+FR-MF	San Martín	Saint-Martin	FR
+FR-MQ	Martinica	Martinique	FR
+FR-NAQ	Nueva Aquitania	New Aquitaine	FR
+FR-NC	Novelle Caledonia	Novelle Caledonia	FR
+FR-NOR	Normandía	Normandy	FR
+FR-OCC	Occitano	Occitan	FR
+FR-PAC	Provenza-Alpes-Costa Azul	Provence-Alpes-Côte D'Azur	FR
+FR-PDL	País Del Loira	Pays De La Loire	FR
+FR-PF	Polinesia	Polynesia	FR
+FR-PM	San Pedro Y Miquelón	Saint Pierre And Miquelon	FR
+FR-RE	Réunion	Réunion	FR
+FR-TF	Territorios Franceses Del Sur	French Southern Territories	FR
+FR-WF	Wallis Y Futuna	Wallis And Futuna	FR
+FR-YT	Mayotte	Mayotte	FR
+GA-1	Estuario	Estuary	GA
+GA-2	Haut-Ogooué	Haut-Ogooué	GA
+GA-3	Medio Ogooué	Middle Ogooué	GA
+GA-4	Ngounié	Ngounié	GA
+GA-5	Nyanga	Nyanga	GA
+GA-6	Ogooué-Ivindo	Ogooué-Ivindo	GA
+GA-7	Ogooué-Lolo	Ogooué-Lolo	GA
+GA-8	Ogooué-Maritime	Ogooué-Maritime	GA
+GA-9	Woleu-Ntem	Woleu-Ntem	GA
+GB-ABC	Armagh City, Banbridge Y Craigavon	Armagh City, Banbridge And Craigavon	GB
+GB-ABD	Aberdeenshire	Aberdeenshire	GB
+GB-ABE	Aberdeen City	Aberdeen City	GB
+GB-AGB	Argyll And Bute	Argyll And Bute	GB
+GB-AGY	Isla De Anglesey	Isle Of Anglesey	GB
+GB-AND	Sdra Y El Norte De Down	Ards And North Down	GB
+GB-ANN	Antrim Y Newtownabbey	Antrim And Newtownabbey	GB
+GB-ANS	Angus	Angus	GB
+GB-BAS	Bath Y North East Somerset	Bath And North East Somerset	GB
+GB-BBD	Blackburn Con Darwen	Blackburn With Darwen	GB
+GB-BDF	Bedford	Bedford	GB
+GB-BDG	Barking Y Dagenham	Barking And Dagenham	GB
+GB-BEN	Brent	Brent	GB
+GB-BEX	Bexley	Bexley	GB
+GB-BFS	Belfast	Belfast	GB
+GB-BGE	Bridgend	Bridgend	GB
+GB-BGW	Blaenau Gwent	Blaenau Gwent	GB
+GB-BIR	Birmingham	Birmingham	GB
+GB-BKM	Buckinghamshire	Buckinghamshire	GB
+GB-BMH	Bournemouth	Bournemouth	GB
+GB-BNE	Barnet	Barnet	GB
+GB-BNH	Brighton	Brighton And Hove	GB
+GB-BNS	Barnsley	Barnsley	GB
+GB-BOL	Bolton	Bolton	GB
+GB-BPL	Blackpool	Blackpool	GB
+GB-BRC	Bracknell Forest	Bracknell Forest	GB
+GB-BRD	Bradford	Bradford	GB
+GB-BRY	Bromley	Bromley	GB
+GB-BST	Bristol	Bristol	GB
+GB-BUR	Enterrar	Bury	GB
+GB-CAM	Cambridgeshire	Cambridgeshire	GB
+GB-CAY	Caerphilly	Caerphilly	GB
+GB-CBF	Central Bedfordshire	Central Bedfordshire	GB
+GB-CCG	Costa De Causeway Y Cañadas	Causeway Coast And Glens	GB
+GB-CGN	Ceredigion	Ceredigion	GB
+GB-CHE	Cheshire East	Cheshire East	GB
+GB-CHW	Cheshire West Y Chester	Cheshire West And Chester	GB
+GB-CLD	Calderdale	Calderdale	GB
+GB-CLK	Clackmannanshire	Clackmannanshire	GB
+GB-CMA	Cumbria	Cumbria	GB
+GB-CMD	Camden	Camden	GB
+GB-CMN	Carmarthenshire	Carmarthenshire	GB
+GB-CON	Cornualles	Cornwall	GB
+GB-COV	Coventry	Coventry	GB
+GB-CRF	Cardiff	Cardiff	GB
+GB-CRY	Croydon	Croydon	GB
+GB-CWY	Conwy	Conwy	GB
+GB-DAL	Darlington	Darlington	GB
+GB-DBY	Derbyshire	Derbyshire	GB
+GB-DEN	Denbighshire	Denbighshire	GB
+GB-DER	Derby	Derby	GB
+GB-DEV	Devon	Devon	GB
+GB-DGY	Dumfries And Galloway	Dumfries And Galloway	GB
+GB-DNC	Doncaster	Doncaster	GB
+GB-DND	Dundee City	Dundee City	GB
+GB-DOR	Dorset	Dorset	GB
+GB-DRS	Derry Y Strabane	Derry And Strabane	GB
+GB-DUD	Dudley	Dudley	GB
+GB-DUR	Condado De Durham	Durham County	GB
+GB-EAL	Ealing	Ealing	GB
+GB-EAY	East Ayrshire	East Ayrshire	GB
+GB-EDH	Edimburgo	Edinburgh	GB
+GB-EDU	East Dunbartonshire	East Dunbartonshire	GB
+GB-ELN	East Lothian	East Lothian	GB
+GB-ELS	Eilean Siar	Eilean Siar	GB
+GB-ENF	Enfield	Enfield	GB
+GB-ENG	England	Inglaterra	GB
+GB-ERW	East Renfrewshire	East Renfrewshire	GB
+GB-ERY	Yorkshire Del Este	East Riding Of Yorkshire	GB
+GB-ESS	Essex	Essex	GB
+GB-ESX	East Sussex	East Sussex	GB
+GB-FAL	Falkirk	Falkirk	GB
+GB-FIF	Pífano	Fife	GB
+GB-FLN	Flintshire	Flintshire	GB
+GB-FMO	Fermanagh Y Omagh	Fermanagh And Omagh	GB
+GB-GAT	Gateshead	Gateshead	GB
+GB-GLG	Glasgow City	Glasgow City	GB
+GB-GLS	Gloucestershire	Gloucestershire	GB
+GB-GRE	Greenwich	Greenwich	GB
+GB-GWN	Gwynedd	Gwynedd	GB
+GB-HAL	Halton	Halton	GB
+GB-HAM	Hampshire	Hampshire	GB
+GB-HAV	Havering	Havering	GB
+GB-HCK	Máquina De Alquiler	Hackney	GB
+GB-HEF	Herefordshire	Herefordshire	GB
+GB-HIL	Hillingdon	Hillingdon	GB
+GB-HLD	Tierras Altas	Highland	GB
+GB-HMF	Hammersmith Y Fulham	Hammersmith And Fulham	GB
+GB-HNS	Hounslow	Hounslow	GB
+GB-HPL	Hartlepool	Hartlepool	GB
+GB-HRT	Hertfordshire	Hertfordshire	GB
+GB-HRW	Grada	Harrow	GB
+GB-HRY	Haringey	Haringey	GB
+GB-IOS	Islas De Scilly	Isles Of Scilly	GB
+GB-IOW	Isla De Wight	Isle Of Wight	GB
+GB-ISL	Islington	Islington	GB
+GB-IVC	Inverclyde	Inverclyde	GB
+GB-KEC	Kensington Y Chelsea	Kensington And Chelsea	GB
+GB-KEN	Kent	Kent	GB
+GB-KHL	Kingston Upon Hull	Kingston Upon Hull	GB
+GB-KIR	Kirklees	Kirklees	GB
+GB-KTT	Kingston Upon Thames	Kingston Upon Thames	GB
+GB-KWL	Knowsley	Knowsley	GB
+GB-LAN	Lancashire	Lancashire	GB
+GB-LBC	Lisburn Y Castlereagh	Lisburn And Castlereagh	GB
+GB-LBH	Lambeth	Lambeth	GB
+GB-LCE	Leicester	Leicester	GB
+GB-LDS	Leeds	Leeds	GB
+GB-LEC	Leicestershire	Leicestershire	GB
+GB-LEW	Lewisham	Lewisham	GB
+GB-LIN	Lincolnshire	Lincolnshire	GB
+GB-LIV	Liverpool	Liverpool	GB
+GB-LND	Londres	London	GB
+GB-LUT	Luton	Luton	GB
+GB-MAN	Manchester	Manchester	GB
+GB-MDB	Middlesbrough	Middlesbrough	GB
+GB-MDW	Medway	Medway	GB
+GB-MEA	Mediados Y Este De Antrim	Mid And East Antrim	GB
+GB-MIK	Milton Keynes	Milton Keynes	GB
+GB-MLN	Midlothian	Midlothian	GB
+GB-MON	Monmouthshire	Monmouthshire	GB
+GB-MRT	Merton	Merton	GB
+GB-MRY	Moray	Moray	GB
+GB-MTY	Merthyr Tydfil	Merthyr Tydfil	GB
+GB-MUL	Mediados De Ulster	Mid Ulster	GB
+GB-NAY	North Ayrshire	North Ayrshire	GB
+GB-NBL	Northumberland	Northumberland	GB
+GB-NEL	North East Lincolnshire	North East Lincolnshire	GB
+GB-NET	Newcastle Upon Tyne	Newcastle Upon Tyne	GB
+GB-NFK	Norfolk	Norfolk	GB
+GB-NGM	Nottingham	Nottingham	GB
+GB-NIR	Northern Ireland	Irlanda del Norte	GB
+GB-NLK	North Lanarkshire	North Lanarkshire	GB
+GB-NLN	North Lincolnshire	North Lincolnshire	GB
+GB-NMD	Newry, Morne Y Abajo	Newry, Mourne And Down	GB
+GB-NSM	North Somerset	North Somerset	GB
+GB-NTH	Northamptonshire	Northamptonshire	GB
+GB-NTL	Neath Port Talbot	Neath Port Talbot	GB
+GB-NTT	Nottinghamshire	Nottinghamshire	GB
+GB-NTY	North Tyneside	North Tyneside	GB
+GB-NWM	Newham	Newham	GB
+GB-NWP	Newport	Newport	GB
+GB-NYK	Yorkshire Del Norte	North Yorkshire	GB
+GB-OLD	Oldham	Oldham	GB
+GB-ORK	Las Orcadas	Orkney Islands	GB
+GB-OXF	Oxfordshire	Oxfordshire	GB
+GB-PEM	Pembrokeshire	Pembrokeshire	GB
+GB-PKN	Perth Y Kinross	Perth And Kinross	GB
+GB-PLY	Plymouth	Plymouth	GB
+GB-POL	Poole	Poole	GB
+GB-POR	Portsmouth	Portsmouth	GB
+GB-POW	Powys	Powys	GB
+GB-PTE	Peterborough	Peterborough	GB
+GB-RCC	Redcar Y Cleveland	Redcar And Cleveland	GB
+GB-RCH	Rochdale	Rochdale	GB
+GB-RCT	Rhondda, Cynon, Taff	Rhondda, Cynon, Taff	GB
+GB-RDB	Redbridge	Redbridge	GB
+GB-RDG	Leyendo	Reading	GB
+GB-RFW	Renfrewshire	Renfrewshire	GB
+GB-RIC	Richmond Upon Thames	Richmond Upon Thames	GB
+GB-ROT	Rotherham	Rotherham	GB
+GB-RUT	Rutland	Rutland	GB
+GB-SAW	Sandwell	Sandwell	GB
+GB-SAY	South Ayrshire	South Ayrshire	GB
+GB-SCB	Borders	Scottish Borders	GB
+GB-SCT	Scotland	Escocia	GB
+GB-SFK	Suffolk	Suffolk	GB
+GB-SFT	Sefton	Sefton	GB
+GB-SGC	South Gloucestershire	South Gloucestershire	GB
+GB-SHF	Sheffield	Sheffield	GB
+GB-SHN	St. Helens	St. Helens	GB
+GB-SHR	Shropshire	Shropshire	GB
+GB-SKP	Stockport	Stockport	GB
+GB-SLF	Salford	Salford	GB
+GB-SLG	Mudar	Slough	GB
+GB-SLK	Lanarkshire Del Sur	South Lanarkshire	GB
+GB-SND	Sunderland	Sunderland	GB
+GB-SOL	Solihull	Solihull	GB
+GB-SOM	Voltereta	Somerset	GB
+GB-SOS	Southend-On-Sea	Southend-On-Sea	GB
+GB-SRY	Surrey	Surrey	GB
+GB-STE	Stoke On Trent	Stoke-On-Trent	GB
+GB-STG	Stirling	Stirling	GB
+GB-STH	Southampton	Southampton	GB
+GB-STN	Sutton	Sutton	GB
+GB-STS	Staffordshire	Staffordshire	GB
+GB-STT	Stockton-On-Tees	Stockton-On-Tees	GB
+GB-STY	South Tyneside	South Tyneside	GB
+GB-SWA	Swansea	Swansea	GB
+GB-SWD	Swindon	Swindon	GB
+GB-SWK	Southwark	Southwark	GB
+GB-TAM	Tameside	Tameside	GB
+GB-TFW	Telford Y Wrekin	Telford And Wrekin	GB
+GB-THR	Thurrock	Thurrock	GB
+GB-TOB	Torbay	Torbay	GB
+GB-TOF	B & Q	Torfaen	GB
+GB-TRF	Trafford	Trafford	GB
+GB-TWH	Tower Hamlets	Tower Hamlets	GB
+GB-VGL	Vale Of Glamorgan	Vale Of Glamorgan	GB
+GB-WAR	Warwickshire	Warwickshire	GB
+GB-WBK	West Berkshire	West Berkshire	GB
+GB-WDU	West Dunbartonshire	West Dunbartonshire	GB
+GB-WFT	Waltham Forest	Waltham Forest	GB
+GB-WGN	Wigan	Wigan	GB
+GB-WIL	Wiltshire	Wiltshire	GB
+GB-WKF	Wakefield	Wakefield	GB
+GB-WLL	Walsall	Walsall	GB
+GB-WLN	West Lothian	West Lothian	GB
+GB-WLS	Wales	Gales	GB
+GB-WLV	Wolverhampton	Wolverhampton	GB
+GB-WND	Wandsworth	Wandsworth	GB
+GB-WNM	Windsor And Maidenhead	Windsor And Maidenhead	GB
+GB-WOK	Wokingham	Wokingham	GB
+GB-WOR	Worcestershire	Worcestershire	GB
+GB-WRL	Wirral	Wirral	GB
+GB-WRT	Warrington	Warrington	GB
+GB-WRX	Wrexham	Wrexham	GB
+GB-WSM	Westminster	Westminster	GB
+GB-WSX	West Sussex	West Sussex	GB
+GB-YOR	York	York	GB
+GB-ZET	Islas Shetland	Shetland Islands	GB
+GD-01	San Andrés	Saint Andrew	GD
+GD-02	Saint David	Saint David	GD
+GD-03	San Jorge	Saint George	GD
+GD-04	San Juan	Saint John	GD
+GD-05	San Marcos	Saint Mark	GD
+GD-06	San Patricio	Saint Patrick	GD
+GD-10	Islas Granadinas Del Sur	Southern Grenadine Islands	GD
+GE-AB	Abjasia	Abkhazia	GE
+GE-AJ	Adjara	Adjara	GE
+GE-GU	Guria	Guria	GE
+GE-IM	Imereti	Imereti	GE
+GE-KA	Kajeti	Kakheti	GE
+GE-KK	Región De Kvemo Kartli	Kvemokartli	GE
+GE-MM	Mtskheta	Mtskheta	GE
+GE-RL	Racha Y La Región Inferior	Racha And The Lower Region	GE
+GE-SJ	Javajeti	Javakheti	GE
+GE-SK	Shida Kartli	Shida Kartli	GE
+GE-SZ	Zemo Svaneti	Zemo Svaneti	GE
+GE-TB	Tbilisi	Tbilisi	GE
+GF-0	Guayana Francés	French Guiana	GF
+GG-0	Castel	Castel	GG
+GG-1	Forest	Forest	GG
+GG-2	San Andrés	St. Andrew	GG
+GG-3	San Martín	St. Martin	GG
+GG-4	St. Peter Port	St. Peter Port	GG
+GG-5	St. Pierre Du Bois	St. Pierre Du Bois	GG
+GG-6	St. Sampson	St. Sampson	GG
+GG-7	San Salvador	St. Saviour	GG
+GG-8	Torteval	Torteval	GG
+GG-9	Valle	Vale	GG
+GH-0	Ahafo	Ahafo	GH
+GH-10	Sabana	Savannah	GH
+GH-15	North Western	Western North	GH
+GH-2	Bono	Bono	GH
+GH-3	Este Bono	Bono East	GH
+GH-8	Noreste	North East	GH
+GH-9	Oti	Oti	GH
+GH-AA	Greater Accra	Greater Accra	GH
+GH-AH	Ashanti	Ashanti	GH
+GH-CP	Central	Central	GH
+GH-EP	Oriental	Eastern	GH
+GH-NP	Del Norte	Northern	GH
+GH-TV	Volta	Volta	GH
+GH-UE	Upper East	Upper East	GH
+GH-UW	Upper West	Upper West	GH
+GH-WP	Occidental	Western	GH
+GI-0	Gibraltar	Gibraltar	GI
+GL-KU	Municipio Kujalleq	Municipality Kujalleq	GL
+GL-QA	Qaasuitsup Municipio	Qaasuitsup Municipality	GL
+GL-QE	Qeqqata Municipio	Qeqqata Municipality	GL
+GL-SM	Municipio De Sermersooq	Municipality Of Sermersooq	GL
+GM-B	Banjul	Banjul	GM
+GM-L	Bajo Río	Lower River	GM
+GM-M	Central River	Central River	GM
+GM-N	Banco Del Norte	North Bank	GM
+GM-U	Parte Alta Del Río	Upper River	GM
+GM-W	Occidental	Western	GM
+GN-B	Boke	Boke	GN
+GN-C	Conakry	Conakry	GN
+GN-D	Kindia	Kindia	GN
+GN-F	Faranah	Faranah	GN
+GN-K	Kankan	Kankan	GN
+GN-L	Labé	Labé	GN
+GN-M	Mamou	Mamou	GN
+GN-N	Nzerekore	Nzerekore	GN
+GP-0	Guadalupe	Guadeloupe	GP
+GQ-AN	Annobón	Annobón	GQ
+GQ-BN	Bioko Norte	Bioko Norte	GQ
+GQ-BS	Bioko Sur	Bioko Sur	GQ
+GQ-CS	Centro Sur	South Central	GQ
+GQ-KN	Kié-Ntem	Kié-Ntem	GQ
+GQ-LI	Litoral	Coast	GQ
+GQ-WN	Wele-Nzas	Wele-Nzas	GQ
+GR-69	Monte Athos	Mount Athos	GR
+GR-A	Macedonia Oriental Y Tracia	Eastern Macedonia And Thrace	GR
+GR-B	Central Macedonia	Central Macedonia	GR
+GR-C	Macedonia Occidental	West Macedonia	GR
+GR-D	Epiro	Continent	GR
+GR-E	Tesalia	Thessaly	GR
+GR-F	Islas Jónicas	Ionian Islands	GR
+GR-G	Grecia Occidental	West Greece	GR
+GR-H	Grecia Central	Central Greece	GR
+GR-I	Ática	Attica	GR
+GR-J	Peloponeso	Peloponnese	GR
+GR-K	Mar Del Norte	North Sea	GR
+GR-L	Egeo Meridional	Southern Aegean Sea	GR
+GR-M	Creta	Crete	GR
+GS-0	Isla De Los Pájaros	Bird Island	GS
+GS-1	Isla Blanco	Bristol Island	GS
+GS-2	Rocas Clerke	Clerke Rocks	GS
+GS-3	Isla Jorge	Montagu Island	GS
+GS-4	Isla Saunders	Saunders Island	GS
+GS-5	Georgia Del Sur	South Georgia	GS
+GS-6	Thule Del Sur	Southern Thule	GS
+GS-7	Islas Traversay	Traversay Islands	GS
+GT-AV	Alta Verapaz	Alta Verapaz	GT
+GT-BV	Baja Verapaz	Baja Verapaz	GT
+GT-CM	Chimaltenango	Chimaltenango	GT
+GT-CQ	Chiquimula	Chiquimula	GT
+GT-ES	Escuintla	Escuintla	GT
+GT-GU	Guatemala	Guatemala	GT
+GT-HU	Huehuetenango	Huehuetenango	GT
+GT-IZ	Izabal	Izabal	GT
+GT-JA	Jalapa	Jalapa	GT
+GT-JU	Jutiapa	Jutiapa	GT
+GT-PE	Petén	Petén	GT
+GT-PR	El Progreso	Progress	GT
+GT-QC	Quiché	Quiche	GT
+GT-QZ	Quetzaltenango	Quetzaltenango	GT
+GT-Re	Retalhuleu	Retalhuleu	GT
+GT-SA	Sacatepéquez	Sacatepequez	GT
+GT-SM	San Marcos	San Marcos	GT
+GT-SO	Sololá	Only The	GT
+GT-SR	Santa Rosa	Santa Rosa	GT
+GT-SU	Suchitepéquez	Suchitepequez	GT
+GT-TO	Totonicapán	Totonicapán	GT
+GT-ZA	Zacapa	Zacapa	GT
+GU-GU	Guam	Guam	GU
+GW-BA	Bafatá	Bafatá	GW
+GW-BL	Bolama-Bijagós	Bolama-Bijagos	GW
+GW-BM	Biombo	Biombo	GW
+GW-BS	Bissau	Bissau	GW
+GW-CA	Cacheu	Cacheu	GW
+GW-GA	Gabu	Gabu	GW
+GW-OI	Oio	Oio	GW
+GW-QU	Quinara	Quinara	GW
+GW-TO	Tombali	Tombali	GW
+GY-BA	Barima-Guaima	Barima-Waini	GY
+GY-CU	Cuyuni-Mazaruni	Cuyuni-Mazaruni	GY
+GY-DE	Demerara-Mahaica	Demerara-Mahaica	GY
+GY-EB	Berbice Oriental-Corentyne	East Berbice-Corentyne	GY
+GY-ES	Essequibo Islands-West Demerara	Essequibo Islands-West Demerara	GY
+GY-MA	Mahaica-Berbice	Mahaica-Berbice	GY
+GY-PM	Pomeroon-Supenaam	Pomeroon-Supenaam	GY
+GY-PT	Potaro-Siparuni	Potaro-Siparuni	GY
+GY-UD	Alto Demerara-Berbice	Upper Demerara-Berbice	GY
+GY-UT	Upper Takutu-Upper Essequibo	Upper Takutu-Upper Essequibo	GY
+HK-HCW	Isla central y occidental de Hong Kong	Central and Western Hong Kong Island	HK
+HK-HEA	Isla del este de Hong Kong	Eastern Hong Kong Island	HK
+HK-HSO	Isla sur de Hong Kong	Southern Hong Kong Island	HK
+HK-HWC	Wan Chai	Wan Chai	HK
+HK-KKC	Ciudad de Kowloon	Kowloon City	HK
+HK-KKT	Kwun Tong	Kwun Tong	HK
+HK-KSS	Sham Shui Po	Sham Shui Po	HK
+HK-KWT	Wong Tai Sin	Wong Tai Sin	HK
+HK-KYT	Yau Tsim Mong	Yau Tsim Mong	HK
+HK-NIS	Nuevos territorios	New Territories	HK
+HK-NKT	Kwai Tsing	Kwai Tsing	HK
+HK-NNO	Norte	North	HK
+HK-NSK	SAI Kung	Sai Kung	HK
+HK-NST	Sha Tin	Sha Tin	HK
+HK-NTM	Tuen Mun	Tuen Mun	HK
+HK-NTP	Tai Po	Tai Po	HK
+HK-NTW	Tsuen Wan	Tsuen Wan	HK
+HK-NYL	Yuen Long	Yuen Long	HK
+HM-0	Islas Heard Y Mcdonald	Heard Island And Mcdonald Islands	HM
+HN-AT	Atlántida	Atlantida	HN
+HN-CH	Choluteca	Choluteca	HN
+HN-CL	Colón	Colon	HN
+HN-CM	Comayagua	Comayagua	HN
+HN-CP	Copán	Copan	HN
+HN-CR	Cortés	Cortés	HN
+HN-EP	El Paraíso	The Paradise	HN
+HN-FM	Francisco Morazan	Francisco Morazan	HN
+HN-GD	Gracias A Dios	Thank God	HN
+HN-IB	Islas De La Bahía	Bay Islands	HN
+HN-IN	Intibucá	Intibucá	HN
+HN-LE	Lempira	Lempira	HN
+HN-LP	La Paz	La Paz	HN
+HN-OC	Ocotepeque	Ocotepeque	HN
+HN-OL	Olancho	Olancho	HN
+HN-SB	Santa Bárbara	Saint Barbara	HN
+HN-VA	Valle	Valley	HN
+HN-YO	Yoro	Yoro	HN
+HR-01	Condado De Zagreb	Zagreb County	HR
+HR-02	Condado De Krapina-Zagorje	Krapina-Zagorje County	HR
+HR-03	Sisak-Moslavina	Sisak-Moslavina	HR
+HR-04	Karlovac	Karlovac County	HR
+HR-05	Condado Varazdin	Varazdin County	HR
+HR-06	Koprivnica-Krizevci	Koprivnica-Krizevci	HR
+HR-07	Bjelovar-Bilogora	Bjelovar-Bilogora	HR
+HR-08	Condado De Split-Dalmacia	Primorsko Goranska County	HR
+HR-09	Lika-Senj	Lika-Senj	HR
+HR-10	Virovitica-Podravina	Virovitica-Podravina	HR
+HR-11	Pozega-Eslavonia	Pozega-Slavonia	HR
+HR-12	Brod-Posavina	Brod-Posavina	HR
+HR-13	Condado De Zadar	Zadar County	HR
+HR-14	Condado De Osijek-Baranja	Osijek-Baranja County	HR
+HR-15	Condado De Sibenik	Sibenik-Knin County	HR
+HR-16	Trenčiansky Kraj	Trenčiansky Kraj	HR
+HR-17	Condado De Split-Dalmacia	Split-Dalmatia County	HR
+HR-18	Condado De Istria	Istrian County	HR
+HR-19	Condado De Dubrovnik-Neretva	Dubrovnik-Neretva County	HR
+HR-20	Međimurska Región	Međimurska Region	HR
+HR-21	Ciudad De Zagreb	City Of Zagreb	HR
+HT-AR	Artibonite	Artibonite	HT
+HT-CE	Centro	Center	HT
+HT-GA	Grand'Anse	Grand'Anse	HT
+HT-ND	Norte	North	HT
+HT-NE	Noreste	Northeast	HT
+HT-NI	Nippes	Nippes	HT
+HT-NO	Noroeste	North West	HT
+HT-OU	Oeste	West	HT
+HT-SD	Sur	South	HT
+HT-SE	Sudeste	South East	HT
+HU-BA	Baranya	Baranya	HU
+HU-BC	Békéscsaba	Békéscsaba	HU
+HU-BE	Békés	Békés	HU
+HU-BK	Condado Kiskun	Kiskun County	HU
+HU-BU	Budapest	Budapest	HU
+HU-BZ	Borsod-Abauj-Zemplen	Borsod-Abauj-Zemplen	HU
+HU-CS	Csongrád	Csongrád	HU
+HU-DE	Debrecen	Debrecen	HU
+HU-DU	Dunaújváros	Dunaújváros	HU
+HU-EG	Eger	Eger	HU
+HU-ER	Érd	Érd	HU
+HU-FE	Fejér	Fejér	HU
+HU-GS	Gyor-Moson-Sopron	Győr-Moson-Sopron	HU
+HU-GY	Győr	Győr	HU
+HU-HB	Bihar	Hajdu-Bihar	HU
+HU-HE	Heves	Heves	HU
+HU-HV	Hódmezővásárhely	Hódmezővásárhely	HU
+HU-KE	Komárom-Esztergom	Komárom-Esztergom	HU
+HU-KM	Kecskemét	Kecskemét	HU
+HU-KV	Kaposvár	Kaposvár	HU
+HU-MI	Miskolc	Miskolc	HU
+HU-N	Jasz-Nagykun-Szolnok	Jasz-Nagykun-Szolnok	HU
+HU-NK	Nagykanizsa	Nagykanizsa	HU
+HU-NO	Nógrád	Nógrád	HU
+HU-NY	Nyíregyháza	Nyíregyháza	HU
+HU-PE	Pest	Pest	HU
+HU-PS	Pecs	Pecs	HU
+HU-SD	Szeged	Szeged	HU
+HU-SF	Székesfehérvár	Székesfehérvár	HU
+HU-SH	Szombathely	Szombathely	HU
+HU-SK	Szolnok	Szolnok	HU
+HU-SN	Sopron	Sopron	HU
+HU-SO	Somogy	Somogy	HU
+HU-SS	Szekszárd	Szekszárd	HU
+HU-ST	Salgótarján	Salgótarján	HU
+HU-SZ	Szabolcs-À-Bereg	Szabolcs-À-Bereg	HU
+HU-TB	Tatabanya	Tatabanya	HU
+HU-TO	Tolna	Tolna	HU
+HU-VA	Vas	Vas	HU
+HU-VE	Veszprém	Veszprém	HU
+HU-VM	Veszprém (Ciudad)	Veszprém (City)	HU
+HU-ZA	Zala	Zala	HU
+HU-ZE	Zalaegerszeg	Zalaegerszeg	HU
+ID-AC	Aceh	Aceh	ID
+ID-BA	Bali	Bali	ID
+ID-BB	Bangka Belitung	Bangka Belitung	ID
+ID-BE	Bengkulu	Bengkulu	ID
+ID-BT	Banten	Banten	ID
+ID-GO	Gorontalo	Gorontalo	ID
+ID-JA	Jambi	Jambi	ID
+ID-JB	Java Occidental	West Java	ID
+ID-JI	Java Oriental	East Java	ID
+ID-JK	Jakarta Raya	Jakarta Raya	ID
+ID-JT	Java Central	Central Java	ID
+ID-KB	West Kalimantan	West Kalimantan	ID
+ID-KI	Kalimantan Oriental	East Kalimantan	ID
+ID-KR	Islas Riau	Riau Islands	ID
+ID-KS	Kalimantan Del Sur	South Borneo	ID
+ID-KT	Central Kalimantan	Central Kalimantan	ID
+ID-KU	Borneo Del Norte	North Kalimantan	ID
+ID-LA	Lampung	Lampung	ID
+ID-MA	Molucas	Moluccas	ID
+ID-MU	Maluku Del Norte	North Maluku	ID
+ID-NB	West Nusa Tenggara	West Nusa Tenggara	ID
+ID-NT	Nusa Tenggara Oriental	East Nusa Tenggara	ID
+ID-PA	Papú	Papuan	ID
+ID-PB	Papúa Occidental	West Papua	ID
+ID-RI	Riau	Riau	ID
+ID-SA	Sulawesi Del Norte	North Sulawesi	ID
+ID-SB	Sumatra Occidental	West Sumatra	ID
+ID-SG	Sureste De Sulawesi	Southeast Sulawesi	ID
+ID-SR	Sulawesi Del Sur	South Sulawesi	ID
+ID-SS	Sumatra Del Sur	South Sumatra	ID
+ID-ST	Central Sulawesi	Central Sulawesi	ID
+ID-SU	Sumatra Del Norte	North Sumatra	ID
+ID-YO	Yogyakarta	Yogyakarta	ID
+IE-C	Connaught	Connaught	IE
+IE-CE	Clare	Clare	IE
+IE-CN	Cavan	Cavan	IE
+IE-CO	Cork	Cork	IE
+IE-CW	Carlow	Carlow	IE
+IE-D	Dublín	Dublin	IE
+IE-DL	Donegal	Donegal	IE
+IE-G	Galway	Galway	IE
+IE-KE	Kildare	Kildare	IE
+IE-KK	Kilkenny	Kilkenny	IE
+IE-KY	Kerry	Kerry	IE
+IE-L	Leinster	Leinster	IE
+IE-LD	Longford	Longford	IE
+IE-LH	Louth	Louth	IE
+IE-LK	Limerick	Limerick	IE
+IE-LM	Leitrim	Leitrim	IE
+IE-LS	Laois	Laois	IE
+IE-M	Munster	Munster	IE
+IE-MH	Meath	Meath	IE
+IE-MN	Monaghan	Monaghan	IE
+IE-MO	Mayo	Mayo	IE
+IE-OY	Offaly	Offaly	IE
+IE-RN	Roscommon	Roscommon	IE
+IE-SO	Sligo	Sligo	IE
+IE-TA	Tipperary	Tipperary	IE
+IE-U	Ulster	Ulster	IE
+IE-WD	Waterford	Waterford	IE
+IE-WH	Westmeath	Westmeath	IE
+IE-WW	Wicklow	Wicklow	IE
+IE-WX	Wexford	Wexford	IE
+IL-D	Provincia Del Sur	Southern Province	IL
+IL-HA	Distrito De Haifa	Haifa District	IL
+IL-JM	Distrito De Jerusalén	Jerusalem District	IL
+IL-M	Hamerkaz	Central District	IL
+IL-TA	Tel Aviv	Tel Aviv	IL
+IL-Z	Norte	North	IL
+IM-0	Isla De Man	Isle Of Man	IM
+IN-AN	Andaman Y Nicobar	Andaman And Nicobar Islands	IN
+IN-AP	Andhra Pradesh	Andhra Pradesh	IN
+IN-AR	Arunachal Pradesh	Arunachal Pradesh	IN
+IN-AS	Assam	Assam	IN
+IN-BR	Bihar	Bihar	IN
+IN-CH	Chandigarh	Chandigarh	IN
+IN-CT	Chhattisgarh	Chhattisgarh	IN
+IN-DD	Daman Y Diu	Daman And Diu	IN
+IN-DL	Delhi	Delhi	IN
+IN-DN	Dadra Y Nagar Haveli	Dadra And Nagar Haveli	IN
+IN-GA	Goa	Goa	IN
+IN-GJ	Gujarat	Gujarat	IN
+IN-HP	Himachal Pradesh	Himachal Pradesh	IN
+IN-HR	Haryana	Haryana	IN
+IN-JH	Jharkhand	Jharkhand	IN
+IN-JK	Jammu Y Cachemira	Jammu And Kashmir	IN
+IN-KA	Karnataka	Karnataka	IN
+IN-KL	Kerala	Kerala	IN
+IN-LD	Lakshadweep	Lakshadweep	IN
+IN-MH	Maharashtra	Maharashtra	IN
+IN-ML	Meghalaya	Meghalaya	IN
+IN-MN	Manipur	Manipur	IN
+IN-MP	Madhya Pradesh	Madhya Pradesh	IN
+IN-MZ	Mizoram	Mizoram	IN
+IN-NL	Nagaland	Nagaland	IN
+IN-OR	Odisha	Odisha	IN
+IN-PB	Punjab	Punjab	IN
+IN-PY	Pondicherry	Puducherry	IN
+IN-RJ	Rajasthan	Rajasthan	IN
+IN-TG	Telangana	Telangana	IN
+IN-TN	Tamil Nadu	Tamil Nadu	IN
+IN-TR	Tripura	Tripura	IN
+IN-UP	Uttar Pradesh	Uttar Pradesh	IN
+IN-UT	Uttarakhand	Uttarakhand	IN
+IN-WB	Bengala Occidental	West Bengal	IN
+IN-WK	Sikkim	Sikkim	IN
+IO-IO	Territorio Británico Del Océano Índico	British Indian Ocean Territory	IO
+IQ-AN	Anbar	Anbar	IQ
+IQ-AR	Erbil	Erbil	IQ
+IQ-BA	Basra	Basra	IQ
+IQ-BB	Babilonia	Babylon	IQ
+IQ-BG	Bagdad	Baghdad	IQ
+IQ-DA	Dohuk	Dohuk	IQ
+IQ-DI	Diyala	Diyala	IQ
+IQ-DQ	Di Qar	Dhi Qar	IQ
+IQ-HA	Halabja	Halabja	IQ
+IQ-KA	Karbala	Karbala	IQ
+IQ-KI	Kirkuk	Kirkuk	IQ
+IQ-MA	Maysan	Maysan	IQ
+IQ-MU	Muthanna	Muthanna	IQ
+IQ-NA	Nayaf	Najaf	IQ
+IQ-NI	Nínive	Nineveh	IQ
+IQ-QA	Qadisiyah	Qadisiyah	IQ
+IQ-SD	Salah Al-Din	Salahuddin	IQ
+IQ-SU	Sulaymaniyah	Sulaymaniyah	IQ
+IQ-WA	Wasit	Wasit	IQ
+IR-01	Azerbaiyán Oriental	East Azarbaijan	IR
+IR-02	Azerbaiyán Occidental	Western Azerbaijan	IR
+IR-03	Ardabil	Ardabil	IR
+IR-04	Isfahán	Esfahan	IR
+IR-05	Elam	Elam	IR
+IR-06	Bushehr	Bushehr	IR
+IR-07	Teherán	Tehran	IR
+IR-08	Chahármahál Bakhtiari	Chaharmahal Va Bakhtiari	IR
+IR-10	Khuzestan	Khuzestan	IR
+IR-11	Zanjan	Zanjan	IR
+IR-12	Semnan	Semnan	IR
+IR-13	Sistán Y Baluchistán	Sistan And Baluchestan	IR
+IR-14	Fars	Fars	IR
+IR-15	Kerman	Kerman	IR
+IR-16	Kurdistán	Kurdistan	IR
+IR-17	Kermanshah	Kermanshah	IR
+IR-18	Kohgiluyeh Y Boyer	Kohgiloyeh And Boyerahmad	IR
+IR-19	Gilan	Gilan	IR
+IR-20	Lorestan	Lorestan	IR
+IR-21	Mazandaran	Mazandaran	IR
+IR-22	Central	Central	IR
+IR-23	Hormozgán	Hormozgan	IR
+IR-24	Hamedan	Hamedan	IR
+IR-25	Yazd	Yazd	IR
+IR-26	Qom	Qom	IR
+IR-27	Golestan	Golestan	IR
+IR-28	Qazvin	Qazvin	IR
+IR-29	Jorasán Del Sur	Southern Khorasan	IR
+IR-30	Khorasan Razavi	Khorasan Razavi	IR
+IR-31	Norte Khorasan	North Khorasan	IR
+IR-32	Alborz	Alborz	IR
+IS-1	Reykjavik	Reykjavik	IS
+IS-2	Suroeste	Southwest	IS
+IS-3	Occidente	The West	IS
+IS-4	Fiordos	Fjords	IS
+IS-5	Noroeste	North West	IS
+IS-6	Noreste	North East	IS
+IS-7	Oriente	East	IS
+IS-8	Sur De Islandia	South Iceland	IS
+IT-21	Piedmont	Piedmont	IT
+IT-23	Valle De Aosta	Valle D'Aosta	IT
+IT-25	Lombardía	Lombardy	IT
+IT-32	Tirol Del Sur	Trentino Alto Adige	IT
+IT-34	Veneto	Veneto	IT
+IT-36	Friuli-Venecia Julia	Friuli Venezia Giulia	IT
+IT-42	Liguria	Liguria	IT
+IT-45	Emilia-Romaña	Emilia Romagna	IT
+IT-52	Toscana	Tuscany	IT
+IT-55	Umbría	Umbria	IT
+IT-57	Las Marcas	Marche	IT
+IT-62	Lazio	Lazio	IT
+IT-65	Abruzzo	Abruzzo	IT
+IT-67	Molise	Molise	IT
+IT-72	Campania	Campania	IT
+IT-75	Puglia	Puglia	IT
+IT-77	Basilicata	Basilicata	IT
+IT-78	Calabria	Calabria	IT
+IT-82	Sicilia	Sicily	IT
+IT-88	Cerdeña	Sardinia	IT
+JE-JE	Jersey	Jersey	JE
+JM-01	Kingston	Kingston	JM
+JM-02	San Andrés	Saint Andrew	JM
+JM-03	Santo Tomás	Saint Thomas	JM
+JM-04	Portland	Portland	JM
+JM-05	Santa María	Saint Mary	JM
+JM-06	Saint Ann	Saint Ann	JM
+JM-07	Trelawny	Trelawny	JM
+JM-08	Saint James	Saint James	JM
+JM-09	Hanovre	Hanover	JM
+JM-10	Westmoreland	Westmoreland	JM
+JM-11	Santa Isabel	Saint Elizabeth	JM
+JM-12	Manchester	Manchester	JM
+JM-13	Letras Gruesas A La Media	Clarendon	JM
+JM-14	Santa Catalina	Saint Catherine	JM
+JO-AJ	Ajloun	Ajloun	JO
+JO-AM	Amman	Amman	JO
+JO-AQ	Aqaba	Aqaba	JO
+JO-AT	Tafeileh	Tafeileh	JO
+JO-AZ	Zarqa	Zarqa	JO
+JO-BA	Balqa	Balqa	JO
+JO-IR	Irbid	Irbid	JO
+JO-JA	Jerash	Jerash	JO
+JO-KA	Karak	Karak	JO
+JO-MA	Mafraq	Mafraq	JO
+JO-MD	Madaba	Madaba	JO
+JO-MN	Ma'An	Ma'An	JO
+JP-01	Hokkaido	Hokkaido	JP
+JP-02	Aomori	Aomori	JP
+JP-03	Iwate	Iwate	JP
+JP-04	Miyagi	Miyagi	JP
+JP-05	Akita	Akita	JP
+JP-06	Yamagata	Yamagata	JP
+JP-07	Fukushima	Fukushima	JP
+JP-08	Ibaraki	Ibaraki	JP
+JP-09	Tochigi	Tochigi	JP
+JP-10	Gunma	Gunma	JP
+JP-11	Saitama	Saitama	JP
+JP-12	Chiba	Chiba	JP
+JP-13	Tokio	Tokyo	JP
+JP-14	Kanagawa	Kanagawa	JP
+JP-15	Niigata	Niigata	JP
+JP-16	Toyama	Toyama	JP
+JP-17	Ishikawa	Ishikawa	JP
+JP-18	Fukui	Fukui	JP
+JP-19	Yamanashi	Yamanashi	JP
+JP-20	Nagano	Nagano	JP
+JP-21	Gifu	Gifu	JP
+JP-22	Shizuoka	Shizuoka	JP
+JP-23	Aichi	Aichi	JP
+JP-24	Triple	Triple	JP
+JP-25	Shiga	Shiga	JP
+JP-26	Kyoto	Kyoto	JP
+JP-27	Osaka	Osaka	JP
+JP-28	Hyogo	Hyogo	JP
+JP-29	Nara	Nara	JP
+JP-30	Wakayama	Wakayama	JP
+JP-31	Tottori	Tottori	JP
+JP-32	Shimane	Shimane	JP
+JP-33	Okayama	Okayama	JP
+JP-34	Hiroshima	Hiroshima	JP
+JP-35	Yamaguchi	Yamaguchi	JP
+JP-36	Tokushima	Tokushima	JP
+JP-37	Kagawa	Kagawa	JP
+JP-38	Ehime	Ehime	JP
+JP-39	Kochi	Kochi	JP
+JP-40	Fukuoka	Fukuoka	JP
+JP-41	Saga	Saga	JP
+JP-42	Nagasaki	Nagasaki	JP
+JP-43	Kumamoto	Kumamoto	JP
+JP-44	Mucho	Much	JP
+JP-45	Miyazaki	Miyazaki	JP
+JP-46	Kagoshima	Kagoshima	JP
+JP-47	Okinawa	Okinawa	JP
+KE-01	Baringo	Baringo	KE
+KE-02	Bomet	Bomet	KE
+KE-03	Bungoma	Bungoma	KE
+KE-04	Busia	Busia	KE
+KE-05	Eleyo / Marakwet	Eleyo/Marakwet	KE
+KE-06	Embu	Embu	KE
+KE-07	Garissa	Garissa	KE
+KE-08	Homa Bay	Homa Bay	KE
+KE-09	Isiolo	Isiolo	KE
+KE-10	Kajiado	Kajiado	KE
+KE-11	Kakamega	Kakamega	KE
+KE-12	Kericho	Kericho	KE
+KE-13	Kiambu	Kiambu	KE
+KE-14	Kilifi	Kilifi	KE
+KE-15	Kirinyaga	Kirinyaga	KE
+KE-16	Kisii	Kisii	KE
+KE-17	Kisumu	Kisumu	KE
+KE-18	Kitui	Kitui	KE
+KE-19	Kwale	Kwale	KE
+KE-20	Laikipia	Laikipia	KE
+KE-21	La Mu	Lamu	KE
+KE-22	Machakos	Machakos	KE
+KE-23	Makueni	Makueni	KE
+KE-24	Mandera	Mandera	KE
+KE-25	Marsabit	Marsabit	KE
+KE-26	Meru	Meru	KE
+KE-27	Migori	Migori	KE
+KE-28	Mombasa	Mombasa	KE
+KE-29	Murang'A	Murang'A	KE
+KE-30	La Ciudad De Nairobi	Nairobi City	KE
+KE-31	Nakuru	Nakuru	KE
+KE-32	Nandi	Nandi	KE
+KE-33	Narok	Narok	KE
+KE-34	Nyamira	Nyamira	KE
+KE-35	Nyandarua	Nyandarua	KE
+KE-36	Nyeri	Nyeri	KE
+KE-37	Samburu	Samburu	KE
+KE-38	Siaya	Siaya	KE
+KE-39	Taita / Taveta	Taita/Taveta	KE
+KE-40	Río Tana	Tana River	KE
+KE-41	Tharaka-Nithi	Tharaka-Nithi	KE
+KE-42	Trans Nzoia	Trans Nzoia	KE
+KE-43	Turkana	Turkana	KE
+KE-44	Uasin Gishu	Uasin Gishu	KE
+KE-45	Vihiga	Vihiga	KE
+KE-46	Wajir	Wajir	KE
+KE-47	West Pokot	West Pokot	KE
+KG-B	Batken	Batken	KG
+KG-C	Chui	Chui	KG
+KG-GB	Bishkek	Bishkek	KG
+KG-J	Jalal-Abad	Jalal-Abad	KG
+KG-N	Naryn	Naryn	KG
+KG-O	Osh	Osh	KG
+KG-T	Talas	Talas	KG
+KG-Y	Issyk-Kul	Issyk-Kul	KG
+KH-1	Banteay Mean Chey	Banteay Mean Chey	KH
+KH-10	Kracheh	Kracheh	KH
+KH-11	Mondol Kiri	Mondol Kiri	KH
+KH-12	Phnom Penh	Phnom Penh	KH
+KH-13	Preah Vihear	Preah Vihear	KH
+KH-14	Presa Veaeng	Prey Veaeng	KH
+KH-15	Pousaat	Pousaat	KH
+KH-16	Rotanah Kiri	Rotanah Kiri	KH
+KH-17	Siem Reab	Siem Reab	KH
+KH-18	Krong Preah Sihanouk	Krong Preah Sihanouk	KH
+KH-19	Stueng Treng	Stueng Treng	KH
+KH-2	Baat Dambang	Baat Dambang	KH
+KH-20	Svaay Rieng	Svaay Rieng	KH
+KH-21	Taakaev	Taakaev	KH
+KH-22	Otdar Mean Chey	Otdar Mean Chey	KH
+KH-23	Krong Kaeb	Krong Kaeb	KH
+KH-24	Krong Pailin	Krong Pailin	KH
+KH-25	Tbong Khmum	Tbong Khmum	KH
+KH-3	Kampong Chaam	Kampong Chaam	KH
+KH-4	Kampong Chhnang	Kampong Chhnang	KH
+KH-5	Kampong Spueu	Kampong Spueu	KH
+KH-6	Kampong Thum	Kampong Thum	KH
+KH-7	Kampot	Kampot	KH
+KH-8	Kandaal	Kandaal	KH
+KH-9	Kaoh Kong	Kaoh Kong	KH
+KI-0	Abaiang	Abaiang	KI
+KI-1	Abemama	Abemama	KI
+KI-10	Kiritimati	Kiritimati	KI
+KI-11	Kuria	Kuria	KI
+KI-13	Maiana	Maiana	KI
+KI-14	Makin	Makin	KI
+KI-15	Marakei	Marakei	KI
+KI-16	Nikunau	Nikunau	KI
+KI-17	Nonouti	Nonouti	KI
+KI-18	Gilbert Del Norte	Northern Gilberts	KI
+KI-19	Onotoa	Onotoa	KI
+KI-2	Aranuka	Aranuka	KI
+KI-21	Gilbert Del Sur	Southern Gilberts	KI
+KI-22	Tabiteuea	Tabiteuea	KI
+KI-23	Tabuaeran	Tabuaeran	KI
+KI-24	Tamana	Tamana	KI
+KI-25	Tarawa	Tarawa	KI
+KI-26	Teraina	Teraina	KI
+KI-3	Arorae	Arorae	KI
+KI-4	Banaba	Banaba	KI
+KI-5	Beru	Beru	KI
+KI-6	Butaritari	Butaritari	KI
+KI-7	Gilbert Central	Central Gilberts	KI
+KI-9	Kanton	Kanton	KI
+KI-G	Islas Gilbert	Gilbert Islands	KI
+KI-L	Islas De La Línea	Line Islands	KI
+KI-P	Islas Fénix	Phoenix Islands	KI
+KM-A	Andjouân	Andjouân	KM
+KM-G	Andjazîdja	Andjazîdja	KM
+KM-M	Moûhîlî	Moûhîlî	KM
+KN-K	San Cristóbal	Saint Kitts	KN
+KN-N	Nieves	Nevis	KN
+KP-01	Pyongyang	Pyongyang	KP
+KP-02	Paz Provincial	Provincial Peace	KP
+KP-03	P'Yŏngan Del Norte	North Pyongan Province	KP
+KP-04	Chagang	Chagang	KP
+KP-05	Hwanghae Del Sur	South Hwanghae	KP
+KP-06	Hwanghae Del Norte	North Hwanghae	KP
+KP-07	Gangwon	Gangwon-Do	KP
+KP-08	Provincia De Hamgyong Del Sur	South Hamgyong Province	KP
+KP-09	Provincia De Hamgyong Del Norte	North Hamgyong Province	KP
+KP-10	Ryanggang	Ryanggang Province	KP
+KP-13	Rason	Rason	KP
+KR-11	Seúl	Seoul	KR
+KR-26	Busan	Busan	KR
+KR-27	Daegu	Daegu Metropolitan City	KR
+KR-28	Incheon	Incheon Metropolitan City	KR
+KR-29	Gwangju	Gwangju	KR
+KR-30	Daejeon	Daejeon	KR
+KR-31	Ulsan	Ulsan	KR
+KR-41	Gyeonggi	Gyeonggi-Do	KR
+KR-42	Gangwon	Gangwon-Do	KR
+KR-43	Chungcheong Del Norte	Chung-Cheong Bukdo	KR
+KR-44	Chungcheongnam	Chungcheongnam	KR
+KR-45	Jeolla Del Norte	Jeollabuk Do	KR
+KR-46	Jeolla Del Sur	Jeollanam-Do	KR
+KR-47	Gyeongsangbuk-Do	Gyeongsangbuk-Do	KR
+KR-48	Gyeongsangnam	Gyeongsangnam-Do	KR
+KR-49	Provincia Autónoma Especial De Jeju	Jeju Special Self-Governing Province	KR
+KR-50	Ciudad Sejong	Sejong City	KR
+KW-AH	Al-Ahmadi	Al-Ahmadi	KW
+KW-FA	Farwaniya	Farwaniya	KW
+KW-HA	Hawalli	Hawalli	KW
+KW-JA	Jahra	Jahra	KW
+KW-KU	Kuwait	Kuwait	KW
+KW-MU	Mubarak Al-Kabeer	Mubarak Al-Kabeer	KW
+KY-0	Arroyo	Creek	KY
+KY-1	Oriental	Eastern	KY
+KY-2	Midland	Midland	KY
+KY-3	Ciudad Del Sur	South Town	KY
+KY-4	Spot Bay	Spot Bay	KY
+KY-5	Stake Bay	Stake Bay	KY
+KY-6	West End	West End	KY
+KY-7	Occidental	Western	KY
+KZ-AKM	Akmola	Akmola	KZ
+KZ-AKT	Aktobe	Aktobe	KZ
+KZ-ALA	Alma-Ata	Alma-Ata	KZ
+KZ-ALM	Almaty	Almaty	KZ
+KZ-AST	Astana	Astana	KZ
+KZ-ATY	Atyrau	Atyrau	KZ
+KZ-BAY	Baikonur	Baikonur	KZ
+KZ-KAR	Karaganda	Karaganda	KZ
+KZ-KUS	Kostanay	Kostanay	KZ
+KZ-KZY	Kyzylorda	Kyzylorda	KZ
+KZ-MAN	Mangistau	Mangistau	KZ
+KZ-PAV	Pavlodar	Pavlodar	KZ
+KZ-SEV	Norte Kazajstán	North Kazakhstan	KZ
+KZ-SHY	Shymkent	Shymkent	KZ
+KZ-VOS	Kazajstán Oriental	East Kazakhstan	KZ
+KZ-YUZ	Turkestan	Turkestan	KZ
+KZ-ZAP	Kazajstán Occidental	West Kazakhstan	KZ
+KZ-ZHA	Zhambyl	Zhambyl	KZ
+LA-AT	Attapu	Attapu	LA
+LA-BK	Bokeo	Bokèo	LA
+LA-BL	Bolikhamxai	Bolikhamxai	LA
+LA-CH	Champasak	Champasak	LA
+LA-HO	Houaphan	Houaphan	LA
+LA-KH	Khammouan	Khammouan	LA
+LA-LM	Louang Namtha	Louang Namtha	LA
+LA-LP	Louangphabang	Louangphabang	LA
+LA-OU	Oudomxai	Oudômxai	LA
+LA-PH	Phongsali	Phôngsali	LA
+LA-SL	Salavan	Salavan	LA
+LA-SV	Savannakhét	Savannakhét	LA
+LA-VI	Vientiane	Vientiane	LA
+LA-XA	Xaignabouli	Xaignabouli	LA
+LA-XE	Xekong	Xékong	LA
+LA-XI	Xiangkhouang	Xiangkhouang	LA
+LA-XS	Xaisomboun	Xaisomboun	LA
+LB-AK	Akkar	Aakkar	LB
+LB-AS	El Norte Del Líbano	North Lebanon	LB
+LB-BA	Beirut	Beirut	LB
+LB-BH	Baalbelk-Hermel	Baalbelk-Hermel	LB
+LB-BI	Beqaa	Beqaa	LB
+LB-JA	El Sur Del Líbano	South Lebanon	LB
+LB-JL	Monte Líbano	Mount Lebanon	LB
+LB-NA	Nabatîyé	Nabatîyé	LB
+LC-01	Anse La Raye	Anse La Raye	LC
+LC-02	Castries	Castries	LC
+LC-03	Choiseul	Choiseul	LC
+LC-05	Dennery	Dennery	LC
+LC-06	Gros Islet	Gros Islet	LC
+LC-07	Laborie	Laborie	LC
+LC-08	Micoud	Micoud	LC
+LC-10	Soufrière	Soufriere	LC
+LC-11	Vieux Fort	Vieux Fort	LC
+LC-12	Canaries	Canaries	LC
+LI-01	Balzers	Balzers	LI
+LI-02	Eschen	Eschen	LI
+LI-03	Gamprin	Gamprin	LI
+LI-04	Moros	Moors	LI
+LI-05	Tablazón	Planking	LI
+LI-06	Ruggell	Ruggell	LI
+LI-07	Schaan	Schaan	LI
+LI-08	Schellenberg	Schellenberg	LI
+LI-09	Triesen	Triesen	LI
+LI-10	Triesenberg	Triesenberg	LI
+LI-11	Vaduz	Vaduz	LI
+LK-1	Basnahira	Basnahira	LK
+LK-2	Madhyama	Madhyama	LK
+LK-3	Dakunu	Dakunu	LK
+LK-4	Uturu	Uturu	LK
+LK-5	Naegenahira	Naegenahira	LK
+LK-6	Vayamba	Vayamba	LK
+LK-7	Uturumaeda	Uturumaeda	LK
+LK-8	Uva	Uva	LK
+LK-9	Sabaragamuwa	Sabaragamuwa	LK
+LR-BG	Bong	Bong	LR
+LR-BM	Bomi	Bomi	LR
+LR-CM	Gran Cape Mount	Grand Cape Mount	LR
+LR-GB	Gran Bassa	Grand Bassa	LR
+LR-GG	Grand Gedeh	Grand Gedeh	LR
+LR-GK	Grand Kru	Grand Kru	LR
+LR-GP	Gbarpolu	Gbarpolu	LR
+LR-LO	Lofa	Lofa	LR
+LR-MG	Margibi	Margibi	LR
+LR-MO	Montserrado	Montserrado	LR
+LR-MY	Maryland	Maryland	LR
+LR-NI	Nimba	Nimba	LR
+LR-RG	Río Geee	River Geee	LR
+LR-RI	River Cess	River Cess	LR
+LR-SI	Sinoe	Sinoe	LR
+LS-A	Maseru	Maseru	LS
+LS-B	Butha-Buthe	Butha-Buthe	LS
+LS-C	Leribe	Leribe	LS
+LS-D	Berea	Berea	LS
+LS-E	Mafeteng	Mafeteng	LS
+LS-F	Mohales Hoek	Mohales Hoek	LS
+LS-G	Quthing	Quthing	LS
+LS-H	Nek Nek De	Qacha'S Nek	LS
+LS-J	Mokhotlong	Mokhotlong	LS
+LS-K	Thaba-Tseka	Thaba-Tseka	LS
+LT-AL	Alytus	Alytus	LT
+LT-KL	Klaipeda	Klaipeda	LT
+LT-KU	Kaunas	Kaunas	LT
+LT-MR	Marijampole	Marijampole	LT
+LT-PN	Panevezys	Panevezys	LT
+LT-SA	Siauliai	Siauliai	LT
+LT-TA	Tauragė	Tauragė	LT
+LT-TE	Carpa	Tent	LT
+LT-UT	Utena	Utena	LT
+LT-VL	Vilnius	Vilnius	LT
+LU-CA	Capellen	Capellen	LU
+LU-CL	Clevaux	Clevaux	LU
+LU-DI	Diekirch	Diekirch	LU
+LU-EC	Echternach	Echternach	LU
+LU-ES	Esch-Sur-Alzette	Esch-Sur-Alzette	LU
+LU-GR	Grevenmacher	Grevenmacher	LU
+LU-LU	Luxemburgo	Luxembourg	LU
+LU-ME	Mersch	Mersch	LU
+LU-RD	Redange	Redange	LU
+LU-RM	Remich	Remich	LU
+LU-VD	Vianden	Vianden	LU
+LU-WI	Wiltz	Wiltz	LU
+LV-001	Aglona	Aglona	LV
+LV-002	Aizkraukle	Aizkraukle	LV
+LV-003	Aizpute	Aizpute	LV
+LV-004	Akniste	Akniste	LV
+LV-005	Aloja	Aloja	LV
+LV-007	Aluksne	Aluksne	LV
+LV-008	Amata	Amata	LV
+LV-009	Ape	Ape	LV
+LV-010	Auce	Auce	LV
+LV-011	Adazi	Adazi	LV
+LV-012	Babite	Babite	LV
+LV-013	Baldone	Baldone	LV
+LV-014	Baltinava	Baltinava	LV
+LV-015	Balvi	Balvi	LV
+LV-016	Bauska	Bauska	LV
+LV-017	Beverina	Beverīna	LV
+LV-018	Brocēni	Brocēni	LV
+LV-019	Burtnieki	Burtnieki	LV
+LV-020	Carnikava	Carnikava	LV
+LV-021	Cesvaine	Cesvaine	LV
+LV-022	Cesis	Cesis	LV
+LV-023	Cibla	Cibla	LV
+LV-024	Dagda	Dagda	LV
+LV-025	Daugavpils	Daugavpils	LV
+LV-026	Dobele	Dobele	LV
+LV-027	Dundaga	Dundaga	LV
+LV-028	Durbe	Durbe	LV
+LV-029	Engure	Engure	LV
+LV-030	Ergli	Ergli	LV
+LV-031	Garkalne	Garkalne	LV
+LV-032	Grobina	Grobina	LV
+LV-033	Gulbene	Gulbene	LV
+LV-034	Iecava	Iecava	LV
+LV-035	Ikskile	Ikskile	LV
+LV-036	Ilūkste	Ilūkste	LV
+LV-037	Incukalns	Inčukalns	LV
+LV-038	Jaunjelgava	Jaunjelgava	LV
+LV-039	Jaunpiebalga	Jaunpiebalga	LV
+LV-040	Jaunpils	Jaunpils	LV
+LV-041	Jelgava	Jelgava	LV
+LV-042	Jekabpils	Jekabpils	LV
+LV-043	Kandava	Kandava	LV
+LV-044	Karsava	Karsava	LV
+LV-045	Kocēni	Kocēni	LV
+LV-046	Koknese	Koknese	LV
+LV-047	Kraslava	Kraslava	LV
+LV-048	Krimulda	Krimulda	LV
+LV-049	Krustpils	Krustpils	LV
+LV-050	Kuldiga	Kuldiga	LV
+LV-051	Ķegums	Ķegums	LV
+LV-052	Ķekava	Ķekava	LV
+LV-053	Lielvārde	Lielvārde	LV
+LV-054	Limbazhi	Limbazhi	LV
+LV-055	Līgatne	Ligatne	LV
+LV-056	Livani	Livani	LV
+LV-057	Lubana	Lubana	LV
+LV-058	Ludza	Ludza	LV
+LV-059	Madona	Madona	LV
+LV-06	Alsunga	Alsunga	LV
+LV-060	Mazsalaca	Mazsalaca	LV
+LV-061	Malpils	Malpils	LV
+LV-062	Mārupe	Mārupe	LV
+LV-063	Mersrags	Mersrags	LV
+LV-064	Naukseni	Naukseni	LV
+LV-065	Nereta	Nereta	LV
+LV-066	Nica	Nica	LV
+LV-067	Ogre	Ogre	LV
+LV-068	Olaine	Olaine	LV
+LV-069	Ozolnieki	Ozolnieki	LV
+LV-070	Pargauja	Pargauja	LV
+LV-071	Pavilosta	Pavilosta	LV
+LV-072	Plavinas	Plavinas	LV
+LV-073	Preili	Preili	LV
+LV-074	Priekule	Priekule	LV
+LV-075	Priekuļi	Priekuļi	LV
+LV-076	Rauna	Rauna	LV
+LV-077	Rezekne	Rezekne	LV
+LV-078	Riebiņi	Riebiņi	LV
+LV-079	Roja	Roja	LV
+LV-080	Ropaži	Ropaži	LV
+LV-081	Rucava	Rucava	LV
+LV-082	Rugaji	Rugaji	LV
+LV-083	Rundale	Rundāle	LV
+LV-084	Rūjiena	Rujiena	LV
+LV-085	Sala	Sala	LV
+LV-086	Salacgriva	Salacgriva	LV
+LV-087	Salaspils	Salaspils	LV
+LV-088	Saldus	Saldus	LV
+LV-089	Saulkrasti	Saulkrasti	LV
+LV-090	Seja	Seja	LV
+LV-091	Sigulda	Sigulda	LV
+LV-092	Skriveri	Skriveri	LV
+LV-093	Skrunda	Skrunda	LV
+LV-094	Smiltene	Smiltene	LV
+LV-095	Stopini	Stopini	LV
+LV-096	Strenci	Strenci	LV
+LV-097	Talsi	Talsi	LV
+LV-098	Tervete	Tervete	LV
+LV-099	Tukums	Tukums	LV
+LV-100	Vainode	Vainode	LV
+LV-101	Valka	Valka	LV
+LV-102	Varakļāni	Varakļāni	LV
+LV-103	Vārkava	Vārkava	LV
+LV-104	Vecpiebalga	Vecpiebalga	LV
+LV-105	Vecumnieki	Vecumnieki	LV
+LV-106	Ventspils	Ventspils	LV
+LV-107	Viesite	Viesite	LV
+LV-108	Viļaka	Vilaka	LV
+LV-109	Vilani	Vilani	LV
+LV-110	Zilupe	Zilupe	LV
+LV-DGV	Daugavpils (Ciudad)	Daugavpils (City)	LV
+LV-JEL	Jelgava (Ciudad)	Jelgava (City)	LV
+LV-JKB	Jekabpils (Ciudad)	Jekabpils (City)	LV
+LV-JUR	Jurmala (Ciudad)	Jurmala (City)	LV
+LV-LPX	Liepaja	Liepaja	LV
+LV-REZ	Rezekne (Ciudad)	Rezekne (City)	LV
+LV-RIX	Riga	Riga	LV
+LV-VEN	Ventspils (Ciudad)	Ventspils (City)	LV
+LV-VMR	Valmiera	Valmiera	LV
+LY-BA	Bengasi	Benghazi	LY
+LY-BU	Butnan	Butnan	LY
+LY-DR	Darnah	Darnah	LY
+LY-GT	Ghat	Ghat	LY
+LY-JA	Jabal Al Akhdar	Jabal Al Akhdar	LY
+LY-JG	Jabal Al Gharbi	Jabal Al Gharbi	LY
+LY-JI	Aljafarah	Aljafarah	LY
+LY-JU	Jufrah	Jufrah	LY
+LY-KF	Kufrah	Kufrah	LY
+LY-MB	Murqub	Murqub	LY
+LY-MI	Misrata	Misratah	LY
+LY-MJ	Marj	Marj	LY
+LY-MQ	Murzuq	Murzuq	LY
+LY-NL	Nalut	Nalut	LY
+LY-NQ	Nuqat Al Khams	Nuqat Al Khams	LY
+LY-SB	Sabha	Sabha	LY
+LY-SR	Sirte	Sirte	LY
+LY-TB	Trípoli	Tripoli	LY
+LY-WA	Al Wahat	Al Wahat	LY
+LY-WD	Wadi Al Hayaa	Wadi Al Hayaa	LY
+LY-WS	Wadi Al Shatii	Wadi Al Shatii	LY
+LY-ZA	Zawiya	Zawiya	LY
+MA-01	Tánger-Tetuán, Alhucemas	Tangier-Tetouan, Al Hoceima	MA
+MA-02	El Oriental	The Oriental	MA
+MA-03	Fez-Meknes	Fez-Meknes	MA
+MA-04	Kenitra-Rabat-Sale	Kenitra-Rabat-Sale	MA
+MA-05	Beni Mellal-Khénifra	Beni Mellal-Khénifra	MA
+MA-06	Casablanca-Settat	Casablanca-Settat	MA
+MA-07	Marrakech-Safi	Marrakech-Safi	MA
+MA-08	Draa-Tafilalet	Draa-Tafilalet	MA
+MA-09	Souss-Massa	Souss-Massa	MA
+MA-10	Guelmim-Oued	Guelmim-Oued	MA
+MA-11	El Aaiún-Sakia El Hamra	Laayoune-Sakia El Hamra	MA
+MA-12	Dakhla Oued Ed-Dahab	Dakhla Oued Ed-Dahab	MA
+MC-CL	Pegamento	Glue	MC
+MC-CO	Condamine	Condamine	MC
+MC-FO	Fontvieille	Fontvieille	MC
+MC-GA	Estación	Station	MC
+MC-JE	Exótico Jardín	Exotic Garden	MC
+MC-LA	Larvotto	Larvotto	MC
+MC-MA	Malbousquet	Malbousquet	MC
+MC-MC	Monte Carlo	Monte Carlo	MC
+MC-MG	Moneghetti	Moneghetti	MC
+MC-MO	Monaco-Ville	Monaco-Ville	MC
+MC-MU	Moulins	Moulins	MC
+MC-PH	Puerto Hércules	Port Hercule	MC
+MC-SD	Santa Devota	Saint Devote	MC
+MC-SO	Fuente	Source	MC
+MC-SP	Spélugues	Spélugues	MC
+MC-SR	Saint-Roman	Saint-Roman	MC
+MC-VR	Vallon De La Rousse	Vallon De La Rousse	MC
+MD-AN	Aenii Noviembre	Aenii November	MD
+MD-BA	Balti	Balti	MD
+MD-BD	Juerga	Bender	MD
+MD-BR	Briceni	Briceni	MD
+MD-BS	Basarabeasca	Basarabeasca	MD
+MD-CA	Cahul	Cahul	MD
+MD-CL	Calarasi	Calarasi	MD
+MD-CM	Cimişlia	Cimişlia	MD
+MD-CR	Criuleni	Criuleni	MD
+MD-CS	Causeni	Causeni	MD
+MD-CT	Cantemir	Cantemir	MD
+MD-CU	Kishinev	Kishinev	MD
+MD-DO	Donduşeni	Donduşeni	MD
+MD-DR	Drochia	Drochia	MD
+MD-DU	Dubăsari	Dubăsari	MD
+MD-ED	Edineţ	Edineţ	MD
+MD-FA	Falesti	Falesti	MD
+MD-FL	Floreşti	Floreşti	MD
+MD-GA	Gagauzia	Gagauzia	MD
+MD-GL	Glodeni	Glodeni	MD
+MD-HI	Hincesti	Hincesti	MD
+MD-IA	Ialoveni	Ialoveni	MD
+MD-LE	Leova	Leova	MD
+MD-NI	Nisporeni	Nisporeni	MD
+MD-OC	Ocniţa	Ocniţa	MD
+MD-OR	Orhei	Orhei	MD
+MD-RE	Rezina	Rezina	MD
+MD-RI	Rîşcani	Rîşcani	MD
+MD-SD	Soldanesti	Soldanesti	MD
+MD-SI	Singerei	Singerei	MD
+MD-SN	Transnistria	Transnistria	MD
+MD-SO	Soroca	Soroca	MD
+MD-ST	Straseni	Straseni	MD
+MD-SV	Stefan Voda	Stefan Voda	MD
+MD-TA	Taraclia	Taraclia	MD
+MD-TE	Telenesti	Telenesti	MD
+MD-UN	Ungheni	Ungheni	MD
+ME-01	Andrijevica	Andrijevica	ME
+ME-02	Bar	Bar	ME
+ME-03	Beranes	Berane	ME
+ME-04	Bijelo Polje	Bijelo Polje	ME
+ME-05	Budva	Budva	ME
+ME-06	Cetinje	Cetinje	ME
+ME-07	Danilovgrad	Danilovgrad	ME
+ME-08	Herceg Novi	Herceg Novi	ME
+ME-09	Kolasin	Kolasin	ME
+ME-10	Kotor	Kotor	ME
+ME-11	Mojkovac	Mojkovac	ME
+ME-12	Niksic	Niksic	ME
+ME-13	Plav	Plav	ME
+ME-14	Plužine	Plužine	ME
+ME-15	Pljevlja	Pljevlja	ME
+ME-16	Podgorica	Podgorica	ME
+ME-17	Rožaje	Rožaje	ME
+ME-18	Šavnik	Šavnik	ME
+ME-19	Tivat	Tivat	ME
+ME-20	Ulcinj	Ulcinj	ME
+ME-21	Žabljak	Žabljak	ME
+ME-22	Gusinje	Gusinje	ME
+ME-23	Pétnica	Petnica	ME
+MG-A	Toamasina	Toamasina	MG
+MG-D	Antsiranana	Antsiranana	MG
+MG-F	Fianarantsoa	Fianarantsoa	MG
+MG-M	Mahajanga	Mahajanga	MG
+MG-T	Antananarivo	Antananarivo	MG
+MG-U	Toliara	Toliara	MG
+MH-ALK	Ailuk	Ailuk	MH
+MH-ALL	Ailinglaplap	Ailinglaplap	MH
+MH-ARN	Arno	Arno	MH
+MH-AUR	Aur	Aur	MH
+MH-EBO	De Ébano	Ebon	MH
+MH-JAB	Jabat	Jabat	MH
+MH-JAL	Jaluit	Jaluit	MH
+MH-KIL	Bikini Y Kili	Bikini And Kili	MH
+MH-KWA	Kwajalein	Kwajalein	MH
+MH-LAE	Lae	Lae	MH
+MH-LIB	Lib	Lib	MH
+MH-LIK	Likiep	Likiep	MH
+MH-MAJ	Majuro	Majuro	MH
+MH-MAL	Maloelap	Maloelap	MH
+MH-MEJ	Mejit	Mejit	MH
+MH-NMK	Namdrik	Namdrik	MH
+MH-NMU	Namu	Namu	MH
+MH-RON	Rongelap	Rongelap	MH
+MH-UJA	Ujae	Ujae	MH
+MH-UTI	Utrik	Utrik	MH
+MH-WTH	Wotho	Wotho	MH
+MH-WTJ	Wotje	Wotje	MH
+MK-02	Aračinovo	Aračinovo	MK
+MK-03	Berovo	Berovo	MK
+MK-04	Bitola	Bitola	MK
+MK-05	Bogdanci	Bogdanci	MK
+MK-06	Bogovinje	Bogovinje	MK
+MK-07	Bosilovo	Bosilovo	MK
+MK-08	Brvenica	Brvenica	MK
+MK-10	Valandovo	Valandovo	MK
+MK-11	Vasilevo	Vasilevo	MK
+MK-12	Vevčani	Vevčani	MK
+MK-13	Veles	Veles	MK
+MK-14	Vinica	Vinica	MK
+MK-16	Vrapciste	Vrapčište	MK
+MK-18	Gevgelija	Gevgelija	MK
+MK-19	Gostivar	Gostivar	MK
+MK-20	Gradsko	Gradsko	MK
+MK-21	Vedar	Debar	MK
+MK-22	Debarca	Debarca	MK
+MK-23	Delcevo	Delčevo	MK
+MK-24	Demir Kapija	Demir Kapija	MK
+MK-25	Demir Hisar	Demir Hisar	MK
+MK-26	Doran	Doran	MK
+MK-27	Dolneni	Dolneni	MK
+MK-30	Zelino	Želino	MK
+MK-32	Zelenikovo	Zelenikovo	MK
+MK-33	Zrnovci	Zrnovci	MK
+MK-34	Ilinden	Ilinden	MK
+MK-35	Jegunovce	Jegunovce	MK
+MK-36	Kavadarci	Kavadarci	MK
+MK-37	Karbinci	Karbinci	MK
+MK-40	Kičevo	Kičevo	MK
+MK-41	Konce	Konče	MK
+MK-42	Kočani	Kočani	MK
+MK-43	Kratovo	Kratovo	MK
+MK-44	Kriva Palanka	Kriva Palanka	MK
+MK-45	Krivogaštani	Krivogaštani	MK
+MK-46	Kruševo	Kruševo	MK
+MK-47	Kumanovo	Kumanovo	MK
+MK-48	Lipkovo	Lipkovo	MK
+MK-49	Lozovo	Lozovo	MK
+MK-50	Mavrovo I Rostusa	Mavrovo I Rostuša	MK
+MK-51	Makedonska Kamenica	Makedonska Kamenica	MK
+MK-52	Makedonski Brod	Makedonski Brod	MK
+MK-53	Mogila	Mogila	MK
+MK-54	Negotino	Negotino	MK
+MK-55	Novaci	Novaci	MK
+MK-56	Novo Selo	Novo Selo	MK
+MK-58	Ohrid	Ohrid	MK
+MK-59	Petrovec	Petrovec	MK
+MK-60	Pehčevo	Pehčevo	MK
+MK-61	Plasnica	Plasnica	MK
+MK-62	Prilep	Prilep	MK
+MK-63	Probištip	Probištip	MK
+MK-64	Radoviš	Radoviš	MK
+MK-65	Rankovce	Rankovce	MK
+MK-66	Resén	Resen	MK
+MK-67	Rosoman	Rosoman	MK
+MK-69	Sveti Nikole	Sveti Nikole	MK
+MK-70	Sopište	Sopište	MK
+MK-71	Staro Nagoričane	Staro Nagoričane	MK
+MK-72	Struga	Struga	MK
+MK-73	Strumica	Strumica	MK
+MK-74	Studeničani	Studeničani	MK
+MK-75	Tearce	Tearce	MK
+MK-76	Tetovo	Tetovo	MK
+MK-78	Centar Župa	Centar Župa	MK
+MK-80	Caska	Čaška	MK
+MK-81	Cesinovo-Obleševo	Češinovo-Obleševo	MK
+MK-82	Čučer Sandevo	Čučer Sandevo	MK
+MK-83	Štip	Štip	MK
+MK-85	Skopje	Skopje	MK
+ML-1	Kayes	Kayes	ML
+ML-2	Koulikoro	Koulikoro	ML
+ML-3	Sikasso	Sikasso	ML
+ML-4	Segou	Segou	ML
+ML-5	Mopti	Mopti	ML
+ML-6	Tombuctú	Timbuktu	ML
+ML-7	Gao	Gao	ML
+ML-8	Kidal	Kidal	ML
+ML-BKO	Bamako	Bamako	ML
+MM-01	Sagaing	Sagaing	MM
+MM-02	Bago	Bago	MM
+MM-03	Magway	Magway	MM
+MM-04	Mandalay	Mandalay	MM
+MM-05	Tanintharyi	Tanintharyi	MM
+MM-06	Yangon	Yangon	MM
+MM-07	Ayeyarwady	Ayeyarwady	MM
+MM-11	Kachin	Kachin	MM
+MM-12	Kayah	Kayah	MM
+MM-13	Kayin	Kayin	MM
+MM-14	Barbilla	Chin	MM
+MM-15	Lun	Mon	MM
+MM-16	Rakhine	Rakhine	MM
+MM-17	Shan	Shan	MM
+MM-18	Nay Pyi Taw	Nay Pyi Taw	MM
+MN-037	Darhan	Darhan	MN
+MN-041	Hovsgol	Hovsgol	MN
+MN-043	Hovd	Hovd	MN
+MN-046	Uvs	Uvs	MN
+MN-047	Tov	Tov	MN
+MN-049	Selenge	Selenge	MN
+MN-051	Suhbaatar	Suhbaatar	MN
+MN-053	Omnogovi	Omnogovi	MN
+MN-055	Ovorhangay	Ovorhangay	MN
+MN-057	Dzavhan	Dzavhan	MN
+MN-059	Dundgovi	Dundgovi	MN
+MN-061	Dornod	Dornod	MN
+MN-063	Dornogovi	Dornogovi	MN
+MN-064	Govi-Sumber	Govi-Sumber	MN
+MN-065	Govi-Altay	Govi-Altay	MN
+MN-067	Bulgan	Bulgan	MN
+MN-069	Bayanhongor	Bayanhongor	MN
+MN-071	Bayan-Olgiy	Bayan-Olgiy	MN
+MN-073	Arhangay	Arhangay	MN
+MN-1	Ulaanbaatar	Ulaanbaatar	MN
+MO-MO	Macao	Macao	MO
+MP-0	Islas Del Norte	Northern Islands	MP
+MP-1	Lista	Rota	MP
+MP-2	Saipan	Saipan	MP
+MP-3	Tinian	Tinian	MP
+MQ-MQ	Martinica	Martinique	MQ
+MR-01	Hodh Chargui	Hodh Ech Chargui	MR
+MR-02	Hodh El Gharbi	Hodh El Gharbi	MR
+MR-03	Assaba	Assaba	MR
+MR-04	Gorgol	Gorgol	MR
+MR-05	Brakna	Brakna	MR
+MR-06	Trarza	Trarza	MR
+MR-07	Adrar	Adrar	MR
+MR-08	Dakhlet Nouadhibou	Dakhlet Nouadhibou	MR
+MR-09	Tagant	Tagant	MR
+MR-10	Guidimaka	Guidimaka	MR
+MR-11	Tiris Zemmour	Tiris Zemmour	MR
+MR-12	Inchiri	Inchiri	MR
+MR-13	Nouakchott West	Nouakchott West	MR
+MR-14	Nouakchott Norte	Nouakchott North	MR
+MR-15	Nouakchott Sur	Nouakchott South	MR
+MS-0	San Antonio	Saint Anthony	MS
+MS-1	Saint Georges	Saint Georges	MS
+MS-2	San Pedro	Saint Peter'S	MS
+MT-01	Attard	Attard	MT
+MT-02	Balzan	Balzan	MT
+MT-03	Birgu	Birgu	MT
+MT-04	Birkirkara	Birkirkara	MT
+MT-05	Birżebbuġa	Birżebbuġa	MT
+MT-06	Cospicua	Cospicua	MT
+MT-07	Dingli	Dingli	MT
+MT-08	Fgura	Fgura	MT
+MT-09	Floriana	Floriana	MT
+MT-10	Fontana	Fontana	MT
+MT-11	Judá	Judah	MT
+MT-12	Gzira	Gzira	MT
+MT-13	Ghajnsielem	Ghajnsielem	MT
+MT-14	Gharb	Gharb	MT
+MT-15	Gharghur	Gharghur	MT
+MT-16	Ghasri	Ghasri	MT
+MT-17	Ghaxaq	Ghaxaq	MT
+MT-18	Hamrun	Hamrun	MT
+MT-19	Iklin	Iklin	MT
+MT-20	Isla	Isla	MT
+MT-21	Kalkara	Kalkara	MT
+MT-22	Kercem	Kercem	MT
+MT-23	Kirkop	Kirkop	MT
+MT-24	Lija	Lija	MT
+MT-25	Lucas	Luke	MT
+MT-26	Marsa	Marsa	MT
+MT-27	Marsascala	Marsascala	MT
+MT-28	Marsaxlokk	Marsaxlokk	MT
+MT-29	Mdina	Mdina	MT
+MT-30	Mellieha	Mellieha	MT
+MT-31	Mġarr	Mġarr	MT
+MT-32	Mosta	Mosta	MT
+MT-33	Mqabba	Mqabba	MT
+MT-34	Msida	Msida	MT
+MT-35	Mtarfa	Mtarfa	MT
+MT-36	Munxar	Munxar	MT
+MT-37	Nadur	Nadur	MT
+MT-38	Naxxar	Naxxar	MT
+MT-39	Paola	Paola	MT
+MT-40	Pembroke	Pembroke	MT
+MT-41	Piedad	Pietà	MT
+MT-42	Qala	Qala	MT
+MT-43	Qormi	Qormi	MT
+MT-44	Qrendi	Qrendi	MT
+MT-45	Victoria	Victoria	MT
+MT-46	Rabat Malta	Rabat Malta	MT
+MT-47	Safi	Safi	MT
+MT-48	St. Julians	St. Julians	MT
+MT-49	San Juan	St John	MT
+MT-50	San Lorenzo	St. Lawrence	MT
+MT-51	Bahía De St. Paul	St. Paul'S Bay	MT
+MT-52	Sannat	Sannat	MT
+MT-53	Santa Lucía	Saint Lucia	MT
+MT-54	Venera	Venera	MT
+MT-55	Siggiewi	Siggiewi	MT
+MT-56	Sliema	Sliema	MT
+MT-57	Swieqi	Swieqi	MT
+MT-58	Tai Xbiex	Tai Xbiex	MT
+MT-59	Tarzien	Tarzien	MT
+MT-60	Valletta	Valletta	MT
+MT-61	Xaghra	Xaghra	MT
+MT-62	Xewkija	Xewkija	MT
+MT-63	Xghajra	Xgħajra	MT
+MT-64	Żabbar	Żabbar	MT
+MT-65	Ghawde	Ghawde	MT
+MT-66	Żebbuġ	Żebbuġ	MT
+MT-67	Zejtun	Zejtun	MT
+MT-68	Zurrieq	Zurrieq	MT
+MU-AG	Islas Agalega	Agalega Islands	MU
+MU-BL	Río Negro	Black River	MU
+MU-BR	Beau Bassin-Rose Hill	Beau Bassin-Rose Hill	MU
+MU-CC	Islas Saint Brandon	Saint Brandon Islands	MU
+MU-CP	Vacoas-Phoenix	Vacoas-Phoenix	MU
+MU-CU	Curepipe	Curepipe	MU
+MU-FL	Flacq	Flacq	MU
+MU-GP	Grand Port	Grand Port	MU
+MU-MO	Moka	Moka	MU
+MU-PA	Pamplemousses	Pamplemousses	MU
+MU-PL	Port Louis	Port Louis	MU
+MU-PU	Port Louis (Ciudad)	Port Louis (City)	MU
+MU-PW	Plaines Wilhems	Plaines Wilhems	MU
+MU-RO	Isla Rodrigues	Rodrigues Island	MU
+MU-RR	Riviere Du Rempart	Riviere Du Rempart	MU
+MU-SA	Savanne	Savanne	MU
+MV-00	Alifu Dhaalu	Alifu Dhaalu	MV
+MV-01	Seenu	Seenu	MV
+MV-02	Alifu Alifu	Alifu Alifu	MV
+MV-03	Lhaviyani	Lhaviyani	MV
+MV-04	Vaavu	Vaavu	MV
+MV-05	Laamu	Laamu	MV
+MV-07	Haa Alifu	Haa Alifu	MV
+MV-08	Thaa	Thaa	MV
+MV-12	Meemu	Meemu	MV
+MV-13	Raa	Raa	MV
+MV-14	Faafu	Faafu	MV
+MV-17	Dhaalu	Dhaalu	MV
+MV-20	Balido	Baa	MV
+MV-23	Haa Dhaalu	Haa Dhaalu	MV
+MV-24	Shaviyani	Shaviyani	MV
+MV-25	Noonu	Noonu	MV
+MV-26	Kaafu	Kaafu	MV
+MV-27	Gaafu Alifu	Gaafu Alifu	MV
+MV-28	Gaafu Dhaalu	Gaafu Dhaalu	MV
+MV-29	Gnaviyani	Gnaviyani	MV
+MV-MLE	Masculino	Malé	MV
+MW-BA	Balaka	Balaka	MW
+MW-BL	Blantyre	Blantyre	MW
+MW-CK	Chikwawa	Chikwawa	MW
+MW-CR	Chiradzulu	Chiradzulu	MW
+MW-CT	Chitipa	Chitipa	MW
+MW-DE	Dedza	Dedza	MW
+MW-DO	Dowa	Dowa	MW
+MW-KR	Karonga	Karonga	MW
+MW-KS	Kasungu	Kasungu	MW
+MW-LI	Lilongwe	Lilongwe	MW
+MW-LK	Likoma	Likoma	MW
+MW-MC	Mchinji	Mchinji	MW
+MW-MG	Mangochi	Mangochi	MW
+MW-MH	Machinga	Machinga	MW
+MW-MU	Mulanje	Mulanje	MW
+MW-MW	Mwanza	Mwanza	MW
+MW-MZ	Mzimba	Mzimba	MW
+MW-NB	Nkhotakota	Nkhotakota	MW
+MW-NE	Nkhata Bay	Nkhata Bay	MW
+MW-NI	Ntchisi	Ntchisi	MW
+MW-NS	Nsanje	Nsanje	MW
+MW-NU	Ntcheu	Ntcheu	MW
+MW-PH	Phalombe	Phalombe	MW
+MW-RU	Rumphi	Rumphi	MW
+MW-SA	Salima	Salima	MW
+MW-TH	Thyolo	Thyolo	MW
+MW-ZO	Zomba	Zomba	MW
+MX-AGU	Aguascalientes	Aguascalientes	MX
+MX-BCN	Baja California	Baja California	MX
+MX-BCS	Baja California Sur	Baja California Sur	MX
+MX-CAM	Campeche	Campeche	MX
+MX-CHH	Chihuahua	Chihuahua	MX
+MX-CHP	Chiapas	Chiapas	MX
+MX-CMX	Ciudad De México	Mexico City	MX
+MX-COA	Coahuila	Coahuila	MX
+MX-COL	Colima	Colima	MX
+MX-DUR	Durango	Durango	MX
+MX-GRO	Guerrero	Guerrero	MX
+MX-GUA	Guanajuato	Guanajuato	MX
+MX-HID	Hidalgo	Hidalgo	MX
+MX-JAL	Jalisco	Jalisco	MX
+MX-MEX	Estado De México	Mexico State	MX
+MX-MIC	Michoacán	Michoacán	MX
+MX-MOR	Morelos	Morelos	MX
+MX-NAY	Nayarit	Nayarit	MX
+MX-NLE	Nuevo León	Nuevo Leon	MX
+MX-OAX	Oaxaca	Oaxaca	MX
+MX-PUE	Puebla	Puebla	MX
+MX-QUE	Querétaro	Querétaro	MX
+MX-ROO	Quintana Roo	Quintana Roo	MX
+MX-SIN	Sinaloa	Sinaloa	MX
+MX-SLP	San Luis Potosí	San Luis Potosi	MX
+MX-SON	Sonora	Sonora	MX
+MX-TAB	Tabasco	Tabasco	MX
+MX-TAM	Tamaulipas	Tamaulipas	MX
+MX-TLA	Tlaxcala	Tlaxcala	MX
+MX-VER	Veracruz	Veracruz	MX
+MX-YUC	Yucatán	Yucatán	MX
+MX-ZAC	Zacatecas	Zacatecas	MX
+MY-01	Johor	Johor	MY
+MY-02	Kedah	Kedah	MY
+MY-03	Kelantan	Kelantan	MY
+MY-04	Melaka	Malacca	MY
+MY-05	Negeri Sembilan	Negeri Sembilan	MY
+MY-06	Pahang	Pahang	MY
+MY-07	Penang	Penang	MY
+MY-08	Plata	Silver	MY
+MY-09	Perlis	Perlis	MY
+MY-10	Selangor	Selangor	MY
+MY-11	Terengganu	Terengganu	MY
+MY-12	Sabah	Sabah	MY
+MY-13	Sarawak	Sarawak	MY
+MY-14	Kuala Lumpur	Kuala Lumpur	MY
+MY-15	Labuan	Labuan	MY
+MY-16	Putrajaya	Putrajaya	MY
+MZ-A	Niassa	Niassa	MZ
+MZ-B	Manica	Manica	MZ
+MZ-G	Gaza	Gaza	MZ
+MZ-I	Inhambane	Inhambane	MZ
+MZ-L	Maputo	Maputo	MZ
+MZ-MPM	Maputo (Ciudad)	Maputo (City)	MZ
+MZ-N	Nampula	Nampula	MZ
+MZ-P	Cabo Delgado	Cabo Delgado	MZ
+MZ-Q	Zambezia	Zambezia	MZ
+MZ-S	Sofala	Sofala	MZ
+MZ-T	Tete	Tete	MZ
+NA-CA	Zambezi	Zambezi	NA
+NA-ER	Erongo	Erongo	NA
+NA-HA	Hardap	Hardap	NA
+NA-KA	Karas	Karas	NA
+NA-KE	Este Kavango	Kavango East	NA
+NA-KH	Khomas	Khomas	NA
+NA-KU	Kunene	Kunene	NA
+NA-KW	Kavango West	Kavango West	NA
+NA-OD	Otjozondjupa	Otjozondjupa	NA
+NA-OH	Omaheke	Omaheke	NA
+NA-ON	Oshana	Oshana	NA
+NA-OS	Omusati	Omusati	NA
+NA-OT	Oshikoto	Oshikoto	NA
+NA-OW	Ohangwena	Ohangwena	NA
+NC-0	Islas De La Lealtad	Loyalty Islands	NC
+NC-1	Norte	North	NC
+NC-2	Sur	South	NC
+NE-1	Agadez	Agadez	NE
+NE-2	Diffa	Diffa	NE
+NE-3	Dosso	Dosso	NE
+NE-4	Maradi	Maradi	NE
+NE-5	Tahoua	Tahoua	NE
+NE-6	Tillabéri	Tillaberi	NE
+NE-7	Zinder	Zinder	NE
+NE-8	Niamey	Niamey	NE
+NF-0	Isla Norfolk	Norfolk Island	NF
+NG-AB	Abia	Abia	NG
+NG-AD	Adamawa	Adamawa	NG
+NG-AK	Akwa Ibom	Akwa Ibom	NG
+NG-AN	Anambra	Anambra	NG
+NG-BA	Bauchi	Bauchi	NG
+NG-BE	Benue	Benue	NG
+NG-BO	Borno	Borno	NG
+NG-BY	Bayelsa	Bayelsa	NG
+NG-CR	Cross River	Cross River	NG
+NG-DE	Delta	Delta	NG
+NG-EB	Ebonyi	Ebonyi	NG
+NG-ED	Edo	Edo	NG
+NG-EK	Ekiti	Ekiti	NG
+NG-EN	Enugu	Enugu	NG
+NG-FC	Territorio Capital Federal Abuja	Abuja Federal Capital Territory	NG
+NG-GO	Gombe	Gombe	NG
+NG-IM	Imo	Imo	NG
+NG-JI	Jigawa	Jigawa	NG
+NG-KD	Kaduna	Kaduna	NG
+NG-KE	Kebbi	Kebbi	NG
+NG-KN	Kano	Kano	NG
+NG-KO	Kogi	Kogi	NG
+NG-KT	Katsina	Katsina	NG
+NG-KW	Kwara	Kwara	NG
+NG-LA	Lagos	Lagos	NG
+NG-NA	Nassarawa	Nassarawa	NG
+NG-NI	Níger	Niger	NG
+NG-OG	Ogun	Ogun	NG
+NG-ON	Ondo	Ondo	NG
+NG-OS	Osun	Osun	NG
+NG-OY	Oyo	Oyo	NG
+NG-PL	Meseta	Plateau	NG
+NG-RI	Ríos	Rivers	NG
+NG-SO	Sokoto	Sokoto	NG
+NG-TA	Taraba	Taraba	NG
+NG-YO	Yobe	Yobe	NG
+NG-ZA	Zamfara	Zamfara	NG
+NI-AN	Atlántico Norte	North Atlantic	NI
+NI-AS	Atlántico Sur	South Atlantic	NI
+NI-BO	Boaco	Boaco	NI
+NI-CA	Carazo	Carazo	NI
+NI-CI	Chinandega	Chinandega	NI
+NI-CO	Chontales	Chontales	NI
+NI-ES	Estelí	Estelí	NI
+NI-GR	Granada	Granada	NI
+NI-JI	Jinotega	Jinotega	NI
+NI-LE	León	Lion	NI
+NI-MD	Madriz	Madriz	NI
+NI-MN	Managua	Managua	NI
+NI-MS	Masaya	Masaya	NI
+NI-MT	Matagalpa	Matagalpa	NI
+NI-NS	Nueva Segovia	Nueva Segovia	NI
+NI-RI	Rivas	Rivas	NI
+NI-SJ	Río San Juan	San Juan River	NI
+NL-DR	Drenthe	Drenthe	NL
+NL-FL	Flevolanda	Flevoland	NL
+NL-FR	Friesland	Friesland	NL
+NL-GE	Gelderland	Gelderland	NL
+NL-GR	Groningen	Groningen	NL
+NL-LI	Limburg	Limburg	NL
+NL-NB	Brabante Del Norte	North Brabant	NL
+NL-NH	Holanda Del Norte	North Holland	NL
+NL-OV	Overijssel	Overijssel	NL
+NL-UT	Utrecht	Utrecht	NL
+NL-ZE	Zelandia	Zealand	NL
+NL-ZH	Holanda Del Sur	South-Holland	NL
+NO-01	Østfold	Østfold	NO
+NO-02	Akershus	Akershus	NO
+NO-03	Oslo	Oslo	NO
+NO-04	Hedmark	Hedmark	NO
+NO-05	Oppland	Oppland	NO
+NO-06	Buskerud	Buskerud	NO
+NO-07	Vestfold	Vestfold	NO
+NO-08	Telemark	Telemark	NO
+NO-09	Aust-Agder	Aust-Agder	NO
+NO-10	Vest-Agder	Vest-Agder	NO
+NO-11	Rogaland	Rogaland	NO
+NO-12	Hordaland	Hordaland	NO
+NO-14	Sogn Og Fjordane	Sogn Og Fjordane	NO
+NO-15	Más Og Romsdal	Møre And Romsdal	NO
+NO-16	Sor-Trondelag	Sør Trøndelag	NO
+NO-17	Nord-Trondelag	Nord-Trondelag	NO
+NO-18	Nordland	Nordland	NO
+NO-19	Troms	Troms	NO
+NO-20	Finnmark	Finnmark	NO
+NO-21	Svalbard	Svalbard	NO
+NO-22	Jan Mayen	Jan Mayen	NO
+NP-BA	Bagmati	Bagmati	NP
+NP-BH	Bheri	Bheri	NP
+NP-DH	Dhawalagiri	Dhawalagiri	NP
+NP-GA	Gandaki	Gandaki	NP
+NP-JA	Janakpur	Janakpur	NP
+NP-KA	Karnali	Karnali	NP
+NP-KO	Kosi	Kosi	NP
+NP-LU	Lumbini	Lumbini	NP
+NP-MA	Mahakali	Mahakali	NP
+NP-ME	Mechi	Mechi	NP
+NP-NA	Narayani	Narayani	NP
+NP-RA	Rapti	Rapti	NP
+NP-SA	Sagarmatha	Sagarmatha	NP
+NP-SE	Seti	Seti	NP
+NR-01	Aiwo	Aiwo	NR
+NR-02	Anabar	Anabar	NR
+NR-03	Anetan	Anetan	NR
+NR-04	Anibare	Anibare	NR
+NR-05	Baiti	Baiti	NR
+NR-06	Boe	Boe	NR
+NR-07	Buada	Buada	NR
+NR-08	Denigomodu	Denigomodu	NR
+NR-09	Ewa	Ewa	NR
+NR-10	Ijuw	Ijuw	NR
+NR-11	Meneng	Meneng	NR
+NR-12	Nibok	Nibok	NR
+NR-13	Uaboe	Uaboe	NR
+NR-14	Yaren	Yaren	NR
+NU-0	Niue	Niue	NU
+NZ-AUK	Auckland	Auckland	NZ
+NZ-BOP	Bay Of Plenty	Bay Of Plenty	NZ
+NZ-CAN	Canterbury	Canterbury	NZ
+NZ-CIT	Territorio De Las Islas Chatham	Chatham Islands Territory	NZ
+NZ-GIS	Gisborne	Gisborne	NZ
+NZ-HKB	Bahía De Hawke	Hawke'S Bay	NZ
+NZ-MBH	Marlborough	Marlborough	NZ
+NZ-MWT	Manawatu-Wanganui	Manawatu-Wanganui	NZ
+NZ-NSN	Nelson	Nelson	NZ
+NZ-NTL	Región Septentrional	Northland	NZ
+NZ-OTA	Otago	Otago	NZ
+NZ-STL	Southland	Southland	NZ
+NZ-TAS	Tasman	Tasman	NZ
+NZ-TKI	Taranaki	Taranaki	NZ
+NZ-WGN	Wellington	Wellington	NZ
+NZ-WKO	Waikato	Waikato	NZ
+NZ-WTC	Costa Oeste	West Coast	NZ
+OM-BJ	Sur Batinah	South Batinah	OM
+OM-BS	Norte Batinah	North Batinah	OM
+OM-BU	Buraimi	Buraimi	OM
+OM-DA	Provincia Interior	Inner Province	OM
+OM-MA	Mascate	Maskat City	OM
+OM-MU	Musandam	Musandam	OM
+OM-SJ	Sudeste	South East	OM
+OM-SS	Noreste	North East	OM
+OM-WU	Central	Central	OM
+OM-ZA	Dhahirah	Dhahirah	OM
+OM-ZU	Dhofar	Dhofar	OM
+PA-1	Bocas Del Toro	Bocas Del Toro	PA
+PA-10	Panamá Oeste	Western Panama	PA
+PA-2	Coclé	Cocle	PA
+PA-3	Colón	Colon	PA
+PA-4	Chiriquí	Chiriquí	PA
+PA-5	Darién	Darien	PA
+PA-6	Herrera	Herrera	PA
+PA-7	Los Santos	The Saints	PA
+PA-8	Panamá	Panama	PA
+PA-9	Veraguas	Veraguas	PA
+PA-EM	Emberá	Embera	PA
+PA-KY	Kuna Yala	Kuna Yala	PA
+PA-NB	Ngäbe-Buglé	Ngäbe- Bugle	PA
+PE-AMA	Amazonas	Amazon	PE
+PE-ANC	Ancash	Ancash	PE
+PE-APU	Apurimac	Apurimac	PE
+PE-ARE	Arequipa	Arequipa	PE
+PE-AYA	Ayacucho	Ayacucho	PE
+PE-CAJ	Cajamarca	Cajamarca	PE
+PE-CAL	Callao	Callao	PE
+PE-CUS	Cusco	Cusco	PE
+PE-HUC	Huanuco	Huanuco	PE
+PE-HUV	Huancavelica	Huancavelica	PE
+PE-ICA	Ica	Ica	PE
+PE-JUN	Junin	Junin	PE
+PE-LAL	La Libertad	La Libertad	PE
+PE-LAM	Lambayeque	Lambayeque	PE
+PE-LIM	Lima	Lime	PE
+PE-LMA	Municipalidad Metropolitana De Lima	Municipality Of Lima	PE
+PE-LOR	Loreto	Loreto	PE
+PE-MDD	Madre De Dios	Madre De Dios	PE
+PE-MOQ	Moquegua	Moquegua	PE
+PE-PAS	Pasco	Pasco	PE
+PE-PIU	Piura	Piura	PE
+PE-PUN	Puno	Puno	PE
+PE-SAM	San Martin	San Martin	PE
+PE-TAC	Tacna	Tacna	PE
+PE-TUM	Tumbes	Tumbes	PE
+PE-UCA	Ucayali	Ucayali	PE
+PF-0	Marquesas	Marquesas	PF
+PF-1	Tuamotus	Tuamotus	PF
+PF-2	Archipiélago Tubuai	Archipelago Tubuai	PF
+PF-3	Islas De Barlovento	Windward Islands	PF
+PF-4	Iles Sous-Le-Vent	Iles Sous-Le-Vent	PF
+PG-CPK	Chimbu	Chimbu	PG
+PG-CPM	Central	Central	PG
+PG-EBR	Nueva Bretaña Del Este	East New Britain	PG
+PG-EHG	Montañas Del Este	Eastern Highlands	PG
+PG-EPW	Enga	Enga	PG
+PG-ESW	Sepik	East Sepik	PG
+PG-GPK	Golfo	Gulf	PG
+PG-HLA	Hela	Hela	PG
+PG-JWK	Jiwaka	Jiwaka	PG
+PG-MBA	Milne Bay	Milne Bay	PG
+PG-MOM	Madang	Madang	PG
+PG-MPL	Morobe	Morobe	PG
+PG-MRL	Manus	Manus	PG
+PG-NCD	Port Moresby	Port Moresby	PG
+PG-NIK	Nueva Irlanda	New Ireland	PG
+PG-NPP	Del Norte	Northern	PG
+PG-NSB	Bougainville	Bougainville	PG
+PG-SAN	West Sepik	West Sepik	PG
+PG-SHM	Southern Highlands	Southern Highlands	PG
+PG-WBK	Nueva Bretaña Occidental	West New Britain	PG
+PG-WHM	Western Highlands	Western Highlands	PG
+PG-WPD	Occidental	Western	PG
+PH-00	Luzón	National Capital Region	PH
+PH-ABR	Abra	Abra	PH
+PH-AGN	Agusan Del Norte	Agusan Del Norte	PH
+PH-AGS	Agusan Del Sur	South Agusan	PH
+PH-AKL	Aklan	Aklan	PH
+PH-ALB	Albay	Albay	PH
+PH-ANT	Antike	Antike	PH
+PH-APA	Apayaw	Apayaw	PH
+PH-AUR	Aurora	Aurora	PH
+PH-BAN	Bataan	Bataan	PH
+PH-BAS	Basilan	Basilan	PH
+PH-BEN	Benget	Benget	PH
+PH-BIL	Biliran	Biliran	PH
+PH-BOH	Bohol	Bohol	PH
+PH-BTG	Batangas	Batangas	PH
+PH-BTN	Batanes	Batanes	PH
+PH-BUK	Bukidnon	Bukidnon	PH
+PH-BUL	Bulakan	Bulakan	PH
+PH-CAG	Kagayan	Kagayan	PH
+PH-CAM	Kamigin	Kamigin	PH
+PH-CAN	Norte Kamarines	North Kamarines	PH
+PH-CAP	Kapis	Kapis	PH
+PH-CAS	Sur Kamarines	South Kamarines	PH
+PH-CAT	Katanduwanes	Katanduwanes	PH
+PH-CAV	Cavite	Cavite	PH
+PH-CEB	Sebu	Sebu	PH
+PH-COM	Valle De Compostela	Compostela Valley	PH
+PH-DAO	Al Este De Davao	East Davao	PH
+PH-DAS	El Sur De Davao	Southern Davao	PH
+PH-DAV	Davao Del Norte	North Davao	PH
+PH-DIN	Dinagat	Dinagat Islands	PH
+PH-DVO	West Davao	West Davao	PH
+PH-EAS	Eastern Samar	Eastern Samar	PH
+PH-GUI	Gimaras	Gimaras	PH
+PH-IFU	Ipugaw	Ipugaw	PH
+PH-ILI	Iloilo	Iloilo	PH
+PH-ILN	Norte Iloko	North Iloko	PH
+PH-ILS	Sur Iloko	South Iloko	PH
+PH-ISA	Isabela	Isabela	PH
+PH-KAL	Kalinga	Kalinga	PH
+PH-LAG	Laguna	Laguna	PH
+PH-LAN	Mar Del Norte	North Sea	PH
+PH-LAS	Lago Del Sur	South Lake	PH
+PH-LEY	Leyte	Leyte	PH
+PH-LUN	La Unión	La Union	PH
+PH-MAD	Marinduke	Marinduke	PH
+PH-MAG	Magindanaw	Magindanaw	PH
+PH-MAS	Masbate	Masbate	PH
+PH-MDC	Occidental Mindoro	Occidental Mindoro	PH
+PH-MDR	Mindoro Oriental	Oriental Mindoro	PH
+PH-MOU	Provincia De Montaña	Mountain Province	PH
+PH-MSC	Misamis Occidental	Misamis Occidental	PH
+PH-MSR	Oriental De Misamis	Eastern Misamis	PH
+PH-NCO	Cotabato	Cotabato	PH
+PH-NEC	Negros Occidental	Negros Occidental	PH
+PH-NER	Visayas Oriental	Eastern Visayas	PH
+PH-NSA	Northern Samar	Northern Samar	PH
+PH-NUE	Nuweva Ecija	Nuweva Ecija	PH
+PH-NUV	Nuweva Biskaya	Nuweva Biskaya	PH
+PH-PAM	Pampanga	Pampanga	PH
+PH-PAN	Pangasinan	Pangasinan	PH
+PH-PLW	Palawan	Palawan	PH
+PH-QUE	Keson	Keson	PH
+PH-QUI	Kirino	Kirino	PH
+PH-RIZ	Risal	Risàl	PH
+PH-ROM	Romblon	Romblon	PH
+PH-SAR	Sarangani	Sarangani	PH
+PH-SCO	Cotabato Del Sur	South Cotabato	PH
+PH-SIG	Sikihor	Sikihor	PH
+PH-SLE	Southern Leyte	Southern Leyte	PH
+PH-SLU	Sulu	Sulu	PH
+PH-SOR	Sorsogon	Sorsogon	PH
+PH-SUK	Sultan Kudarat	Sultan Kudarat	PH
+PH-SUN	El Norte De Surigao	Northern Surigao	PH
+PH-SUR	Surigao Del Sur	South Surigao	PH
+PH-TAR	Tarlac	Tarlac	PH
+PH-TAW	Tawi-Tawi	Tawi-Tawi	PH
+PH-WSA	Samar	Samar	PH
+PH-ZAN	Norte Sambuwangga	North Sambuwangga	PH
+PH-ZAS	Sur Sambuwangga	South Sambuwangga	PH
+PH-ZMB	Sambales	Sambales	PH
+PH-ZSI	Sambuwangga Sibugay	Sambuwangga Sibugay	PH
+PK-BA	Baluchistán	Balōchistān	PK
+PK-GB	Gilgit-Baltistan	Gilgit-Baltistān	PK
+PK-IS	Islamabad	Islamabad	PK
+PK-JK	Azad Kashmir	Āzād Kashmīr	PK
+PK-KP	Jaibar Pakhtūnkhwās	Khaībar Pakhtūnkhwās	PK
+PK-PB	Punjab	Punjāb	PK
+PK-SD	Sind	Sindh	PK
+PL-DS	Baja Silesia	Lower Silesia	PL
+PL-KP	Cuyavia Y Pomerania	Kuyavian-Pomeranian	PL
+PL-LB	Lubuskie	Lubuskie	PL
+PL-LD	Lodz	Lodz	PL
+PL-LU	Lublin	Lublin	PL
+PL-MA	Małopolskie	Małopolskie	PL
+PL-MZ	Mazowieckie	Mazowieckie	PL
+PL-OP	Opole	Opole	PL
+PL-PD	Podlasie	Podlasie	PL
+PL-PK	Podkarpackie	Podkarpackie	PL
+PL-PM	Pomorskie	Pomorskie	PL
+PL-SK	Swietokrzyskie	Swietokrzyskie	PL
+PL-SL	Silesia	Silesian	PL
+PL-WN	Warmia Y Masuria	Warmia-Masurian	PL
+PL-WP	Wielkopolskie	Wielkopolskie	PL
+PL-ZP	Pomerania Occidental	West Pomeranian	PL
+PM-0	Miquelon	Miquelon	PM
+PM-1	San Pedro	Saint Pierre	PM
+PN-0	Islas Pitcairn	Pitcairn Islands	PN
+PR-0	Adjuntas	Adjuntas	PR
+PR-1	Aguada	Aguada	PR
+PR-10	Bayamon	Bayamon	PR
+PR-11	Cabo Rojo	Cabo Rojo	PR
+PR-12	Caguas	Caguas	PR
+PR-13	Camuy	Camuy	PR
+PR-14	Canovanas	Canovanas	PR
+PR-15	Carolina	Carolina	PR
+PR-16	Cat	Cat	PR
+PR-17	Ceiba	Ceiba	PR
+PR-18	Ciales	Ciales	PR
+PR-19	Cidra	Citron	PR
+PR-2	Aguadilla	Aguadilla	PR
+PR-20	Coamo	Coamo	PR
+PR-21	Comerio	Comerio	PR
+PR-22	Corozal	Corozal	PR
+PR-23	Culebra	Culebra	PR
+PR-24	Dorado	Dorado	PR
+PR-25	Fajardo	Fajardo	PR
+PR-26	Florida	Florida	PR
+PR-27	Guanica	Guanica	PR
+PR-28	Guayama	Guayama	PR
+PR-29	Guayanilla	Guayanilla	PR
+PR-3	Aguas Buenas	Aguas Buenas	PR
+PR-30	Guaynabo	Guaynabo	PR
+PR-31	Gurabo	Gurabo	PR
+PR-32	Hatillo	Hatillo	PR
+PR-33	Hormigueros	Hormigueros	PR
+PR-34	Humacao	Humacao	PR
+PR-35	Isabe	Isabe	PR
+PR-36	Juana Diaz	Juana Diaz	PR
+PR-37	Juncos	Juncos	PR
+PR-38	Lajas	Lajas	PR
+PR-39	Lares	Lares	PR
+PR-4	Aibonito	Aibonito	PR
+PR-40	Las Marias	Las Marias	PR
+PR-41	Las Oiza	The Oíza	PR
+PR-42	Luquillo	Luquillo	PR
+PR-43	Manati	Manati	PR
+PR-44	Maricao	Maricao	PR
+PR-45	Maunabo	Maunabo	PR
+PR-46	Mayaguez	Mayaguez	PR
+PR-47	Moca	Moca	PR
+PR-48	Morovis	Morovis	PR
+PR-49	Naguabo	Naguabo	PR
+PR-5	Anasco	Anasco	PR
+PR-50	Naranjito	Naranjito	PR
+PR-51	Orocovis	Orocovis	PR
+PR-52	Patillas	Patillas	PR
+PR-53	Penuelas	Penuelas	PR
+PR-54	Ponce	Ponce	PR
+PR-55	Quebradillas	Quebradillas	PR
+PR-56	Rincon	Rincon	PR
+PR-57	Rio Grande	Rio Grande	PR
+PR-58	Sabana Linas	Sabana Linas	PR
+PR-59	San German	San German	PR
+PR-6	Arecibo	Arecibo	PR
+PR-60	San Juan	San Juan	PR
+PR-61	San Lorenzo	San Lorenzo	PR
+PR-62	San Sebastian	Saint Sebastian	PR
+PR-63	Santa Isabel	Saint Elizabeth	PR
+PR-64	Toa Alta	Toa Alta	PR
+PR-65	Toa Baja	Toa Baja	PR
+PR-66	Trujillo Alto	Trujillo Alto	PR
+PR-67	Utuado	Utuado	PR
+PR-68	Vega Alta	Vega Alta	PR
+PR-69	Vega Ues	Vega Ues	PR
+PR-7	Arroyo	Arroyo	PR
+PR-70	Villalba	Villalba	PR
+PR-71	Yabucoa	Yabucoa	PR
+PR-72	Yauco	Yauco	PR
+PR-8	Barceloneta	Barceloneta	PR
+PR-9	Barranquitas	Barranquitas	PR
+PS-BTH	Belén	Bethlehem	PS
+PS-DEB	Deir El Balah	Deir El Balah	PS
+PS-GZA	Gaza	Gaza	PS
+PS-HBN	Hebron	Hebron	PS
+PS-JEM	Jerusalén	Jerusalem	PS
+PS-JEN	Jenin	Jenin	PS
+PS-JRH	Jericó Y Al Agwar	Jericho And Al Aghwar	PS
+PS-KYS	Khan Yunis	Khan Yunis	PS
+PS-NBS	Nablus	Nablus	PS
+PS-NGZ	Norte De Gaza	North Gaza	PS
+PS-QQA	Qalqilya	Qalqilya	PS
+PS-RBH	Ramallah	Ramallah	PS
+PS-RFH	Rafah	Rafah	PS
+PS-SLT	Salfit	Salfit	PS
+PS-TBS	Tubas	Tubas	PS
+PS-TKM	Tulkarem	Tulkarm	PS
+PT-01	Aveiro	Aveiro	PT
+PT-02	Beja	Beja	PT
+PT-03	Braga	Braga	PT
+PT-04	Bragança	Bragança	PT
+PT-05	Castelo Branco	Castelo Branco	PT
+PT-06	Coimbra	Coimbra	PT
+PT-07	Évora	Évora	PT
+PT-08	Faro	Faro	PT
+PT-09	Guarda	Guarda	PT
+PT-10	Leiria	Leiria	PT
+PT-11	Lisboa	Lisbon	PT
+PT-12	Portalegre	Portalegre	PT
+PT-13	Porto	Porto	PT
+PT-14	Santarém	Santarém	PT
+PT-15	Setúbal	Setúbal	PT
+PT-16	Viana Do Castelo	Viana Do Castelo	PT
+PT-17	Vila Real	Vila Real	PT
+PT-18	Viseu	Viseu	PT
+PT-20	Azores	Azores	PT
+PT-30	Madeira	Madeira	PT
+PW-002	Aimeliik	Aimeliik	PW
+PW-004	Airai	Airai	PW
+PW-010	Angaur	Angaur	PW
+PW-050	Hatobohei	Hatobohei	PW
+PW-100	Kayangel	Kayangel	PW
+PW-150	Koror	Koror	PW
+PW-212	Melekeok	Melekeok	PW
+PW-214	Ngaraard	Ngaraard	PW
+PW-218	Ngarchelong	Ngarchelong	PW
+PW-222	Ngardmau	Ngardmau	PW
+PW-224	Ngatpang	Ngatpang	PW
+PW-226	Ngchesar	Ngchesar	PW
+PW-227	Ngeremlengui	Ngeremlengui	PW
+PW-228	Ngiwal	Ngiwal	PW
+PW-350	Peleliu	Peleliu	PW
+PW-370	Sonsoral	Sonsoral	PW
+PY-1	Concepcion	Concepcion	PY
+PY-10	Alto Parana	Alto Parana	PY
+PY-11	Central	Central	PY
+PY-12	Neembucu	Neembucu	PY
+PY-13	Amambay	Amambay	PY
+PY-14	Canindeyu	Canindeyu	PY
+PY-15	Presidente Hayes	Presidente Hayes	PY
+PY-16	Alto Paraguay	Alto Paraguay	PY
+PY-2	San Pedro	San Pedro	PY
+PY-3	Cordillera	Cordillera	PY
+PY-4	Guaira	Guaira	PY
+PY-5	Caaguazu	Caaguazu	PY
+PY-6	Caazapa	Caazapa	PY
+PY-7	Itapua	Itapua	PY
+PY-8	Misiones	Misiones	PY
+PY-9	Paraguari	Paraguari	PY
+PY-ASU	Asuncion	Asuncion	PY
+QA-DA	Doha	Doha	QA
+QA-KH	Al Khor	Al Khor	QA
+QA-MS	Norte	North	QA
+QA-RA	Al Rayyan	Al Rayyan	QA
+QA-SH	Shahhaniya	Shahhaniya	QA
+QA-US	Umm Salal	Umm Salal	QA
+QA-WA	Wakra	Wakra	QA
+QA-ZA	Aldain	Aldain	QA
+RE-RE	Réunion	Réunion	RE
+RO-AB	Alba	Alba	RO
+RO-AG	Arges	Arges	RO
+RO-AR	Arad	Arad	RO
+RO-B	Bucarest	Bucharest	RO
+RO-BC	Bacau	Bacau	RO
+RO-BH	Bihor	Bihor	RO
+RO-BN	Bistrita	Bistrita	RO
+RO-BR	Braila	Braila	RO
+RO-BT	Botosani	Botosani	RO
+RO-BV	Brasov	Brasov	RO
+RO-BZ	Buzau	Buzau	RO
+RO-CJ	Cluj	Cluj	RO
+RO-CL	Calarasi	Calarasi	RO
+RO-CS	Caras-Severin	Caras-Severin	RO
+RO-CT	Constanza	Constant	RO
+RO-CV	Covasna	Covasna	RO
+RO-DB	Dambovita	Dambovita	RO
+RO-DJ	Dolj	Dolj	RO
+RO-GJ	Gorj	Gorj	RO
+RO-GL	Galati	Galati	RO
+RO-GR	Giurgiu	Giurgiu	RO
+RO-HD	Hunedoara	Hunedoara	RO
+RO-HR	Harghita	Harghita	RO
+RO-IL	Ialomita	Ialomita	RO
+RO-IS	Iasi	Iasi	RO
+RO-MH	Mehedinti	Mehedinti	RO
+RO-MM	Maramures	Maramures	RO
+RO-MS	Mures	Mures	RO
+RO-NT	Neamt	Neamt	RO
+RO-OT	Olt	Olt	RO
+RO-PH	Prahova	Prahova	RO
+RO-SB	Sibiu	Sibiu	RO
+RO-SJ	Salaj	Salaj	RO
+RO-SM	Satu Mare	Satu Mare	RO
+RO-SV	Suceava	Suceava	RO
+RO-TL	Tulcea	Tulcea	RO
+RO-TM	Timis	Timis	RO
+RO-TR	Teleorman	Teleorman	RO
+RO-VL	Valcea	Valcea	RO
+RO-VN	Vrancea	Vrancea	RO
+RO-VS	Vaslui	Vaslui	RO
+RS-00	Belgrado	White City	RS
+RS-01	Severnobački	Severnobački	RS
+RS-02	Srednjebanatski	Srednjebanatski	RS
+RS-03	Severnobanatski	Severnobanatski	RS
+RS-04	Južnobanatski	Južnobanatski	RS
+RS-05	Zapadnobački	Zapadnobački	RS
+RS-06	Južnobački	Južnobački	RS
+RS-07	Sremski	Sremski	RS
+RS-08	Mačvanski	Mačvanski	RS
+RS-09	Kolubarski	Kolubarski	RS
+RS-10	Podunavski	Podunavski	RS
+RS-11	Braničevski	Braničevski	RS
+RS-12	Sumadijski	Šumadijski	RS
+RS-13	Pomoravski	Pomoravski	RS
+RS-14	Borski	Borski	RS
+RS-15	Zaječarski	Zaječarski	RS
+RS-16	Zlatibor	Zlatibor	RS
+RS-17	Moravički	Moravički	RS
+RS-18	Raska	Raska	RS
+RS-19	Rasinski	Rasinski	RS
+RS-20	Nišavski	Nišavski	RS
+RS-21	Toplički	Toplički	RS
+RS-22	Pirot	Pirot	RS
+RS-23	Jablanica	Jablanica	RS
+RS-24	Pcinjski	Pčinjski	RS
+RS-25	Kosovo	Kosovo	RS
+RS-26	Pec	Pec	RS
+RS-27	Prizren	Prizren	RS
+RS-28	Mitrovica	Kosovska Mitrovica	RS
+RS-29	Pomoravski	Kosovska Pomoravski	RS
+RU-AD	Región De Amur	Amurskaya Oblast	RU
+RU-AL	Región De Arkhangelsk	Arhangelsk Region	RU
+RU-ALT	Región De Astracán	Astrakhan Region	RU
+RU-AMU	Región De Belgorod	Belgorod Region	RU
+RU-ARK	Región De Bryansk	Bryansk Region	RU
+RU-AST	Región De Chelyabinsk	Chelyabinsk Region	RU
+RU-BA	La Región De Irkutsk	Irkutsk Region	RU
+RU-BEL	Región De Ivanovo	Ivanovo Region	RU
+RU-BRY	Región De Kemerovo	Kemerovo Region	RU
+RU-BU	Región De Kaliningrado	Kaliningrad Region	RU
+RU-CE	Región De Kurgan	Kurgan Region	RU
+RU-CHE	Región De Kirov	Kirov Region	RU
+RU-CHU	La Región De Kaluga	Kaluga Region	RU
+RU-CU	Región De Kostroma	Kostroma Region	RU
+RU-DA	Región De Kursk	Kursk Region	RU
+RU-IN	Región De Leningrado	Leningrad Region	RU
+RU-IRK	Región De Lipetsk	Lipetsk Region	RU
+RU-IVA	Región De Magadan	Magadan Region	RU
+RU-KAM	Región De Moscú	Moscow Region	RU
+RU-KB	Región De Murmansk	Murmansk Region	RU
+RU-KC	Región De Novgorod	Novgorod Region	RU
+RU-KDA	Región De Nizhny Novgorod	Nizhny Novgorod Region	RU
+RU-KEM	Región De Novosibirsk	Novosibirsk Region	RU
+RU-KGD	Región De Omsk	Omsk Region	RU
+RU-KGN	Región De Orenburg	Orenburg Region	RU
+RU-KHA	Región De Orel	Oryol Region	RU
+RU-KHM	Región De Penza	Penza Region	RU
+RU-KIR	Región De Pskov	Pskov Region	RU
+RU-KK	Región De Rostov	Rostov Region	RU
+RU-KL	Región De Riazán	Ryazan Oblast	RU
+RU-KLU	Sakhalín	Sakhalin Region	RU
+RU-KO	Región De Samara	Samara Region	RU
+RU-KOS	Región De Saratov	Saratov Region	RU
+RU-KR	Región De Smolensk	Smolensk Region	RU
+RU-KRS	Región De Sverdlovsk	Sverdlovsk Region	RU
+RU-KYA	Región De Tambov	Tambov Region	RU
+RU-LEN	Región De Tomsk	Tomsk Region	RU
+RU-LIP	Región De Tula	Tula Region	RU
+RU-MAG	Región De Tver	Tver Region	RU
+RU-ME	Región De Tyumen	Tyumen Region	RU
+RU-MO	Región De Ulyanovsk	Ulyanovsk Region	RU
+RU-MOS	Región De Volgogrado	Volgograd Region	RU
+RU-MOW	Región De Vladimir	Vladimir Region	RU
+RU-MUR	Región De Vologda	Vologda Region	RU
+RU-NEN	Región De Voronezh	Voronezh Region	RU
+RU-NGR	La Región De Yaroslavl	Yaroslavskaya Oblast	RU
+RU-NIZ	Adygea	Adygea	RU
+RU-NVS	Bashrkortostn	Bashkortostan	RU
+RU-OMS	Buriatia	Buryatia	RU
+RU-ORE	Daguestán	Dagestan	RU
+RU-ORL	Ingushetia	Ingushetia	RU
+RU-PER	Kabardino-Balkaria	Kabardino-Balkaria	RU
+RU-PNZ	Kalmukia	Kalmykia	RU
+RU-PRI	Karachay-Cherkessia	Karachay-Cherkessia	RU
+RU-PSK	Karelia	Karelia	RU
+RU-ROS	Mari El	Mari El Republic	RU
+RU-RYA	Mordovia	Mordovia	RU
+RU-SA	República De Altai	Altai Republic	RU
+RU-SAK	República De Komi	Komi Republic	RU
+RU-SAM	Yakutia	Yakutia	RU
+RU-SAR	Osetia Del Norte	North Ossetia	RU
+RU-SE	Tatarstán	Tatarstan	RU
+RU-SMO	Tyva	Tyva	RU
+RU-SPE	Udmurtia	Udmurtia	RU
+RU-STA	Jakasia	Khakassia	RU
+RU-SVE	Chechnya	Chechnya	RU
+RU-TA	Chuvashia	Chuvashia	RU
+RU-TAM	Región De Altai	Altai Region	RU
+RU-TOM	Territorio Trans-Baikal	Transbaikal Region	RU
+RU-TUL	Kamchatka Krai	Kamchatka Krai	RU
+RU-TVE	Región De Krasnodar	Krasnodar Region	RU
+RU-TY	Territorio De Krasnoyarsk	Krasnoyarsk Region	RU
+RU-TYU	Permanente	Perm	RU
+RU-UD	Primor	Primorsky Krai	RU
+RU-ULY	Stavropol	Stavropol Region	RU
+RU-VGG	Khabarovsk Krai	Khabarovsk Region	RU
+RU-VLA	Distrito Autónomo De Nenets	Nenets Autonomous Okrug	RU
+RU-VLG	Khanty-Mansi Distrito Autónomo - Yugra	Khanty-Mansi Autonomous District - Yugra	RU
+RU-VOR	Chukotka	Chukotka Autonomous Okrug	RU
+RU-YAN	Distrito Autónomo De Yamalo-Nenets	Yamalo-Nenets Autonomous Okrug	RU
+RU-YAR	San Petersburgo	St. Petersburg	RU
+RU-YEV	Moscú	Moscow	RU
+RU-ZAB	Territorio Trans-Baikal	Transbaikal Region	RU
+RW-01	Kigali	Kigali	RW
+RW-02	Oriental	Eastern	RW
+RW-03	Del Norte	Northern	RW
+RW-04	Occidental	Western	RW
+RW-05	Del Sur	Southern	RW
+SA-01	Riad	Riyadh	SA
+SA-02	La Meca	Makkah	SA
+SA-03	Medina	Medina	SA
+SA-04	Oriente	Eastern	SA
+SA-05	Qassim	Qassim	SA
+SA-06	Hail	Hail	SA
+SA-07	Tabuk	Tabuk	SA
+SA-08	Septentrional	Northern Borders	SA
+SA-09	Jazan	Jazan	SA
+SA-10	Najran	Najran	SA
+SA-11	Al-Baha	Al-Baha	SA
+SA-12	Al-Jouf	Al-Jouf	SA
+SA-14	Difícil	Difficult	SA
+SB-CE	Central	Central	SB
+SB-CH	Choiseul	Choiseul	SB
+SB-CT	Honiara	Honiara	SB
+SB-GU	Guadalcanal	Guadalcanal	SB
+SB-IS	Isabel	Isabel	SB
+SB-MK	Makira-Ulawa	Makira-Ulawa	SB
+SB-ML	Malaita	Malaita	SB
+SB-RB	Rennell Y Bellona	Rennell And Bellona	SB
+SB-TE	Temotu	Temotu	SB
+SB-WE	Occidental	Western	SB
+SC-01	Anse Aux Pins	Anse Aux Pins	SC
+SC-02	Anse Boileau	Anse Boileau	SC
+SC-03	Anse Etoile	Anse Etoile	SC
+SC-04	Anu Cabo	Anu Cape	SC
+SC-05	Anse Royale	Anse Royale	SC
+SC-06	Baie Lazare	Baie Lazare	SC
+SC-07	Baie Sainte Anne	Baie Sainte Anne	SC
+SC-08	Beau Vallon	Beau Vallon	SC
+SC-09	Bel Air	Bel Air	SC
+SC-10	Bel Ombre	Bel Ombre	SC
+SC-11	Cascade	Cascade	SC
+SC-12	Glacis	Glacis	SC
+SC-13	Grand Anse Mahe	Grand Anse Mahe	SC
+SC-14	Grand Anse Praslin	Grand Anse Praslin	SC
+SC-15	Dique	The Dam	SC
+SC-16	La Riviere Anglaise	La Rivière Anglaise	SC
+SC-17	Mont Buxton	Mont Buxton	SC
+SC-18	Mont Fleuri	Mont Fleuri	SC
+SC-19	Plaisance	Plaisance	SC
+SC-20	Pointe La Rue	Pointe La Rue	SC
+SC-21	Port Glaud	Port Glaud	SC
+SC-22	Saint Louis	Saint Louis	SC
+SC-23	Takamaka	Takamaka	SC
+SC-24	Les Mamelles	Les Mamelles	SC
+SC-25	Roche Caiman	Roche Caiman	SC
+SD-DC	Wasat Darfur Zalinjay	Wasat Darfur Zalinjay	SD
+SD-DE	Sharq Darfur	Sharq Darfur	SD
+SD-DN	Shamal Darfur	Shamal Darfur	SD
+SD-DS	Janub Darfur	Janub Darfur	SD
+SD-DW	Gharb Darfur	Gharb Darfur	SD
+SD-GD	Gadarif	Al Qadarif	SD
+SD-GK	Gharb Kurdufan	Gharb Kurdufan	SD
+SD-GZ	Al Jazirah	Al Jazirah	SD
+SD-KA	Kassala	Kassala	SD
+SD-KH	Al Khartum	Al Khartum	SD
+SD-KN	Shiamal Kurdufan	Shiamal Kurdufan	SD
+SD-KS	Janub Kurdufan	Janub Kurdufan	SD
+SD-NB	An Nil Al Azraq	An Nil Al Azraq	SD
+SD-NO	Ash Shamaliyah	Ash Shamaliyah	SD
+SD-NR	Nahr An Nil	Nahr An Nil	SD
+SD-NW	An Nil Al Abyad	An Nil Al Abyad	SD
+SD-RS	Al Bahr Al Ahmar	Al Bahr Al Ahmar	SD
+SD-SI	Sinnar	Sinnar	SD
+SE-AB	Estocolmo	Stockholm	SE
+SE-AC	Västerbotten	Vasterbotten	SE
+SE-BD	Norrbotten	Norrbotten	SE
+SE-C	Uppsala	Uppsala	SE
+SE-D	Södermanland	Sodermanland	SE
+SE-E	Ostergotland	Ostergotland	SE
+SE-F	Jönköping	Jonkoping	SE
+SE-G	Kronoberg	Kronoberg	SE
+SE-H	Kalmar	Kalmar	SE
+SE-I	Gotland	Gotland	SE
+SE-K	Blekinge	Blekinge	SE
+SE-M	Skåne	Skåne	SE
+SE-N	Halland	Halland	SE
+SE-O	Västra Götaland	Västra Götaland	SE
+SE-S	Varmland	Varmland	SE
+SE-T	Orebro	Orebro	SE
+SE-U	Västmanland	Västmanland	SE
+SE-W	Dalarna	Dalarna	SE
+SE-X	Gävleborg	Gavleborg	SE
+SE-Y	Västernorrland	Västernorrland	SE
+SE-Z	Jämtland	Jamtland	SE
+SG-01	Singapur Central	Central Singapore	SG
+SG-02	Noreste	North East	SG
+SG-03	Noroeste	North West	SG
+SG-04	Sureste	South East	SG
+SG-05	Sur Oeste	South West	SG
+SI-001	Ajdovščina	Ajdovščina	SI
+SI-002	Beltinci	Beltinci	SI
+SI-003	Bled	Bled	SI
+SI-004	Bohinj	Bohinj	SI
+SI-005	Arándano	Bilberry	SI
+SI-006	Bovec	Bovec	SI
+SI-007	Brda	Brda	SI
+SI-008	Brezovica	Brezovica	SI
+SI-009	Brežice	Brežice	SI
+SI-010	Tisina	Tisina	SI
+SI-011	Celje	Celje	SI
+SI-012	Cerklje Na Gorenjskem	Cerklje Na Gorenjskem	SI
+SI-013	Cerknica	Cerknica	SI
+SI-014	Cerkno	Cerkno	SI
+SI-015	Crensovci	Crensovci	SI
+SI-016	Črna Na Koroškem	Črna Na Koroškem	SI
+SI-017	Črnomelj	Črnomelj	SI
+SI-018	Destrnik	Destrnik	SI
+SI-019	Divača	Divača	SI
+SI-020	Dobrepolje	Dobrepolje	SI
+SI-021	Dobrova-Polhov Gradec	Dobrova-Polhov Gradec	SI
+SI-022	Dol Pri Ljubljana	Dol Pri Ljubljana	SI
+SI-023	Domžale	Domžale	SI
+SI-024	Dornava	Dornava	SI
+SI-025	Dravograd	Dravograd	SI
+SI-026	Duplek	Duplek	SI
+SI-027	Gorenja Vas-Poljane	Gorenja Vas-Poljane	SI
+SI-028	Gorišnica	Gorišnica	SI
+SI-029	Gornja Radgona	Gornja Radgona	SI
+SI-030	Gornji Grad	Gornji Grad	SI
+SI-031	Alta Petrovci	Upper Petrovci	SI
+SI-032	Grosuplje	Grosuplje	SI
+SI-033	Salovci	Salovci	SI
+SI-034	Hrastnik	Hrastnik	SI
+SI-035	Hrpelje-Kozina	Hrpelje-Kozina	SI
+SI-036	Idrija	Idrija	SI
+SI-037	Ig	Ig	SI
+SI-038	Ilirska Bistrica	Ilirska Bistrica	SI
+SI-039	Ivančna Gorica	Ivančna Gorica	SI
+SI-040	Izola	Izola	SI
+SI-041	Jesenice	Jesenice	SI
+SI-042	Juršinci	Juršinci	SI
+SI-043	Kamnik	Kamnik	SI
+SI-044	Kanal	Kanal	SI
+SI-045	Kidričevo	Kidričevo	SI
+SI-046	Kobarid	Kobarid	SI
+SI-047	Kobilje	Kobilje	SI
+SI-048	Kočevje	Kočevje	SI
+SI-049	Komen	Komen	SI
+SI-050	Koper	Koper	SI
+SI-051	Kozje	Kozje	SI
+SI-052	Kranj	Kranj	SI
+SI-053	Kranjska Gora	Kranjska Gora	SI
+SI-054	Krško	Krško	SI
+SI-055	Kungota	Kungota	SI
+SI-056	Kuzma	Kuzma	SI
+SI-057	Lasko	Lasko	SI
+SI-058	Lenart	Lenart	SI
+SI-059	Tienda	Lendava	SI
+SI-060	Litija	Litija	SI
+SI-061	Ljubljana	Ljubljana	SI
+SI-062	Ljubno	Ljubno	SI
+SI-063	Ljutomer	Ljutomer	SI
+SI-064	Logatec	Logatec	SI
+SI-065	Loka Valle	Loka Valley	SI
+SI-066	Loški Potok	Loški Potok	SI
+SI-067	Luce	Luce	SI
+SI-068	Lukovica	Lukovica	SI
+SI-069	Majšperk	Majšperk	SI
+SI-070	Maribor	Maribor	SI
+SI-071	Medvode	Medvode	SI
+SI-072	Menges	Menges	SI
+SI-073	Metlika	Metlika	SI
+SI-074	Mezica	Mezica	SI
+SI-075	Miren-Kostanjevica	Miren-Kostanjevica	SI
+SI-076	Mislinja	Mislinja	SI
+SI-077	Moravče	Moravče	SI
+SI-078	Moravske Toplice	Moravske Toplice	SI
+SI-079	Mozirje	Mozirje	SI
+SI-080	Murska Sobota	Murska Sobota	SI
+SI-081	Muta	Muta	SI
+SI-082	Naklo	Naklo	SI
+SI-083	Nazarje	Nazarje	SI
+SI-084	Nova Gorica	Nova Gorica	SI
+SI-085	Novo Mesto	Novo Mesto	SI
+SI-086	Odranci	Odranci	SI
+SI-087	Ormož	Ormož	SI
+SI-088	Osilnica	Osilnica	SI
+SI-089	Pesnica	Pesnica	SI
+SI-090	Piran	Piran	SI
+SI-091	Pivka	Pivka	SI
+SI-092	Podčetrtek	Podčetrtek	SI
+SI-093	Podvelka	Podvelka	SI
+SI-094	Postojna	Postojna	SI
+SI-095	Preddvor	Preddvor	SI
+SI-096	Ptuj	Ptuj	SI
+SI-097	Puconci	Puconci	SI
+SI-098	Race-Fram	Race-Fram	SI
+SI-099	Radeče	Radeče	SI
+SI-100	Radenci	Radenci	SI
+SI-101	Radlje Ob Dravi	Radlje Ob Dravi	SI
+SI-102	Radovljica	Radovljica	SI
+SI-103	Ravne	Ravne	SI
+SI-104	Ribnica	Ribnica	SI
+SI-105	Rogašovci	Rogašovci	SI
+SI-106	Rogaska Slatina	Rogaska Slatina	SI
+SI-107	Rogatec	Rogatec	SI
+SI-108	Ruse	Ruse	SI
+SI-109	Semič	Semič	SI
+SI-110	Sevnica	Sevnica	SI
+SI-111	Sežana	Sežana	SI
+SI-112	Slovenj Gradec	Slovenj Gradec	SI
+SI-113	Eslovenia Bistrica	Slovenian Bistrica	SI
+SI-114	Esloveno Konjice	Slovenian Konjice	SI
+SI-115	Starše	Starše	SI
+SI-116	Sveti Jurij	Sveti Jurij	SI
+SI-117	Sencur	Sencur	SI
+SI-118	Šentilj	Šentilj	SI
+SI-119	Sentjernej	Sentjernej	SI
+SI-120	Šentjur	Šentjur	SI
+SI-121	Skocjan	Skocjan	SI
+SI-122	Škofja Loka	Škofja Loka	SI
+SI-123	Skofljica	Skofljica	SI
+SI-124	Pangea Jelsah	Pangea Jelsah	SI
+SI-125	Šmartno Ob Paki	Šmartno Ob Paki	SI
+SI-126	Šoštanj	Šoštanj	SI
+SI-127	Štore	Štore	SI
+SI-128	Tolmin	Tolmin	SI
+SI-129	Trbovlje	Trbovlje	SI
+SI-130	Trebnje	Trebnje	SI
+SI-131	Tržič	Tržič	SI
+SI-132	Turnisce	Turnisce	SI
+SI-133	Velenje	Velenje	SI
+SI-134	Gran Lasce	Great Lasce	SI
+SI-135	Udine	Udine	SI
+SI-136	Vipava	Vipava	SI
+SI-137	Vitanje	Vitanje	SI
+SI-138	Vodice	Vodice	SI
+SI-139	Vojnik	Vojnik	SI
+SI-140	Vrhnika	Vrhnika	SI
+SI-141	Vuzenica	Vuzenica	SI
+SI-142	Zagorje Ob Savi	Zagorje Ob Savi	SI
+SI-143	Zavrč	Zavrč	SI
+SI-144	Zreče	Zreče	SI
+SI-146	Zelezniki	Zelezniki	SI
+SI-147	Žiri	Žiri	SI
+SI-148	Benedikt	Benedikt	SI
+SI-149	Bistrica Ob Sotli	Bistrica Ob Sotli	SI
+SI-150	Bloke	Bloke	SI
+SI-151	Braslovče	Braslovce	SI
+SI-152	Cankova	Cankova	SI
+SI-153	Cerkvenjak	Cerkvenjak	SI
+SI-154	Dobje	Dobje	SI
+SI-155	Dobrna	Dobrna	SI
+SI-156	Dobrovnik	Dobrovnik	SI
+SI-157	Dolenjske Spa	Dolenjske Spa	SI
+SI-158	Grad	Grad	SI
+SI-159	Hajdina	Hajdina	SI
+SI-160	Hoce-Slivnica	Hoce-Slivnica	SI
+SI-161	Hodos	Hodos	SI
+SI-162	Horjul	Horjul	SI
+SI-163	Jezersko	Jezersko	SI
+SI-164	Komenda	Komenda	SI
+SI-165	Kostel	Kostel	SI
+SI-166	Križevci	Križevci	SI
+SI-167	Lawrence En Pohorje	Lawrence On Pohorje	SI
+SI-168	Markovci	Markovci	SI
+SI-169	Miklavž Na Dravskem Polju	Miklavž Na Dravskem Polju	SI
+SI-170	Mirna Pec	Mirna Pec	SI
+SI-171	Oplotnica	Oplotnica	SI
+SI-172	Podlehnik	Podlehnik	SI
+SI-173	Polzela	Polzela	SI
+SI-174	Prebold	Prebold	SI
+SI-175	Prevalje	Prevalje	SI
+SI-176	Razkrizje	Razkrižje	SI
+SI-177	Ribnica En Pohorje	Ribnica On Pohorje	SI
+SI-178	Selnica Ob Dravi	Selnica Ob Dravi	SI
+SI-179	Sodražica	Sodražica	SI
+SI-180	Solčava	Solčava	SI
+SI-181	Sveta Ana	Sveta Ana	SI
+SI-182	Sveti Andraž En Esloveno Goricah	Sveti Andraž In Slovenian Goricah	SI
+SI-183	Šempeter Vrtojba	Šempeter Vrtojba	SI
+SI-184	Tabor	Tabor	SI
+SI-185	Vas Trnovská	Trnovska Vas	SI
+SI-186	Trzin	Trzin	SI
+SI-187	Velika Polana	Velika Polana	SI
+SI-188	Veržej	Veržej	SI
+SI-189	Vrana	Vrana	SI
+SI-190	Žalec	Žalec	SI
+SI-191	Žetale	Žetale	SI
+SI-192	Žirovnica	Žirovnica	SI
+SI-193	Žužemberk	Zuzemberk	SI
+SI-194	Šmartno Pri Litiji	Šmartno Pri Litiji	SI
+SI-195	Rápidamente	Apace	SI
+SI-196	Cirkulane	Cirkulane	SI
+SI-197	Kosanjevica De Krka	Kosanjevica On Krka	SI
+SI-198	Makole	Makole	SI
+SI-199	Mokronog-Trebelno	Mokronog-Trebelno	SI
+SI-200	Poljčane	Poljčane	SI
+SI-201	Rencia-Vogrsko	Rence-Vogrsko	SI
+SI-202	Središče Ob Dravi	Središče Ob Dravi	SI
+SI-203	Straža	Straža	SI
+SI-204	Santa Trinidad En Esloveno Goricah	Holy Trinity In Slovenian Goricah	SI
+SI-205	Santo Tomás	St. Thomas	SI
+SI-206	Šmarješke Toplice	Šmarješke Toplice	SI
+SI-207	Tierras Altas	Highlands	SI
+SI-208	Log-Dragomer	Log-Dragomer	SI
+SI-209	Rečica Ob Savinji	Rečica Ob Savinji	SI
+SI-210	San Jorge En Esloveno Goricah	Saint George In Slovenian Goricah	SI
+SI-211	Šentrupert	Šentrupert	SI
+SI-212	Mirna	Mirna	SI
+SI-213	Ankaran	Ankaran	SI
+SK-BC	Banskobystricky	Banskobystricky	SK
+SK-BL	Bratislava	Bratislava	SK
+SK-KI	Kosicky	Kosicky	SK
+SK-NI	Nitra	Nitra	SK
+SK-PV	Presovsky	Presovsky	SK
+SK-TA	Trnavsky	Trnavsky	SK
+SK-TC	Trenciansky	Trenciansky	SK
+SK-ZI	Zilinsky	Zilinsky	SK
+SL-E	Oriental	Eastern	SL
+SL-N	Del Norte	Northern	SL
+SL-S	Del Sur	Southern	SL
+SL-W	Occidental	Western	SL
+SM-01	Acquaviva	Acquaviva	SM
+SM-02	Chiesanuova	Chiesanuova	SM
+SM-03	Domagnano	Domagnano	SM
+SM-04	Faetano	Faetano	SM
+SM-05	Fiorentino	Florentine	SM
+SM-06	Borgo Maggiore	Borgo Maggiore	SM
+SM-07	San Marino	San Marino	SM
+SM-08	Montegiardino	Montegiardino	SM
+SM-09	Serravalle	Serravalle	SM
+SN-DB	Diourbel	Diourbel	SN
+SN-DK	Dakar	Dakar	SN
+SN-FK	Fatick	Fatick	SN
+SN-KA	Kaffrine	Kaffrine	SN
+SN-KD	Kolda	Kolda	SN
+SN-KE	Kedougou	Kedougou	SN
+SN-KL	Kaolack	Kaolack	SN
+SN-LG	Louga	Louga	SN
+SN-MT	Matam	Matam	SN
+SN-SE	Sedhiou	Sedhiou	SN
+SN-SL	St. Louis	Saint Louis	SN
+SN-TC	Tambacounda	Tambacounda	SN
+SN-TH	Thies	Thies	SN
+SN-ZG	Ziguinchor	Ziguinchor	SN
+SO-AW	Awdal	Awdal	SO
+SO-BK	Bakool	Bakool	SO
+SO-BN	Banadir	Banadir	SO
+SO-BR	Bari	Bari	SO
+SO-BY	Bahía	Bay	SO
+SO-GA	Galguduud	Galguduud	SO
+SO-GE	Gedo	Gedo	SO
+SO-HI	Hiiraan	Hiiraan	SO
+SO-JD	Medio	Middle	SO
+SO-JH	Inferior	Lower	SO
+SO-MU	Mudug	Mudug	SO
+SO-NU	Nugaal	Nugaal	SO
+SO-SA	Sanaag	Sanaag	SO
+SO-SD	Medio	Middle	SO
+SO-SH	Inferior	Lower	SO
+SO-SO	Sool	Sool	SO
+SO-TO	Togdheer	Togdheer	SO
+SO-WO	Clasificados	Classifieds	SO
+SR-BR	Brokopondo	Brokopondo	SR
+SR-CM	Commewijne	Commewijne	SR
+SR-CR	Coronie	Coronie	SR
+SR-MA	Maroni	Maroni	SR
+SR-NI	Nickerie	Nickerie	SR
+SR-PM	Paramaribo	Paramaribo	SR
+SR-PR	Para	Para	SR
+SR-SA	Saramaca	Saramacca	SR
+SR-SI	Sipaliwini	Sipaliwini	SR
+SR-WA	Wanica	Wanica	SR
+SS-BN	Bahr El Ghazal	Northern Bahr El Ghazal	SS
+SS-BW	Bahr El Ghazal Occidental	Western Bahr El Ghazal	SS
+SS-CE	Equatoria Central	Central Equatoria	SS
+SS-EE	Equatoria Oriental	Eastern Equatoria	SS
+SS-EW	Ecuatoria Occidental	Western Equatoria	SS
+SS-JG	Jonglei	Jonglei	SS
+SS-LK	Lagos	Lakes	SS
+SS-NU	Alto Nilo	Upper Nile	SS
+SS-UY	Unidad	Unity	SS
+SS-WR	Warrap	Warrap	SS
+ST-P	Principe	Prince	ST
+ST-S	Santo Tomé	Saint Thomas	ST
+SV-AH	Ahuachapán	Ahuachapán	SV
+SV-CA	Cabañas	Cabañas	SV
+SV-CH	Chalatenango	Chalatenango	SV
+SV-CU	Cuscatlán	Cuscatlán	SV
+SV-LI	La Libertad	La Libertad	SV
+SV-MO	Morazán	Morazan	SV
+SV-PA	La Paz	La Paz	SV
+SV-SA	Santa Ana	Saint Ana	SV
+SV-SM	San Miguel	San Miguel	SV
+SV-SO	Sonsonate	Sonsonate	SV
+SV-SS	San Salvador	San Salvador	SV
+SV-SV	San Vicente	San Vicente	SV
+SV-UN	La Unión	La Unión	SV
+SV-US	Usulután	Usulutan	SV
+SX-SX	Sint Maarten	St Martin	SX
+SY-DI	Damasco	Damascus	SY
+SY-DR	Dara	Dara	SY
+SY-DY	Deir Al-Zour	Deer Al Zour	SY
+SY-HA	Hasaka	Hasaka	SY
+SY-HI	Homs	Homs	SY
+SY-HL	Aleppo	Aleppo	SY
+SY-HM	Hama	Hama	SY
+SY-ID	Idlib	Idlib	SY
+SY-LA	Lattakia	Lattakia	SY
+SY-QU	Kenitra	Kenitra	SY
+SY-RA	Raqqa	Raqqa	SY
+SY-RD	Campo De Damasco	Damascus Countryside	SY
+SY-SU	Suwayda	Suwayda	SY
+SY-TA	Tartous	Tartous	SY
+SZ-HH	Hhohho	Hhohho	SZ
+SZ-LU	Lubombo	Lubombo	SZ
+SZ-MA	Manzini	Manzini	SZ
+SZ-SH	Shiselweni	Shiselweni	SZ
+TC-TC	Islas Turcas Y Caicos	Turks And Caicos Islands	TC
+TD-BA	Batha	Batha	TD
+TD-BG	Bahr El Ghazal	Bahr El Ghazal	TD
+TD-BO	Borkou	Borkou	TD
+TD-CB	Chari-Baguirmi	Chari-Baguirmi	TD
+TD-EE	Ennedi-Este	Ennedi-East	TD
+TD-EO	Ennedi Oeste	Ennedi-West	TD
+TD-GR	Gera	Gera	TD
+TD-HL	Hadjer Lamis	Hadjer Lamis	TD
+TD-KA	Kanem	Kanem	TD
+TD-LC	Lac	Lac	TD
+TD-LO	Logone Occidental	Logone Occidental	TD
+TD-LR	Logone Oriental	Logone Oriental	TD
+TD-MA	Mondoul	Mondoul	TD
+TD-MC	Chari	Moyen-Chari	TD
+TD-ME	Mayo-Kebbi-Est	Mayo-Kébbi-Est	TD
+TD-ND	Ciudad Yamena	City Ndjamena	TD
+TD-OD	Ouaddaï	Ouaddai	TD
+TD-SA	Salamat	Salamat	TD
+TD-SI	Sila	Sila	TD
+TD-TA	Tandjilé	Tandjilé	TD
+TD-TI	Tibesti	Tibesti	TD
+TD-WF	Wadi Fira	Wadi Fira	TD
+TF-01	Tierra Adelia	Adelie Land	TF
+TF-02	Islas Crozet	Crozet Island	TF
+TF-03	Kerguelen	Kerguelen	TF
+TF-04	Iles Saint-Paul Y Amsterdam	Iles Saint-Paul And Amsterdam	TF
+TG-C	Centro	Center	TG
+TG-K	Kara	Kara	TG
+TG-M	Marítimo	Maritime	TG
+TG-P	Tierras Altas	Uplands	TG
+TG-S	Savannes	Savannes	TG
+TH-10	Bangkok	Bangkok	TH
+TH-11	Samut Prakan	Samut Prakan	TH
+TH-12	Nonthaburi	Nonthaburi	TH
+TH-13	Pathum Thani	Pathum Thani	TH
+TH-14	Phra Nakhon Si Ayutthaya	Phra Nakhon Si Ayutthaya	TH
+TH-15	Ang Thong	Ang Thong	TH
+TH-16	Lop Buri	Lop Buri	TH
+TH-17	Sing Buri	Sing Buri	TH
+TH-18	Chai Nat	Chai Nat	TH
+TH-19	Saraburi	Saraburi	TH
+TH-20	Chon Buri	Chon Buri	TH
+TH-21	Rayong	Rayong	TH
+TH-22	Chanthaburi	Chanthaburi	TH
+TH-23	Trat	Trat	TH
+TH-24	Chachoengsao	Chachoengsao	TH
+TH-25	Prachin Buri	Prachin Buri	TH
+TH-26	Nakhon Nayok	Nakhon Nayok	TH
+TH-27	Sa Kaeo	Sa Kaeo	TH
+TH-30	Nakhon Ratchasima	Nakhon Ratchasima	TH
+TH-31	Buri Ram	Buri Ram	TH
+TH-32	Surin	Surin	TH
+TH-33	Si Sa Ket	Si Sa Ket	TH
+TH-34	Ubon Ratchathani	Ubon Ratchathani	TH
+TH-35	Yasothon	Yasothon	TH
+TH-36	Chaiyaphum	Chaiyaphum	TH
+TH-37	Amnat Charoen	Amnat Charoen	TH
+TH-38	Bueng Kan	Bueng Kan	TH
+TH-39	Nong Bua Lam Phu	Nong Bua Lam Phu	TH
+TH-40	Khon Kaen	Khon Kaen	TH
+TH-41	Udon Thani	Udon Thani	TH
+TH-42	Loei	Loei	TH
+TH-43	Nong Khai	Nong Khai	TH
+TH-44	Por Favor Este No Es Idioma Inglés	Maha Sarakham	TH
+TH-45	Roi Et	Roi Et	TH
+TH-46	Kalasin	Kalasin	TH
+TH-47	Sakon Nakhon	Sakon Nakhon	TH
+TH-48	Nakhon Phanom	Nakhon Phanom	TH
+TH-49	Mukdahan	Mukdahan	TH
+TH-50	Chiang Mai	Chiang Mai	TH
+TH-51	Lamphun	Lamphun	TH
+TH-52	Lampang	Lampang	TH
+TH-53	Uttaradit	Uttaradit	TH
+TH-54	Phrae	Phrae	TH
+TH-55	Yaya	Nan	TH
+TH-56	Phayao	Phayao	TH
+TH-57	Chiang Rai	Chiang Rai	TH
+TH-58	Mae Hong Son	Mae Hong Son	TH
+TH-60	Nakhon Sawan	Nakhon Sawan	TH
+TH-61	Uthai Thani	Uthai Thani	TH
+TH-62	Kamphaeng Phet	Kamphaeng Phet	TH
+TH-63	Tak	Tak	TH
+TH-64	Sukhothai	Sukhothai	TH
+TH-65	Phitsanulok	Phitsanulok	TH
+TH-66	Phichit	Phichit	TH
+TH-67	Phetchabun	Phetchabun	TH
+TH-70	Ratchaburi	Ratchaburi	TH
+TH-71	Kanchanaburi	Kanchanaburi	TH
+TH-72	Suphan Buri	Suphan Buri	TH
+TH-73	Nakhon Phathom	Nakhon Phathom	TH
+TH-74	Samut Sakhon	Samut Sakhon	TH
+TH-75	Samut Songkhram	Samut Songkhram	TH
+TH-76	Phetchaburi	Phetchaburi	TH
+TH-77	Prachuap Khiri Khan	Prachuap Khiri Khan	TH
+TH-80	Nakhon Si Thammarat	Nakhon Si Thammarat	TH
+TH-81	Krabi	Krabi	TH
+TH-82	Phang Nga	Phangnga	TH
+TH-83	Phuket	Phuket	TH
+TH-84	Surat Thani	Surat Thani	TH
+TH-85	Ranong	Ranong	TH
+TH-86	Chumphon	Chumphon	TH
+TH-90	Songkhla	Songkhla	TH
+TH-91	Satun	Satun	TH
+TH-92	Trang	Trang	TH
+TH-93	Phatthalung	Phatthalung	TH
+TH-94	Pattani	Pattani	TH
+TH-95	Yala	Yala	TH
+TH-96	Narathiwat	Narathiwat	TH
+TJ-DU	Dushanbe	Dushanbe	TJ
+TJ-GB	Kuhistoni Badakhshon	Kŭhistoni Badakhshon	TJ
+TJ-KT	Jatlón	Khatlon	TJ
+TJ-SU	Sughd	Sughd	TJ
+TK-0	Atafu	Atafu	TK
+TK-1	Fakaofo	Fakaofo	TK
+TK-2	Nukunonu	Nukunonu	TK
+TL-AL	Aileu	Aileu	TL
+TL-AN	Ainaro	Ainaro	TL
+TL-BA	Baucau	Baucau	TL
+TL-BO	Bobonaro	Bobonaro	TL
+TL-CO	Cova Lima	Cova Lima	TL
+TL-DI	Dili	Dili	TL
+TL-ER	Ermera	Ermera	TL
+TL-LA	Lautem	Lautem	TL
+TL-LI	Liquiça	Liquica	TL
+TL-MF	Manufahi	Manufahi	TL
+TL-MT	Manatuto	Manatuto	TL
+TL-OE	Oecussi	Oecussi	TL
+TL-VI	Viqueque	Viqueque	TL
+TM-A	Ahal	Ahal	TM
+TM-B	Balcánico	Balkan	TM
+TM-D	Dashoguz	Dashoguz	TM
+TM-L	Lebap	Lebap	TM
+TM-M	María	Mary	TM
+TM-S	Asgabat	Asgabat	TM
+TN-11	Túnez	Tunis	TN
+TN-12	Ariana	Ariana	TN
+TN-13	Ben Arous	Ben Arous	TN
+TN-21	Nabeul	Nabeul	TN
+TN-22	Zaghouan	Zaghouan	TN
+TN-23	Bizerte	Bizerte	TN
+TN-31	Beja	Beja	TN
+TN-32	Jendouba	Jendouba	TN
+TN-33	Kef	Kef	TN
+TN-34	Siliana	Siliana	TN
+TN-41	Kairouan	Kairouan	TN
+TN-42	Kasserine	Kasserine	TN
+TN-43	Sidi Bouzid	Sidi Bouzid	TN
+TN-51	Sousse	Sousse	TN
+TN-52	Monastir	Monastir	TN
+TN-53	Mahdia	Mahdia	TN
+TN-61	Sfax	Sfax	TN
+TN-71	Gafsa	Gafsa	TN
+TN-72	Tozeur	Tozeur	TN
+TN-73	Kebili	Kebili	TN
+TN-81	Gabes	Gabes	TN
+TN-82	Medenine	Medenine	TN
+TN-83	Tataouine	Tataouine	TN
+TO-01	Eua	Eua	TO
+TO-02	Ha'Apai	Ha'Apai	TO
+TO-03	Niuas	Niuas	TO
+TO-04	Tongatapu	Tongatapu	TO
+TO-05	Vava'U	Vava'U	TO
+TR-01	Adana	Adana	TR
+TR-02	Adiyaman	Adiyaman	TR
+TR-03	Afyonkarahisar	Afyonkarahisar	TR
+TR-04	Agri	Agri	TR
+TR-05	Amasya	Amasya	TR
+TR-06	Ankara	Ankara	TR
+TR-07	Antalya	Antalya	TR
+TR-08	Artvin	Artvin	TR
+TR-09	Aydin	Aydin	TR
+TR-10	Balikesir	Balikesir	TR
+TR-11	Bilecik	Bilecik	TR
+TR-12	Bingol	Bingol	TR
+TR-13	Bitlis	Bitlis	TR
+TR-14	Bolu	Bolu	TR
+TR-15	Burdur	Burdur	TR
+TR-16	Bolsa	Bursa	TR
+TR-17	Canakkale	Canakkale	TR
+TR-18	Cankiri	Cankiri	TR
+TR-19	Crum	Crum	TR
+TR-20	Denizli	Denizli	TR
+TR-21	Diyarbakir	Diyarbakir	TR
+TR-22	Edirne	Edirne	TR
+TR-23	Elazig	Elazig	TR
+TR-24	Erzincan	Erzincan	TR
+TR-25	Erzurum	Erzurum	TR
+TR-26	Eskisehir	Eskisehir	TR
+TR-27	Gaziantep	Gaziantep	TR
+TR-28	Giresun	Giresun	TR
+TR-29	Gumushane	Gumushane	TR
+TR-30	Hakkari	Hakkari	TR
+TR-31	Hatay	Hatay	TR
+TR-32	Isparta	Isparta	TR
+TR-33	Mirto	Myrtle	TR
+TR-34	Estanbul	Istanbul	TR
+TR-35	Izmir	Izmir	TR
+TR-36	Kars	Kars	TR
+TR-37	Kastamonu	Kastamonu	TR
+TR-38	Kayseri	Kayseri	TR
+TR-39	Kirklareli	Kirklareli	TR
+TR-40	Kirsehir	Kirsehir	TR
+TR-41	Kocaeli	Kocaeli	TR
+TR-42	Konya	Konya	TR
+TR-43	Kutahya	Kutahya	TR
+TR-44	Malatya	Malatya	TR
+TR-45	Manisa	Manisa	TR
+TR-46	Kahramanmaras	Kahramanmaras	TR
+TR-47	Mardin	Mardin	TR
+TR-48	Mula	Mula	TR
+TR-49	Musa	Muse	TR
+TR-50	Nevsehir	Nevsehir	TR
+TR-51	Nigde	Nigde	TR
+TR-52	Ordu	Ordu	TR
+TR-53	Rize	Rize	TR
+TR-54	Sakarya	Sakarya	TR
+TR-55	Samsun	Samsun	TR
+TR-56	Siirt	Siirt	TR
+TR-57	Sinop	Sinop	TR
+TR-58	Sivas	Sivas	TR
+TR-59	Tekirdag	Tekirdag	TR
+TR-60	Tokat	Tokat	TR
+TR-61	Trabzon	Trabzon	TR
+TR-62	Tunceli	Tunceli	TR
+TR-63	Sanliurfa	Sanliurfa	TR
+TR-64	Usak	Servant	TR
+TR-65	Van	Van	TR
+TR-66	Yozgat	Yozgat	TR
+TR-67	Zonguldak	Zonguldak	TR
+TR-68	Aksaray	Aksaray	TR
+TR-69	Bayburt	Bayburt	TR
+TR-70	Karaman	Karaman	TR
+TR-71	Kirikkale	Kirikkale	TR
+TR-72	Batman	Batman	TR
+TR-73	Sirnak	Sirnak	TR
+TR-74	Bartin	Bartin	TR
+TR-75	Ardahan	Ardahan	TR
+TR-76	Igdir	Igdir	TR
+TR-77	Yalova	Yalova	TR
+TR-78	Karabuka	Karabuka	TR
+TR-79	Kilis	Kilis	TR
+TR-80	Osmaniye	Osmaniye	TR
+TR-81	Duzce	Duzce	TR
+TT-ARI	Arima	Arima	TT
+TT-CHA	Chaguanas	Chaguanas	TT
+TT-CTT	Couva-Tabaquite-Talparo	Couva-Tabaquite-Talparo	TT
+TT-DMN	Diefo Martin	Diefo Martin	TT
+TT-MRC	Mayaro-Río Claro	Mayaro-Rio Claro	TT
+TT-PED	Penal-Debe	Penal-Debe	TT
+TT-POS	Puerto De España	Port-Of-Spain	TT
+TT-PRT	Princes Town	Princes Town	TT
+TT-PTF	Point Fortin	Point Fortin	TT
+TT-SFO	San Fernando	San Fernando	TT
+TT-SGE	Sangre Grande	Sangre Grande	TT
+TT-SIP	Siparia	Siparia	TT
+TT-SJL	San Juan-Laventille	San Juan-Laventille	TT
+TT-TOB	Tobago	Tobago	TT
+TT-TUP	Tunapuna-Piarco	Tunapuna-Piarco	TT
+TV-FUN	Funafuti	Funafuti	TV
+TV-NIT	Niutao	Niutao	TV
+TV-NKF	Nukufetau	Nukufetau	TV
+TV-NKL	Nukulaelae	Nukulaelae	TV
+TV-NMA	Nanumea	Nanumea	TV
+TV-NMG	Nanumanga	Nanumanga	TV
+TV-NUI	Nui	Nui	TV
+TV-VAU	Vaitupu	Vaitupu	TV
+TW-CHA	Changhua	Changhua	TW
+TW-CYQ	Chiayi	Chiayi	TW
+TW-HSQ	Hsinchu	Hsinchu	TW
+TW-HUA	Hualien	Hualien	TW
+TW-ILA	Ilan	Ilan	TW
+TW-KEE	Keelung	Keelung	TW
+TW-KHH	Ciudad De Kaohsiung	Kaohsiung City	TW
+TW-KIN	Kinmen	Kinmen	TW
+TW-LIE	Lianjiang	Lianjiang	TW
+TW-MIA	Miaoli	Miaoli	TW
+TW-NAN	Nantou	Nantou	TW
+TW-NWT	Nueva Ciudad De Taipei	New Taipei City	TW
+TW-PEN	Penghu	Penghu	TW
+TW-PIF	Pingtung	Pingtung	TW
+TW-TAO	Taoyuan City	Taoyuan City	TW
+TW-TNN	La Ciudad De Tainan	Tainan City	TW
+TW-TPE	Ciudad De Taipei	Taipei City	TW
+TW-TTT	Taitung	Taitung	TW
+TW-TXG	La Ciudad De Taichung	Taichung City	TW
+TW-YUN	Yunlin	Yunlin	TW
+TZ-01	Arusha	Arusha	TZ
+TZ-02	Dar Es Salaam	Dar Es Salaam	TZ
+TZ-03	Dodoma	Dodoma	TZ
+TZ-04	Iringa	Iringa	TZ
+TZ-05	Kagera	Kagera	TZ
+TZ-06	Norte Pemba	North Pemba	TZ
+TZ-07	Norte Unguja	North Unguja	TZ
+TZ-08	Kigoma	Kigoma	TZ
+TZ-09	Kilimanjaro	Kilimanjaro	TZ
+TZ-10	Sur Pemba	South Pemba	TZ
+TZ-11	Unguja Sur	South Unguja	TZ
+TZ-12	Lindi	Lindi	TZ
+TZ-13	Mara	Mara	TZ
+TZ-14	Mbeya	Mbeya	TZ
+TZ-15	En West	In West	TZ
+TZ-16	Morogoro	Morogoro	TZ
+TZ-17	Mtwara	Mtwara	TZ
+TZ-18	Mwanza	Mwanza	TZ
+TZ-19	Costa	Coast	TZ
+TZ-20	Rukwa	Rukwa	TZ
+TZ-21	Ruvuma	Ruvuma	TZ
+TZ-22	Shinyanga	Shinyanga	TZ
+TZ-23	Singida	Singida	TZ
+TZ-24	Tabora	Tabora	TZ
+TZ-25	Tanga	Tanga	TZ
+TZ-26	Manyara	Manyara	TZ
+TZ-27	Geita	Geita	TZ
+TZ-28	Katavi	Katavi	TZ
+TZ-29	Njombe	Njombe	TZ
+TZ-30	Simiyu	Simiyu	TZ
+TZ-31	Songwe	Songwe	TZ
+UA-05	Región Vinnytsia	Vinnytsia Region	UA
+UA-07	Volin Región	Volyn Region	UA
+UA-09	Lugansk Región	Lugansk Region	UA
+UA-12	La Región De Dnipropetrovsk	Dnipropetrovsk Region	UA
+UA-14	Región De Donetsk	Donetsk Region	UA
+UA-18	Región De Zhitomir	Zhytomyr Region	UA
+UA-21	Transcarpática	Transcarpathian Region	UA
+UA-23	Región De Zaporizhia	Zaporozhye Region	UA
+UA-26	La Región De Ivano-Frankivsk	Ivano-Frankivsk Region	UA
+UA-30	Kiev	Kiev	UA
+UA-32	La Región De Kiev	Kiev Region	UA
+UA-35	Kirovogradska	Kirovogradska	UA
+UA-40	Sebastopol	Sevastopol	UA
+UA-43	República Autónoma De Crimea	Autonomous Republic Of Crimea	UA
+UA-46	La Región De Lviv	Lviv Region	UA
+UA-48	Región De Mykolaiv	Mykolaiv Region	UA
+UA-51	Región De Odessa	Odessa Region	UA
+UA-53	Región De Poltava	Poltava	UA
+UA-56	Región De Rivne	Rivne Region	UA
+UA-59	Sumy Región	Sumy Region	UA
+UA-61	Región De Ternopil	Ternopil Region	UA
+UA-63	Región De Kharkiv	Kharkiv Region	UA
+UA-65	Jerson Región	Kherson Region	UA
+UA-68	Región Jmelnytsky	Khmelnytsky Region	UA
+UA-71	Región Cherkassy	Cherkasy Region	UA
+UA-74	Región Chernihiv	Chernihiv Region	UA
+UA-77	Región Chernivtsi	Chernivtsi Region	UA
+UG-101	Kalangala	Kalangala	UG
+UG-102	Kampala	Kampala	UG
+UG-103	Kiboga	Kiboga	UG
+UG-104	Luwero	Luwero	UG
+UG-105	Masaka	Masaka	UG
+UG-106	Mpigi	Mpigi	UG
+UG-107	Mubende	Mubende	UG
+UG-108	Mukono	Mukono	UG
+UG-109	Nakasongola	Nakasongola	UG
+UG-110	Rakai	Rakai	UG
+UG-111	Sembabule	Sembabule	UG
+UG-112	Kayunga	Kayunga	UG
+UG-113	Wakiso	Wakiso	UG
+UG-114	Mityana	Mityana	UG
+UG-115	Nakaseke	Nakaseke	UG
+UG-116	Lyantonde	Lyantonde	UG
+UG-201	Bugiri	Bugiri	UG
+UG-202	Busia	Busia	UG
+UG-203	Iganga	Iganga	UG
+UG-204	Jinja	Jinja	UG
+UG-205	Kamuli	Kamuli	UG
+UG-206	Kapchorwa	Kapchorwa	UG
+UG-207	Katakwi	Katakwi	UG
+UG-208	Kumi	Kumi	UG
+UG-209	Mbale	Mbale	UG
+UG-210	Pallisa	Pallisa	UG
+UG-211	Soroti	Soroti	UG
+UG-212	Tororo	Tororo	UG
+UG-213	Kaberamaido	Kaberamaido	UG
+UG-214	Mayuge	Mayuge	UG
+UG-215	Sironko	Sironko	UG
+UG-216	Amuria	Amuria	UG
+UG-217	Budaka	Budaka	UG
+UG-218	Bukwa	Bukwa	UG
+UG-219	Butaleja	Butaleja	UG
+UG-220	Kaliro	Kaliro	UG
+UG-221	Manafwa	Manafwa	UG
+UG-222	Namutumba	Namutumba	UG
+UG-223	Bududa	Bududa	UG
+UG-224	Bukedea	Bukedea	UG
+UG-301	Adjumani	Adjumani	UG
+UG-302	Apac	Apac	UG
+UG-303	Arua	Arua	UG
+UG-304	Gulu	Gulu	UG
+UG-305	Kitgum	Kitgum	UG
+UG-306	Kotido	Kotido	UG
+UG-307	Lira	Lira	UG
+UG-308	Moroto	Moroto	UG
+UG-309	Moyo	Moyo	UG
+UG-310	Nebbi	Nebbi	UG
+UG-311	Nakapiripirit	Nakapiripirit	UG
+UG-312	Pader	Pader	UG
+UG-313	Yumbe	Yumbe	UG
+UG-314	Amolatar	Amolatar	UG
+UG-315	Kaabong	Kaabong	UG
+UG-316	Koboko	Koboko	UG
+UG-317	Abim	Abim	UG
+UG-318	Dokolo	Dokolo	UG
+UG-319	Amuru	Amuru	UG
+UG-320	Maracha	Maracha	UG
+UG-321	Oyam	Oyam	UG
+UG-401	Bundibugyo	Bundibugyo	UG
+UG-402	Bushenyi	Bushenyi	UG
+UG-403	Hoima	Hoima	UG
+UG-404	Kabale	Kabale	UG
+UG-405	Kabarole	Kabarole	UG
+UG-406	Kasese	Kasese	UG
+UG-407	Kibaale	Kibaale	UG
+UG-408	Kisoro	Kisoro	UG
+UG-409	Masindi	Masindi	UG
+UG-410	Mbarara	Mbarara	UG
+UG-411	Ntungamo	Ntungamo	UG
+UG-412	Rukungiri	Rukungiri	UG
+UG-413	Kamwenge	Kamwenge	UG
+UG-414	Kanungu	Kanungu	UG
+UG-415	Kyenjojo	Kyenjojo	UG
+UG-416	Ibanda	Ibanda	UG
+UG-417	Isingiro	Isingiro	UG
+UG-418	Kiruhura	Kiruhura	UG
+UG-419	Buliisa	Buliisa	UG
+UM-67	Johnston Atoll	Johnston Atoll	UM
+UM-71	Islas Midway	Midway Islands	UM
+UM-76	Isla Navassa	Navassa Island	UM
+UM-79	Wake Island	Wake Island	UM
+UM-81	Baker Island	Baker Island	UM
+UM-84	Isla Howland	Howland Island	UM
+UM-86	Jarvis Island	Jarvis Island	UM
+UM-89	Arrecife Kingman	Kingman Reef	UM
+UM-95	Palmyra Atoll	Palmyra Atoll	UM
+UM-BN	Bajo Nuevo	Bajo Nuevo Bank	UM
+UM-SB	Banco Serranilla	Serranilla Bank	UM
+US-AK	Alaska	Alaska	US
+US-AL	Alabama	Alabama	US
+US-AR	Arkansas	Arkansas	US
+US-AS	Samoa Americana	American Samoa	US
+US-AZ	Arizona	Arizona	US
+US-CA	California	California	US
+US-CO	Colorado	Colorado	US
+US-CT	Connecticut	Connecticut	US
+US-DC	Washington Dc.	Washington D.C.	US
+US-DE	Delaware	Delaware	US
+US-FL	Florida	Florida	US
+US-FM	Micronesia	Micronesia	US
+US-GA	Georgia	Georgia	US
+US-GU	Guam	Guam	US
+US-HI	Hawai	Hawaii	US
+US-IA	Iowa	Iowa	US
+US-ID	Idaho	Idaho	US
+US-IL	Illinois	Illinois	US
+US-IN	Indiana	Indiana	US
+US-KS	Kansas	Kansas	US
+US-KY	Kentucky	Kentucky	US
+US-LA	Luisiana	Louisiana	US
+US-MA	Massachusetts	Massachusetts	US
+US-MD	Maryland	Maryland	US
+US-ME	Maine	Maine	US
+US-MH	Islas Marshall	Marshall Islands	US
+US-MI	Michigan	Michigan	US
+US-MN	Minnesota	Minnesota	US
+US-MO	Misuri	Missouri	US
+US-MP	Islas Marianas Del Norte	Northern Mariana Islands	US
+US-MS	Misisipí	Mississippi	US
+US-MT	Montana	Montana	US
+US-NC	Carolina Del Norte	North Carolina	US
+US-ND	Dakota Del Norte	North Dakota	US
+US-NE	Nebraska	Nebraska	US
+US-NH	Nueva Hampshire	New Hampshire	US
+US-NJ	New Jersey	New Jersey	US
+US-NM	Nuevo Mexico	New Mexico	US
+US-NV	Nevada	Nevada	US
+US-NY	Nueva York	New York	US
+US-OH	Ohio	Ohio	US
+US-OK	Oklahoma	Oklahoma	US
+US-OR	Oregón	Oregon	US
+US-PA	Pensilvania	Pennsylvania	US
+US-PR	Puerto Rico	Puerto Rico	US
+US-PW	Palau	Palau	US
+US-RI	Rhode Island	Rhode Island	US
+US-SC	Carolina Del Sur	South Carolina	US
+US-SD	Dakota Del Sur	South Dakota	US
+US-TN	Tennesse	Tennessee	US
+US-TX	Texas	Texas	US
+US-UT	Utah	Utah	US
+US-VA	Virginia	Virginia	US
+US-VI	Islas Virgenes	Virgin Islands	US
+US-VT	Vermont	Vermont	US
+US-WA	Washington	Washington	US
+US-WI	Wisconsin	Wisconsin	US
+US-WV	Virginia Del Oeste	West Virginia	US
+US-WY	Wyoming	Wyoming	US
+UY-AR	Artigas	Artigas	UY
+UY-CA	Canelones	Canelones	UY
+UY-CL	Cerro Largo	Cerro Largo	UY
+UY-CO	Colonia	Colonia	UY
+UY-DU	Durazno	Durazno	UY
+UY-FD	Florida	Florida	UY
+UY-FS	Flores	Flores	UY
+UY-LA	Lavalleja	Lavalleja	UY
+UY-MA	Maldonado	Maldonado	UY
+UY-MO	Montevideo	Montevideo	UY
+UY-PA	Paysandú	Paysandu	UY
+UY-RN	Río Negro	Río Negro	UY
+UY-RO	Rocha	Rocha	UY
+UY-RV	Rivera	Rivera	UY
+UY-SA	Salto	Salto	UY
+UY-SJ	San José	Saint Joseph	UY
+UY-SO	Soriano	Soriano	UY
+UY-TA	Tacuarembó	Tacuarembo	UY
+UY-TT	Treinta Y Tres	Treinta Y Tres	UY
+UZ-AN	Andijan	Andijan	UZ
+UZ-BU	Bukhara	Bukhara	UZ
+UZ-FA	Fergana	Ferghana	UZ
+UZ-JI	Jizzakh	Jizzakh	UZ
+UZ-NG	Namangán	Namangan	UZ
+UZ-NW	Navoiy	Navoiy	UZ
+UZ-QA	(Karshi, Kashkadarya)	(Karshi, Kashkadarya)	UZ
+UZ-QR	La República De Karakalpakstán (Nukus)	The Republic Of Karakalpakstan (Nukus)	UZ
+UZ-SA	Samarcanda	Samarkand	UZ
+UZ-SI	Gulistan, Syrdarya ()	Gulistan, Syrdarya ()	UZ
+UZ-SU	Surkhandarya (Termez)	Surkhandarya (Termez)	UZ
+UZ-TK	La Ciudad De Tashkent	Tashkent City	UZ
+UZ-TO	Wiloyati	Wiloyati	UZ
+UZ-XO	Jorezm	Khorezm	UZ
+VA-01	Ciudad Del Vaticano	Vatican City	VA
+VC-01	Charlotte	Charlotte	VC
+VC-02	San Andrés	Saint Andrew	VC
+VC-03	Saint David	Saint David	VC
+VC-04	San Jorge	Saint George	VC
+VC-05	San Patricio	Saint Patrick	VC
+VC-06	Granadinas	Grenadines	VC
+VE-A	Distrito Federal	Federal District	VE
+VE-B	Anzoátegui	Anzoátegui	VE
+VE-C	Apure	Apure	VE
+VE-D	Aragua	Aragua	VE
+VE-E	Barinas	Barinas	VE
+VE-F	Bolívar	Bolivar	VE
+VE-G	Carabobo	Carabobo	VE
+VE-H	Cojedes	Cojedes	VE
+VE-I	Falcón	Falcón	VE
+VE-J	Guárico	Guárico	VE
+VE-K	Lara	Lara	VE
+VE-L	Mérida	Merida	VE
+VE-M	Miranda	Miranda	VE
+VE-N	Monagas	Monagas	VE
+VE-O	Nueva Esparta	Nueva Esparta	VE
+VE-P	Portuguesa	Portuguesa	VE
+VE-R	Sucre	Sucre	VE
+VE-S	Táchira	Táchira	VE
+VE-T	Trujillo	Trujillo	VE
+VE-U	Yaracuy	Yaracuy	VE
+VE-V	Zulia	Zulia	VE
+VE-W	Dependencias Federales	Federal Dependencies	VE
+VE-X	Vargas	Vargas	VE
+VE-Y	Delta Amacuro	Delta Amacuro	VE
+VE-Z	Amazonas	Amazon	VE
+VG-ANG	Anegada	Anegada	VG
+VG-JVD	Jost Van Dyke	Jost Van Dyke	VG
+VG-TTA	Tortola	Tortola	VG
+VG-VGD	Virgen Gorda	Virgin Gorda	VG
+VI-SCR	St. Croix	St. Croix	VI
+VI-SJO	San Juan	St. John	VI
+VI-STH	Santo Tomás	St. Thomas	VI
+VN-01	Laizhou	Laizhou	VN
+VN-02	Lao Cai	Lao Cai	VN
+VN-03	Ha Giang	Ha Giang	VN
+VN-05	Son La	Son La	VN
+VN-06	Yen Bai	Yen Bai	VN
+VN-07	Tuyen Quang	Tuyen Quang	VN
+VN-09	Lang Son	Lang Son	VN
+VN-13	Quang Ninh	Quang Ninh	VN
+VN-14	Paz	Peace	VN
+VN-15	Ha Tay	Ha Tay	VN
+VN-18	Ninh Binh	Ninh Binh	VN
+VN-20	Paz	Peaceful	VN
+VN-21	Hallowmas	Hallowmas	VN
+VN-22	Nghe An	Nghe An	VN
+VN-23	Ha Tinh	Ha Tinh	VN
+VN-24	De Quang Binh	Quang Binh	VN
+VN-25	Quang Tri	Quang Tri	VN
+VN-26	Thua Thien-Hue	Hue	VN
+VN-27	Quang Nam	Quang Nam	VN
+VN-28	Kontum	Kon Tum	VN
+VN-29	Quang Ngai	Quang Ngai	VN
+VN-30	Gia Lai	Gia Lai	VN
+VN-32	Phu Yen	Phu Yen	VN
+VN-34	Khanh Hoa	Khanh Hoa	VN
+VN-35	Lam Dong	Lam Dong	VN
+VN-36	Ninh Thuan	Ninh Thuan	VN
+VN-37	Xining	Xining	VN
+VN-39	Dong Nai	Dong Nai	VN
+VN-41	Long An	Long An	VN
+VN-45	Dong Thap	Dong Thap	VN
+VN-46	Tien Giang	Tien Giang	VN
+VN-47	Kien Giang	Kien Giang	VN
+VN-49	Vinh Long	Vinh Long	VN
+VN-51	Tra Vinh	Tra Vinh	VN
+VN-52	Soc Trang	Soc Trang	VN
+VN-61	Hai Duong	Hai Duong	VN
+VN-63	Henan	Henan	VN
+VN-66	Hung Yen	Hung Yen	VN
+VN-67	Nam Dinh	Nam Dinh	VN
+VN-68	Phu Tho	Phu-Tho	VN
+VN-69	Taiyuan	Thai Nguyen	VN
+VN-70	Vinh Phuc	Vinh Phuc	VN
+VN-73	Hau Giang	Hau Giang	VN
+VN-CT	Tho	Can Tho	VN
+VN-DN	Da Nang	Danang	VN
+VN-HN	Hanoi	Hanoi	VN
+VN-HP	Haiphong	Haiphong	VN
+VN-SG	Ho Chi Minh	Ho Chi Minh	VN
+VU-MAP	Malampa	Malampa	VU
+VU-PAM	Penama	Penama	VU
+VU-SAM	Sanma	Sanma	VU
+VU-SEE	Shefa	Shefa	VU
+VU-TAE	Tafea	Tafea	VU
+VU-TOB	Torba	Torba	VU
+WF-ALO	Alo	Alo	WF
+WF-SIG	Sigave	Sigave	WF
+WF-WAL	Wallis	Wallis	WF
+WS-AA	A'Ana	A'Ana	WS
+WS-AL	Familia-A-La-Tai	District Of Aiga I Le Tai	WS
+WS-AT	Dios	God	WS
+WS-FA	Fa'Asaleleaga	Fa'Asaleleaga	WS
+WS-GE	Gaga'Emauga	Gaga'Emauga	WS
+WS-GI	Gaga'Ifomauga	Gagaifomauga	WS
+WS-PA	Cámara Digital	Digital Camera	WS
+WS-SA	Satupa'Itea	Satupa'Itea	WS
+WS-TU	Tuamasanga	Tuamasanga	WS
+WS-VF	Barco-De-Fonoti	Boat-Of-Fonoti	WS
+WS-VS	Vaisigano	Vaisigano	WS
+YE-AB	Abyan	Abyān	YE
+YE-AD	Adan	Adan	YE
+YE-AM	Amrān	Amrān	YE
+YE-BA	Al Bayda '	Al BayḑĀ '	YE
+YE-DA	Aḑ Dali '	Aḑ ḐĀli '	YE
+YE-DH	Dhamār	Dhamār	YE
+YE-HD	Hadramaut	ḨAḑRamawt	YE
+YE-HJ	Hajjah	ḨAjjah	YE
+YE-HU	Al Hudaydah	Al ḨUdaydah	YE
+YE-IB	Ibb	Ibb	YE
+YE-JA	Al Jawf	Al Jawf	YE
+YE-LA	Lahij	LaḩIj	YE
+YE-MA	Ma'Rib	Ma'Rib	YE
+YE-MR	Al Mahrah	Al Mahrah	YE
+YE-MW	Al Mahwit	Al MaḩWīt	YE
+YE-RA	Raymah	Raymah	YE
+YE-SD	Sa'Dah	Şā'Dah	YE
+YE-SH	Shabwah	Shabwah	YE
+YE-SN	Saná	Şan'Ā '	YE
+YE-SU	Arkhabīl Socotora	Arkhabīl Suquţrá	YE
+YE-TA	Ta'Izz	Tā'Izz	YE
+YT-01	Dzaoudzi	Dzaoudzi	YT
+YT-02	Pamandzi	Pamandzi	YT
+YT-03	Mamoudzou	Mamoudzou	YT
+YT-04	Dembeni	Dembeni	YT
+YT-05	Bandrélé	Bandrélé	YT
+YT-06	Kani-Keli	Kani-Keli	YT
+YT-07	Bouéni	Bouéni	YT
+YT-08	Chirongui	Chirongui	YT
+YT-09	Sada	Sada	YT
+YT-10	Ouangani	Ouangani	YT
+YT-11	Chiconi	Chiconi	YT
+YT-12	Tsingoni	Tsingoni	YT
+YT-13	M'Tsangamouji	M'Tsangamouji	YT
+YT-14	Acoua	Acoua	YT
+YT-15	Mtsamboro	Mtsamboro	YT
+YT-16	Bandraboua	Bandraboua	YT
+YT-17	Koungou	Koungou	YT
+ZA-EC	Cabo Del Este	Eastern Cape	ZA
+ZA-FS	Estado Libre	Free State	ZA
+ZA-GT	Provincia De Gauteng	Gauteng	ZA
+ZA-LP	Limpopo	Limpopo	ZA
+ZA-MP	Mpumalanga	Mpumalanga	ZA
+ZA-NC	Cabo Del Norte	Northern Cape	ZA
+ZA-NL	Kwazulu-Natal	Kwazulu-Natal	ZA
+ZA-NW	Noroeste	North West	ZA
+ZA-WC	Cabo Oeste	Western Cape	ZA
+ZM-01	Occidental	Western	ZM
+ZM-02	Central	Central	ZM
+ZM-03	Oriental	Eastern	ZM
+ZM-04	Luapula	Luapula	ZM
+ZM-05	Del Norte	Northern	ZM
+ZM-06	Noroeste	North-Western	ZM
+ZM-07	Del Sur	Southern	ZM
+ZM-08	Copperbelt	Copperbelt	ZM
+ZM-09	Lusaka	Lusaka	ZM
+ZW-BU	Bulawayo	Bulawayo	ZW
+ZW-HA	Harare	Harare	ZW
+ZW-MA	Manicalandia	Manicaland	ZW
+ZW-MC	Mashonaland Central	Mashonaland Central	ZW
+ZW-ME	Mashonaland Oriental	Mashonaland East	ZW
+ZW-MI	Midlands	Midlands	ZW
+ZW-MN	Matabeleland Norte	Matabeleland North	ZW
+ZW-MS	Matabeleland Sur	Matabeleland South	ZW
+ZW-MV	Masvingo	Masvingo	ZW
+ZW-MW	Mashonaland Occidental	Mashonaland West	ZW

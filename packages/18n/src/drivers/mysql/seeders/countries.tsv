@@ -1,0 +1,250 @@
+id	name_es	name_en	dial_code	paypal_accepted	cards_accepted	locale_id	currency_id
+AF	Afganistán	Afghanistan	93	0	1	en	AFN
+AX	Islas Aland	Aland Islands	358	1	1	en	EUR
+AL	Albania	Albania	355	1	1	en	ALL
+DZ	Argelia	Algeria	213	1	1	en	DZD
+AS	Samoa Americana	American Samoa	1684	1	1	en	USD
+AD	Andorra	Andorra	376	1	1	en	EUR
+AO	Angola	Angola	244	1	1	en	AOA
+AI	Anguila	Anguilla	1264	1	1	en	XCD
+AQ	Antártida	Antarctica	672	0	1	en	USD
+AG	Antigua y Barbuda	Antigua and Barbuda	1268	1	1	en	XCD
+AR	Argentina	Argentina	54	1	1	es	ARS
+AM	Armenia	Armenia	374	1	1	en	AMD
+AW	Aruba	Aruba	297	1	1	en	AWG
+AU	Australia	Australia	61	1	1	en	AUD
+AT	Austria	Austria	43	1	1	en	EUR
+AZ	Azerbaiyán	Azerbaijan	994	1	1	en	AZN
+BS	Bahamas	Bahamas	1242	1	1	en	BSD
+BH	Bahrein	Bahrain	973	1	0	en	BHD
+BD	Bangladesh	Bangladesh	880	0	1	en	BDT
+BB	Barbados	Barbados	1246	1	1	en	BBD
+BY	Bielorrusia	Belarus	375	1	0	en	BYR
+BE	Bélgica	Belgium	32	1	1	en	EUR
+BZ	Belice	Belize	501	1	1	en	BZD
+BJ	Benin	Benin	229	1	1	en	XOF
+BM	Islas Bermudas	Bermuda	1441	1	1	en	BMD
+BT	Bután	Bhutan	975	1	1	en	BTN
+BO	Bolivia	Bolivia	591	1	1	es	BOB
+BA	Bosnia y Herzegovina	Bosnia and Herzegovina	387	1	1	en	BAM
+BW	Botsuana	Botswana	267	1	1	en	BWP
+BV	Isla Bouvet	Bouvet Island	47	1	1	en	NOK
+BR	Brasil	Brazil	55	1	1	en	BRL
+IO	Territorio Británico del Océano Índico	British Indian Ocean Territory	246	1	1	en	USD
+BN	Brunei Darussalam	Brunei Darussalam	673	1	1	en	BND
+BG	Bulgaria	Bulgaria	359	1	1	en	BGN
+BF	Burkina Faso	Burkina Faso	226	1	1	en	XOF
+BI	Burundi	Burundi	257	1	1	en	BIF
+KH	Camboya	Cambodia	855	1	1	en	KHR
+CM	Camerún	Cameroon	237	1	1	en	XAF
+CA	Canadá	Canada	1	1	1	en	CAD
+CV	Cabo Verde	Cape Verde	238	1	1	en	CVE
+KY	Islas Caimán	Cayman Islands	1345	1	1	en	KYD
+CF	República Centroafricana	Central African Republic	236	0	1	en	XAF
+TD	Chad	Chad	235	1	1	en	XAF
+CL	Chile	Chile	56	1	1	es	CLP
+CN	China	China	86	1	1	en	CNY
+CX	Isla de Navidad	Christmas Island	61	1	1	en	AUD
+CO	Colombia	Colombia	57	1	1	es	COP
+KM	Comoras	Comoros	269	1	1	en	KMF
+CG	Congo	Congo	242	1	1	en	XAF
+CK	Islas Cook	Cook Islands	682	1	1	en	NZD
+CR	Costa Rica	Costa Rica	506	1	1	es	CRC
+HR	Croacia	Croatia	385	1	1	en	HRK
+CU	Cuba	Cuba	53	0	0	es	CUC
+CW	Curazao	Curaçao	599	0	1	en	ANG
+CY	Chipre	Cyprus	357	1	1	en	EUR
+CZ	República Checa	Czech Republic	420	1	1	en	CZK
+CD	República Democrática del Congo	Democratic Republic of the Congo	243	1	1	en	CDF
+DK	Dinamarca	Denmark	45	1	1	en	DKK
+DJ	Djibouti	Djibouti	253	1	1	en	DJF
+DM	Dominica	Dominica	767	1	1	en	XCD
+DO	República Dominicana	Dominican Republic	809	1	1	es	DOP
+TL	Timor Oriental	East Timor	670	0	1	en	USD
+EC	Ecuador	Ecuador	593	1	1	es	USD
+EG	Egipto	Egypt	20	1	1	en	EGP
+SV	El Salvador	El Salvador	503	1	1	es	USD
+GB-ENG	Inglaterra	England	44	1	1	en	GBP
+GQ	Guinea Ecuatorial	Equatorial Guinea	240	0	1	es	XAF
+ER	Eritrea	Eritrea	291	1	0	en	ERN
+EE	Estonia	Estonia	372	1	1	en	EUR
+ET	Etiopía	Ethiopia	251	1	1	en	ETB
+FK	Islas Malvinas	Falkland Islands	500	1	1	en	FKP
+FO	Islas Faroe	Faroe Islands	298	1	1	en	DKK
+FJ	Fiyi	Fiji	679	1	1	en	FJD
+FI	Finlandia	Finland	358	1	1	en	EUR
+FR	Francia	France	33	1	1	en	EUR
+GF	Guayana Francesa	French Guiana	594	1	1	en	EUR
+PF	Polinesia francés	French Polynesia	689	1	1	en	XPF
+TF	Tierras australes y antárticas francesas	French Southern and Antarctic Lands	262	1	1	en	EUR
+GA	Gabón	Gabon	241	1	1	en	XAF
+GM	Gambia	Gambia	220	1	1	en	GMD
+GE	Georgia	Georgia	995	1	1	en	GEL
+DE	Alemania	Germany	49	1	1	en	EUR
+GH	Ghana	Ghana	233	0	0	en	GHS
+GI	Gibraltar	Gibraltar	350	1	1	en	GIP
+GR	Grecia	Greece	30	1	1	en	EUR
+GL	Groenlandia	Greenland	299	1	1	en	DKK
+GD	Granada	Grenada	1473	1	1	en	XCD
+GP	Guadalupe	Guadeloupe	590	1	1	en	EUR
+GU	Guam	Guam	1	1	1	en	USD
+GT	Guatemala	Guatemala	502	1	1	es	GTQ
+GG	Guernsey	Guernsey	44	1	1	en	GGP
+GN	Guinea	Guinea	224	1	1	en	GNF
+GW	Guinea-Bissau	Guinea-Bissau	245	1	1	en	XOF
+GY	Guayana	Guyana	592	1	1	en	GYD
+HT	Haití	Haiti	509	0	1	en	HTG
+HM	Islas Heard y McDonald	Heard Island and McDonald Islands	672	1	1	en	AUD
+HN	Honduras	Honduras	504	1	1	es	HNL
+HK	Hong Kong	Hong Kong	852	1	1	en	HKD
+HU	Hungría	Hungary	36	1	1	en	HUF
+IS	Islandia	Iceland	354	1	1	en	ISK
+IN	India	India	91	1	1	en	INR
+ID	Indonesia	Indonesia	62	1	1	en	IDR
+IR	Irán	Iran	98	0	0	en	IRR
+IQ	Irak	Iraq	964	0	0	en	IQD
+IE	Irlanda	Ireland	353	1	1	en	EUR
+IM	Isla de Man	Isle of Man	44	1	1	en	IMP
+IL	Israel	Israel	972	1	1	en	ILS
+IT	Italia	Italy	39	1	1	en	EUR
+CI	Costa de Marfil	Ivory Coast	225	1	1	en	XOF
+JM	Jamaica	Jamaica	876	1	1	en	JMD
+JP	Japón	Japan	81	1	1	en	JPY
+JE	Jersey	Jersey	44	1	1	en	JEP
+JO	Jordán	Jordan	962	1	0	en	JOD
+KZ	Kazajstán	Kazakhstan	7	1	1	en	KZT
+CC	Islas Keeling	Keeling Islands	61	1	1	en	AUD
+KE	Kenia	Kenya	254	1	1	en	KES
+KI	Kiribati	Kiribati	686	1	1	en	AUD
+KW	Kuwait	Kuwait	965	1	0	en	KWD
+KG	Kirguistán	Kyrgyzstan	996	1	1	en	KGS
+LA	Laos	Laos	856	1	1	en	LAK
+LV	Letonia	Latvia	371	1	1	en	EUR
+LB	Líbano	Lebanon	961	0	1	en	LBP
+LS	Lesoto	Lesotho	266	1	1	en	LSL
+LR	Liberia	Liberia	231	0	1	en	LRD
+LY	Libia	Libya	218	0	0	en	LYD
+LI	Liechtenstein	Liechtenstein	423	1	1	en	CHF
+LT	Lituania	Lithuania	370	1	1	en	EUR
+LU	Luxemburgo	Luxembourg	352	1	1	en	EUR
+MO	Macao	Macao	853	0	1	en	MOP
+MK	Macedonia	Macedonia	389	1	1	en	MKD
+MG	Madagascar	Madagascar	261	1	1	en	MGA
+MW	Malawi	Malawi	265	1	1	en	MWK
+MY	Malasia	Malaysia	60	1	1	en	MYR
+MV	Maldivas	Maldives	960	1	1	en	MVR
+ML	Mali	Mali	223	1	1	en	XOF
+MT	Malta	Malta	356	1	1	en	EUR
+MH	Islas Marshall	Marshall Islands	692	1	1	en	USD
+MQ	Martinica	Martinique	596	1	1	en	EUR
+MR	Mauritania	Mauritania	222	1	1	en	MRU
+MU	Mauricio	Mauritius	230	1	1	en	MUR
+YT	Mayotte	Mayotte	262	1	1	en	EUR
+MX	México	Mexico	52	1	1	es	MXN
+FM	Micronesia	Micronesia	691	1	1	en	USD
+MD	Moldavia	Moldova	373	1	1	en	MDL
+MC	Mónaco	Monaco	377	1	1	en	EUR
+MN	Mongolia	Mongolia	976	1	1	en	MNT
+ME	Montenegro	Montenegro	382	1	1	en	EUR
+MS	Montserrat	Montserrat	1664	1	1	en	XCD
+MA	Marruecos	Morocco	212	1	1	en	MAD
+MZ	Mozambique	Mozambique	258	1	1	en	MZN
+MM	Myanmar	Myanmar	95	0	1	en	MMK
+NA	Namibia	Namibia	264	1	1	en	NAD
+NR	Nauru	Nauru	674	1	1	en	AUD
+NP	Nepal	Nepal	977	1	1	en	NPR
+NL	Países Bajos	Netherlands	31	1	1	en	EUR
+NC	Nueva Caledonia	New Caledonia	687	1	1	en	XPF
+NZ	Nueva Zelanda	New Zealand	64	1	1	en	NZD
+NI	Nicaragua	Nicaragua	505	1	1	es	NIO
+NE	Níger	Niger	227	1	1	en	XOF
+NG	Nigeria	Nigeria	234	1	1	en	NGN
+NU	Niue	Niue	683	1	1	en	NZD
+NF	Isla Norfolk	Norfolk Island	672	1	1	en	AUD
+KP	Corea del Norte	North Korea	850	0	0	en	KPW
+GB-NIR	Irlanda del Norte	Northern Ireland	44	1	1	en	GBP
+MP	Islas Marianas del Norte	Northern Mariana Islands	1670	1	1	en	USD
+NO	Noruega	Norway	47	1	1	en	NOK
+OM	Omán	Oman	968	1	0	en	OMR
+PK	Pakistán	Pakistan	92	0	1	en	PKR
+PW	Palau	Palau	680	1	1	en	USD
+PS	Palestina	Palestine	970	0	1	en	ILS
+PA	Panamá	Panama	507	1	1	es	USD
+PG	Papúa Nueva Guinea	Papua New Guinea	675	1	1	en	PGK
+PY	Paraguay	Paraguay	595	1	1	es	PYG
+PE	Perú	Peru	51	1	1	es	PEN
+PH	Filipinas	Philippines	63	1	1	en	PHP
+PN	Islas Pitcairn	Pitcairn Islands	870	1	1	en	NZD
+PL	Polonia	Poland	48	1	1	en	PLN
+PT	Portugal	Portugal	351	1	1	en	EUR
+PR	Puerto Rico	Puerto Rico	1	1	1	en	USD
+QA	Katar	Qatar	974	1	1	en	QAR
+RE	Reunión	Réunion	262	1	1	en	EUR
+RO	Rumania	Romania	40	1	1	en	RON
+RU	Rusia	Russia	7	1	1	en	RUB
+RW	Ruanda	Rwanda	250	1	1	en	RWF
+ST	Santo Tomé y Príncipe	São Tomé and Príncipe	239	1	1	en	STN
+BL	San Bartolomé	Saint Barthélemy	590	1	1	en	EUR
+KN	San Cristóbal y Nieves	Saint Kitts and Nevis	1869	1	1	en	XCD
+LC	Santa Lucía	Saint Lucia	1758	1	1	en	XCD
+PM	San Pedro y Miquelón	Saint Pierre and Miquelon	508	1	1	en	EUR
+VC	San Vicente y las Granadinas	Saint Vincent and the Grenadines	1784	1	1	en	XCD
+WS	Samoa	Samoa	685	1	1	en	WST
+SM	San Marino	San Marino	378	1	1	en	EUR
+SA	Arabia Saudita	Saudi Arabia	966	1	1	en	SAR
+GB-SCT	Escocia	Scotland	44	1	1	en	GBP
+SN	Senegal	Senegal	221	1	1	en	XOF
+RS	Serbia	Serbia	381	1	1	en	RSD
+SC	Seychelles	Seychelles	248	1	1	en	SCR
+SL	Sierra Leona	Sierra Leone	232	1	1	en	SLL
+SG	Singapur	Singapore	65	1	1	en	SGD
+SX	Sint Maarten	Sint Maarten	1721	1	1	en	ANG
+SK	Eslovaquia	Slovakia	421	1	1	en	EUR
+SI	Eslovenia	Slovenia	386	1	1	en	EUR
+SB	Islas Salomón	Solomon Islands	677	1	1	en	SBD
+SO	Somalia	Somalia	252	1	1	en	SOS
+ZA	Sudáfrica	South Africa	27	1	1	en	ZAR
+GS	Islas Georgia del Sur y Sandwich del Sur	South Georgia and South Sandwich Islands	500	1	1	en	GBP
+KR	Corea del Sur	South Korea	82	1	1	en	KRW
+SS	Sudán del Sur	South Sudan	211	0	1	en	SSP
+ES	España	Spain	34	1	1	es	EUR
+LK	Sri Lanka	Sri Lanka	94	1	1	en	LKR
+SD	Sudán	Sudan	249	0	0	en	SDG
+SR	Surinam	Suriname	597	1	1	en	SRD
+SJ	Islas Svalbard y Jan Mayen	Svalbard and Jan Mayen Islands	47	1	1	en	NOK
+SZ	Swazilandia	Swaziland	268	1	1	en	SZL
+SE	Suecia	Sweden	46	1	1	en	SEK
+CH	Suiza	Switzerland	41	1	1	en	CHF
+SY	Siria	Syria	963	0	0	en	SYP
+TW	Taiwán	Taiwan	886	1	1	en	TWD
+TJ	Tayikistán	Tajikistan	992	1	1	en	TJS
+TZ	Tanzania	Tanzania	255	1	1	en	TZS
+TH	Tailandia	Thailand	66	1	1	en	THB
+TG	Togo	Togo	228	1	1	en	XOF
+TK	Tokelau	Tokelau	690	1	1	en	NZD
+TO	Tonga	Tonga	676	1	1	en	TOP
+TT	Trinidad y Tobago	Trinidad and Tobago	868	1	1	en	TTD
+TN	Túnez	Tunisia	216	1	0	en	TND
+TR	Turquía	Turkey	90	1	1	en	TRY
+TM	Turkmenistán	Turkmenistan	993	1	0	en	TMT
+TC	Islas Turcas y Caicos	Turks and Caicos Islands	1	1	1	en	USD
+TV	Tuvalu	Tuvalu	688	1	1	en	AUD
+UG	Uganda	Uganda	256	1	1	en	UGX
+UA	Ucrania	Ukraine	380	1	1	en	UAH
+AE	Emiratos Árabes Unidos	United Arab Emirates	971	1	1	en	AED
+GB	Reino Unido	United Kingdom	44	1	1	en	GBP
+UM	Islas ultramarinas menores de Estados Unidos	United States Minor Outlying Islands	256	1	1	en	USD
+US	Estados Unidos de América	United States of America	1	1	1	en	USD
+UY	Uruguay	Uruguay	598	1	1	es	UYU
+UZ	Uzbekistán	Uzbekistan	998	0	1	en	UZS
+VU	Vanuatu	Vanuatu	678	1	1	en	VUV
+VA	Ciudad del Vaticano	Vatican City	379	1	1	en	EUR
+VE	Venezuela	Venezuela	58	1	1	es	VES
+VN	Vietnam	Vietnam	84	1	1	en	VND
+VG	Islas Vírgenes Británicas	Virgin Islands (British)	1284	1	1	en	USD
+VI	Islas Vírgenes (Estados Unidos)	Virgin Islands (United States)	1	1	1	en	USD
+GB-WLS	Gales	Wales	44	1	1	en	GBP
+WF	Wallis y Futuna	Wallis and Futuna	681	1	1	en	XPF
+YE	Yemen	Yemen	967	1	1	en	YER
+ZM	Zambia	Zambia	260	1	1	en	ZMW
+ZW	Zimbabue	Zimbabwe	263	1	1	en	USD

@@ -1,7 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
 const { COUNTRY_TABLE } = require('./country');
 
-const REGION_TABLE = 'region';
+const REGION_TABLE = 'Regions';
 
 const RegionSchema = {
   id: {
@@ -9,10 +9,12 @@ const RegionSchema = {
     primaryKey: true,
   },
   nameEs: {
+    field: "name_es",
     type: DataTypes.STRING(100),
     allowNull: false,
   },
   nameEn: {
+    field: "name_en",
     type: DataTypes.STRING(100),
     allowNull: false,
   },
@@ -20,7 +22,6 @@ const RegionSchema = {
     field: 'country_id',
     allowNull: false,
     type: DataTypes.STRING(6),
-    unique: true,
     references: {
       model: COUNTRY_TABLE,
       key: 'id',
@@ -40,7 +41,7 @@ class Region extends Model {
     return {
       sequelize,
       tableName: REGION_TABLE,
-      modelName: 'region',
+      modelName: 'Region',
     };
   }
 }

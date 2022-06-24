@@ -1,6 +1,6 @@
 const { Model, DataTypes } = require('sequelize');
 
-const CURRENCY_TABLE = 'currency';
+const CURRENCY_TABLE = 'Currencies';
 
 const CurrencySchema = {
   id: {
@@ -16,6 +16,7 @@ const CurrencySchema = {
     allowNull: false,
   },
   exchangeRate: {
+    field: "exchange_rate",
     type: DataTypes.DECIMAL(19, 9),
     allowNull: false,
     defaultValue: 0,
@@ -31,7 +32,7 @@ class Currency extends Model {
     return {
       sequelize,
       tableName: CURRENCY_TABLE,
-      modelName: 'currency',
+      modelName: 'Currency',
     };
   }
 }

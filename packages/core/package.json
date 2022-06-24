@@ -16,7 +16,8 @@
     "access": "public"
   },
   "scripts": {
-    "migrations:run": "npm --prefix ../18n/ run migrations:run && npm --prefix ../user/ run migrations:run"
+    "migrations:run": "npm --prefix ../18n/ run migrations:run && npm --prefix ../user/ run migrations:run",
+    "seeders:run": "npm --prefix ../18n/ run seeders:run"
   },
   "dependencies": {
     "@package/18n": "1.0.0",
@@ -26,7 +27,7 @@
     "btoa": "1.2.1",
     "crypto-random-string": "5.0.0",
     "dotenv": "16.0.1",
-    "graphql": "^16.5.0",
+    "graphql": "16.5.0",
     "graphql-redis-subscriptions": "2.4.2",
     "graphql-subscriptions": "2.0.0",
     "ioredis": "5.0.6",
