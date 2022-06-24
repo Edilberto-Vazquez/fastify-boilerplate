@@ -1,18 +1,18 @@
-const { User, UserSchema } = require('./userModel');
-// const { Password, PasswordSchema } = require('./passwordModel');
-const { PaymentMethod, PaymentMethodSchema } = require('./paymentMethodModel');
-const { UserSearch, UserSearchSchema } = require('./userSearchModel');
+const { Locale, LocaleSchema } = require('./locale');
+const { Currency, CurrencySchema } = require('./currency');
+const { Country, CountrySchema } = require('./country');
+const { Region, RegionSchema } = require('./region');
 
 function setupModels(sequelize) {
-  User.init(UserSchema, User.config(sequelize));
-  // Password.init(PasswordSchema, Password.config(sequelize));
-  PaymentMethod.init(PaymentMethodSchema, PaymentMethod.config(sequelize));
-  UserSearch.init(UserSearchSchema, UserSearch.config(sequelize));
+  Locale.init(LocaleSchema, Locale.config(sequelize));
+  Currency.init(CurrencySchema, Currency.config(sequelize));
+  Country.init(CountrySchema, Country.config(sequelize));
+  Region.init(RegionSchema, Region.config(sequelize));
 
-  User.associate(sequelize.models);
-  // Password.associate(sequelize.models);
-  PaymentMethod.associate(sequelize.models);
-  UserSearch.associate(sequelize.models);
+  Locale.associate(sequelize.models);
+  Currency.associate(sequelize.models);
+  Country.associate(sequelize.models);
+  Region.associate(sequelize.models);
 }
 
 module.exports = setupModels;

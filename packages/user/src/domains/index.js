@@ -1,8 +1,9 @@
+// Drivers
+const { drivers } = require('@package/core');
+const { sequelize } = drivers;
+
 // Domains
 const { getUserId, getUserName, create } = require('./user');
-
-// Drivers
-const sequelize = require('../drivers/mysql/connection');
 
 module.exports = {
   getUserIdQuery: getUserId(sequelize.model('User')),

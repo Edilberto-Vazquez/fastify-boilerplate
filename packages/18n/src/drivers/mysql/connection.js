@@ -1,8 +1,7 @@
-const { Sequelize } = require('sequelize');
-const config = require('../../../config/mysql');
+const { drivers } = require('@package/core');
+const { sequelize } = drivers;
 const setupModels = require('./models');
 
-const sequelize = new Sequelize(config.development);
 setupModels(sequelize);
 
 module.exports = sequelize;

@@ -1,7 +1,7 @@
-// Services
-const {} = require('./useCases');
+// // Services
+// const {} = require('./useCases');
 
-// Domains
-const {} = require('./domains');
+// // Domains
+// const {} = require('./domains');
 
 module.exports = {};

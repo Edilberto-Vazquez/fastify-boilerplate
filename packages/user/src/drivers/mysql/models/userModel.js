@@ -78,13 +78,34 @@ const UserSchema = {
     type: DataTypes.DATE,
     field: 'deleted_at',
   },
+  countryId: {
+    field: 'country_id',
+    allowNull: false,
+    type: DataTypes.STRING(6),
+    unique: true,
+    references: {
+      model: 'country',
+      key: 'id',
+    },
+    onUpdate: 'CASCADE',
+    onDelete: 'CASCADE',
+  },
 };
 
 class User extends Model {
   static associate(models) {
-    // this.hasOne(models.Password, { as:'password', foreignKey: { name: 'userId', allowNull: false } })
-    this.hasOne(models.PaymentMethod, { as:'payment_method', foreignKey: { name: 'userId', allowNull: true } })
-    this.hasOne(models.UserSearch, { as:'user_search', foreignKey: { name: 'userId', allowNull: true } })
+    this.hasOne(models.PaymentMethod, {
+      as: 'payment_method',
+      foreignKey: { name: 'userId', allowNull: true },
+    });
+    this.hasOne(models.UserSearch, {
+      as: 'user_search',
+      foreignKey: { name: 'userId', allowNull: true },
+    });
+    this.belongsTo(models.Country, {
+      as: 'country',
+      foreignKey: { name: 'countryId', allowNull: false },
+    });
   }
 
   static config(sequelize) {
