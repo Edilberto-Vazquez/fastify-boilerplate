@@ -1,12 +1,31 @@
 // Drivers
 const { drivers } = require('@package/core');
-const { sequelize } = drivers;
+const { redis } = drivers;
+const sequelize = require('../drivers/mysql/connection');
 
 // Domains
-const { getUserId, getUserName, create } = require('./user');
+const getUserById = require('./getById');
+const getUserByEmail = require('./getByEmail');
+const createUser = require('./create');
+const updateUser = require('./update');
+const removeUser = require('./delete');
+const countUsers = require('./count');
+const listUsers = require('./list');
+
+// Utils
+const processFilter = require('../utils/processFilter');
+
+// define the target model
+const userModel = sequelize.model('User');
+// this function is required for createUser and updateUser
+const getById = getUserById(sequelize.model('User'), redis.redis);
 
 module.exports = {
-  getUserIdQuery: getUserId(sequelize.model('User')),
-  getUserNameQuery: getUserName(sequelize.model('User')),
-  createMutation: create(sequelize.model('User')),
+  getById: getUserById(userModel, redis.redis),
+  getByEmail: getUserByEmail(userModel, redis.redis),
+  create: createUser(userModel, redis.redis, redis.destroyCache, redis.pubsub, getById),
+  update: updateUser(userModel, redis.destroyCache, redis.pubsub, getById),
+  remove: removeUser(userModel, redis.redis, redis.destroyCache),
+  count: countUsers(userModel, redis.redis, processFilter),
+  list: listUsers(userModel, redis.redis, processFilter),
 };

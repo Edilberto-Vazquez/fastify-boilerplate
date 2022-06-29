@@ -7,11 +7,6 @@ const UserSchema = {
     type: DataTypes.STRING(10),
     primaryKey: true,
   },
-  userName: {
-    type: DataTypes.STRING(10),
-    allowNull: false,
-    field: 'user_name',
-  },
   firstName: {
     type: DataTypes.STRING(40),
     allowNull: false,
@@ -22,16 +17,16 @@ const UserSchema = {
     allowNull: false,
     field: 'last_name',
   },
-  company: {
-    type: DataTypes.STRING(150),
-    allowNull: false,
-  },
   email: {
     type: DataTypes.STRING(128),
     allowNull: false,
   },
   phone: {
     type: DataTypes.STRING(50),
+    allowNull: false,
+  },
+  company: {
+    type: DataTypes.STRING(150),
     allowNull: false,
   },
   password: {
@@ -62,13 +57,13 @@ const UserSchema = {
     field: 'disconnected_at',
   },
   createdAt: {
-    allowNull: false,
+    allowNull: true,
     type: DataTypes.DATE,
     field: 'created_at',
     defaultValue: DataTypes.NOW,
   },
   updatedAt: {
-    allowNull: false,
+    allowNull: true,
     type: DataTypes.DATE,
     field: 'updated_at',
     defaultValue: DataTypes.NOW,
@@ -82,7 +77,7 @@ const UserSchema = {
     field: 'country_id',
     allowNull: false,
     type: DataTypes.STRING(6),
-    unique: true,
+    unique: false,
     references: {
       model: 'Countries',
       key: 'id',
@@ -102,10 +97,10 @@ class User extends Model {
       as: 'user_search',
       foreignKey: { name: 'userId', allowNull: true },
     });
-    this.belongsTo(models.Country, {
-      as: 'country',
-      foreignKey: { name: 'countryId', allowNull: false },
-    });
+    // this.belongsTo(models.Country, {
+    //   as: 'country',
+    //   foreignKey: { name: 'countryId', allowNull: false },
+    // });
   }
 
   static config(sequelize) {

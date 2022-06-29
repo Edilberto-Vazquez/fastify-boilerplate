@@ -1,20 +1,17 @@
 const { userAdapters } = require('../../adapters');
 
 module.exports = {
-  Query: {
-    userName: async () => {
-      return 6;
-    },
-  },
   Mutation: {
-    createUser: async (_, { input }, { services }) => {
-      let res;
+    createUser: async (_, { input }, { services, ErrorWithProps }) => {
       try {
-        res = await userAdapters.createUser(input, services);
+        return await userAdapters.createUser(input, services);
       } catch (error) {
-        throw new Error(error);
+        throw new ErrorWithProps(error.message, {
+          id: input.id,
+          code: 'USER_ALREADY_EXIST',
+          timestamp: Math.round(new Date().getTime() / 1000),
+        });
       }
-      return res;
     },
   },
 };

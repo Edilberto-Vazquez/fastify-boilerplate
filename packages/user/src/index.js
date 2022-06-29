@@ -1,15 +1,11 @@
 // Services
-const { getById, getByUserName, createUser } = require('./useCases');
+const { getUserById, getUserByEmail, createUser } = require('./useCases');
 
 // Domains
-const {
-  getUserIdQuery,
-  getUserNameQuery,
-  createMutation,
-} = require('./domains');
+const { getById, getByEmail, create, update, remove, count, list } = require('./domains');
 
 module.exports = {
-  getById: getById(getUserIdQuery),
-  getByUserName: getByUserName(getUserNameQuery),
-  createUser: createUser(createMutation, getUserNameQuery),
+  getById: getUserById(getById),
+  getByEmail: getUserByEmail(getByEmail),
+  create: createUser(create, getUserById(getById), getUserByEmail(getByEmail)),
 };

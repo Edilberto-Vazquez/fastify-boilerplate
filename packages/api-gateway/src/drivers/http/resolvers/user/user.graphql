@@ -3,36 +3,76 @@ scalar Country
 
 type User {
   id: ID!
-  connected: Boolean!
-  connectedAt: DateTime
-  disconnectedAt: DateTime
   firstName: String!
   lastName: String!
   email: String
   phone: String
-  phoneCountry: Country
-  country: Country
   company: String
+  countryId: Country
+  stripeId: String
+  connected: Boolean!
+  connectedAt: DateTime
+  disconnectedAt: DateTime
   createdAt: DateTime!
   updatedAt: DateTime!
-  stripeId: String
+}
+
+input UserFilter {
+  query: String
+  id: [ID]
+}
+
+type UserEdge {
+  node: User!
+}
+
+type UserConnection {
+  totalCount: Int!
+  totalEdges: Int!
+  hasMore: Boolean!
+  pag: Int!
+  edges: [UserEdge!]!
 }
 
 input NewUser {
   id: ID
-  userName: String!
   firstName: String!
   lastName: String!
   email: String!
-  company: String!
   phone: String!
+  company: String!
+  countryId: ID!
   password: String!
+  createdAt: DateTime
+}
+
+input UpdateUser {
+  id: ID!
+  firstName: String
+  lastName: String
+  email: String
+  phone: String
+  phoneCountry: ID
+  jobTitle: String
+  profileImageId: ID
+  company: String
+  countryId: String
+  premium: Boolean
+}
+
+type Query {
+  user(id: ID, email: String): User
+  users(
+    pag: Int = 0
+    num: Int = 20
+    ord: String = "updatedAt"
+    asc: Boolean = false
+    filter: UserFilter
+  ): UserConnection!
 }
 
 type Mutation {
   createUser(input: NewUser!): User
-}
-
-type Query {
-  userName: Int
+  updateUser(input: UpdateUser!): User!
+  deleteUser(id: ID!): Boolean
 }

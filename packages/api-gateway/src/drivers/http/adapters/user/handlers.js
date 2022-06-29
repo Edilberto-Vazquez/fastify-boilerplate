@@ -1,5 +1,5 @@
 async function createUser(input, services) {
-  const res = await services.userServices.createUser(input);
+  const res = await services.userServices.create(input);
   return res;
 }
 
