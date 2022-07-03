@@ -18,7 +18,7 @@ const processFilter = require('../utils/processFilter');
 // define the target model
 const userModel = sequelize.model('User');
 // this function is required for createUser and updateUser
-const getById = getUserById(sequelize.model('User'), redis.redis);
+const getById = getUserById(userModel, redis.redis);
 
 module.exports = {
   getById: getUserById(userModel, redis.redis),
