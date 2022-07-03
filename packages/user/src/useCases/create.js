@@ -1,3 +1,5 @@
+const cryptoRandomString = require('crypto-random-string');
+
 const createUser = (create, getById, getByEmail) => async (input) => {
   if (!input.id) input.id = cryptoRandomString({ type: 'url-safe', length: 10 });
   const prev = await getById(input.id);
