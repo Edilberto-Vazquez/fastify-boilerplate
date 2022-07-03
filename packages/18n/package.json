@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "18n service",
   "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
-  "homepage": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/tree/main/packages/18n-service#readme",
-  "license": "ISC",
   "main": "src/index.js",
   "directories": {
     "src": "src"

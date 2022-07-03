@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "core functionalities",
   "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
-  "homepage": "https://github.com/Edilberto-Vazquez/fastify-boilerplate/tree/main/packages/core#readme",
-  "license": "ISC",
   "main": "src/index.js",
   "directories": {
     "src": "src"
