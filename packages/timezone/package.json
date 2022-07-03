@@ -1,7 +1,7 @@
 {
-  "name": "@package/18n",
+  "name": "@package/timezone",
   "version": "1.0.0",
-  "description": "18n service",
+  "description": "timezone package",
   "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
   "main": "src/index.js",
   "directories": {

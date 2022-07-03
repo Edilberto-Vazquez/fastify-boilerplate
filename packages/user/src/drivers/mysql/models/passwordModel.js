@@ -1,8 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
 const { USER_TABLE } = require('./userModel');
 
-const PASSWORD_TABLE = 'passwords';
-
+const PASSWORD_TABLE = 'Passwords';
 
 const PasswordSchema = {
   id: {
@@ -39,7 +38,7 @@ const PasswordSchema = {
       model: {
         tableName: 'users',
       },
-      key: 'id'
+      key: 'id',
     },
     onUpdate: 'CASCADE',
     onDelete: 'CASCADE',
