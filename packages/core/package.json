@@ -14,7 +14,7 @@
     "access": "public"
   },
   "scripts": {
-    "migrations:run": "npm --prefix ../18n/ run migrations:run && npm --prefix ../user/ run migrations:run && npm --prefix ../timezone/ run migrations:run && npm --prefix ../mail/ run migrations:run",
+    "migrations:run": "npm --prefix ../18n/ run migrations:run && npm --prefix ../user/ run migrations:run && npm --prefix ../timezone/ run migrations:run && npm --prefix ../mail/ run migrations:run && npm --prefix ../mail/ run migrations:run && npm --prefix ../session/ run migrations:run ",
     "seeders:run": "npm --prefix ../18n/ run seeders:run && npm --prefix ../timezone/ run seeders:run"
   },
   "dependencies": {
