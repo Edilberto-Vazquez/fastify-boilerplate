@@ -87,6 +87,18 @@ const UserSchema = {
   },
 };
 
+// add virtual fullname field to User
+// this schema only works when model is initialized and not use in migrations
+const UserSchemaWithFullName = {
+  ...UserSchema,
+  fullName: {
+    type: DataTypes.VIRTUAL,
+    get() {
+      return `${this.getDataValue('firstName')} ${this.getDataValue('lastName')}`;
+    },
+  },
+};
+
 class User extends Model {
   static associate(models) {
     this.hasOne(models.PaymentMethod, {
@@ -114,4 +126,4 @@ class User extends Model {
   }
 }
 
-module.exports = { USER_TABLE, UserSchema, User };
+module.exports = { USER_TABLE, UserSchema, UserSchemaWithFullName, User };
