@@ -1,9 +1,9 @@
-const { Email, EmailSchema } = require('./mail');
+const { Mail, MailSchema } = require('./mail');
 
 function setupModels(sequelize) {
-  Email.init(EmailSchema, Email.config(sequelize));
+  Mail.init(MailSchema, Mail.config(sequelize));
 
-  Email.associate(sequelize.models);
+  Mail.associate(sequelize.models);
 }
 
 module.exports = setupModels;

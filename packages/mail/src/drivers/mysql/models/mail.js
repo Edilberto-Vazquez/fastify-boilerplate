@@ -1,9 +1,9 @@
 const { Model, DataTypes } = require('sequelize');
 const cryptoRandomString = require('crypto-random-string');
 
-const EMAIL_TABLE = 'Emails';
+const MAIL_TABLE = 'Mails';
 
-const EmailSchema = {
+const MailSchema = {
   id: {
     type: DataTypes.STRING(10),
     primaryKey: true,
@@ -12,27 +12,27 @@ const EmailSchema = {
   text: {
     type: DataTypes.TEXT,
   },
-  textFlowed: {
+  text_flowed: {
     type: DataTypes.BOOLEAN,
     allowNull: false,
   },
   html: {
     type: DataTypes.TEXT,
   },
-  fromEmail: {
+  from_email: {
     type: DataTypes.STRING(128),
     allowNull: false,
   },
-  fromName: {
+  from_name: {
     type: DataTypes.STRING(512),
     allowNull: true,
     defaultValue: null,
   },
-  toEmail: {
+  to_email: {
     type: DataTypes.STRING(128),
     allowNull: false,
   },
-  toName: {
+  to_name: {
     type: DataTypes.STRING(512),
     allowNull: true,
     defaultValue: null,
@@ -44,18 +44,18 @@ const EmailSchema = {
   },
 };
 
-class Email extends Model {
+class Mail extends Model {
   static associate(models) {}
 
   static config(sequelize) {
     return {
       sequelize,
-      tableName: EMAIL_TABLE,
-      modelName: 'Email',
+      tableName: MAIL_TABLE,
+      modelName: 'Mails',
       timestamps: true,
       paranoid: true,
     };
   }
 }
 
-module.exports = { EMAIL_TABLE, EmailSchema, Email };
+module.exports = { MAIL_TABLE, MailSchema, Mail };

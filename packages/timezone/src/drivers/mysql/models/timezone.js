@@ -12,11 +12,11 @@ const TimeZoneSchema = {
     type: DataTypes.STRING(50),
     allowNull: false,
   },
-  gmtOffset: {
+  gmt_offset: {
     type: DataTypes.FLOAT,
     allowNull: false,
   },
-  gmtOffsetDst: {
+  gmt_offset_dst: {
     type: DataTypes.FLOAT,
     allowNull: false,
   },
