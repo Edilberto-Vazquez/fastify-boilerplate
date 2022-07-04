@@ -1,6 +1,6 @@
-const { User, UserSchema } = require('./userModel');
-const { PaymentMethod, PaymentMethodSchema } = require('./paymentMethodModel');
-const { UserSearch, UserSearchSchema } = require('./userSearchModel');
+const { User, UserSchema } = require('./user');
+const { PaymentMethod, PaymentMethodSchema } = require('./paymentMethod');
+const { UserSearch, UserSearchSchema } = require('./userSearch');
 
 function setupModels(sequelize) {
   User.init(UserSchema, User.config(sequelize));

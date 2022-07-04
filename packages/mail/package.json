@@ -1,7 +1,7 @@
 {
   "name": "@package/mail",
   "version": "1.0.0",
-  "description": "> TODO: description",
+  "description": "mail service",
   "author": "Edilberto Vazquez Luna <edi_vazquez12@hotmail.com>",
   "main": "src/index.js",
   "directories": {
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@package/core": "1.0.0",
-    "crypto-random-string": "5.0.0",
+    "crypto-random-string": "3.0.1",
     "dotenv": "16.0.1",
     "mysql2": "2.3.3",
     "sequelize": "6.21.0"

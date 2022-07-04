@@ -1,4 +1,4 @@
-const { TimeZoneSchema, TIME_ZONE_TABLE } = require('../models/timezoneModel');
+const { TimeZoneSchema, TIME_ZONE_TABLE } = require('../models/timezone');
 
 module.exports = {
   async up(queryInterface) {

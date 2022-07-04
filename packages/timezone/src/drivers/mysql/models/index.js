@@ -1,4 +1,4 @@
-const { TimeZone, TimeZoneSchema } = require('./timezoneModel');
+const { TimeZone, TimeZoneSchema } = require('./timezone');
 
 function setupModels(sequelize) {
   TimeZone.init(TimeZoneSchema, TimeZone.config(sequelize));

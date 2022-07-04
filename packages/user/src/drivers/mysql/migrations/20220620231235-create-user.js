@@ -1,6 +1,6 @@
-const { UserSchema, USER_TABLE } = require('../models/userModel');
-const { PaymentMethodSchema, PAYMENT_METHOD_TABLE } = require('../models/paymentMethodModel');
-const { UserSearchSchema, USER_SEARCH_TABLE } = require('../models/userSearchModel');
+const { UserSchema, USER_TABLE } = require('../models/user');
+const { PaymentMethodSchema, PAYMENT_METHOD_TABLE } = require('../models/paymentMethod');
+const { UserSearchSchema, USER_SEARCH_TABLE } = require('../models/userSearch');
 
 module.exports = {
   async up(queryInterface) {

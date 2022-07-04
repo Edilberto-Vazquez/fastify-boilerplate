@@ -1,8 +1,7 @@
 const { Model, DataTypes } = require('sequelize');
-const { USER_TABLE } = require('./userModel');
+const { USER_TABLE } = require('./user');
 
 const PAYMENT_METHOD_TABLE = 'PaymentMethods';
-
 
 const PaymentMethodSchema = {
   id: {
@@ -10,16 +9,7 @@ const PaymentMethodSchema = {
     primaryKey: true,
   },
   brand: {
-    type: DataTypes.ENUM(
-      'visa',
-      'amex',
-      'mastercard',
-      'diners',
-      'discover',
-      'jcb',
-      'unionpay',
-      'unknown'
-    ),
+    type: DataTypes.ENUM('visa', 'amex', 'mastercard', 'diners', 'discover', 'jcb', 'unionpay', 'unknown'),
     defaultValue: 'unknown',
     allowNull: false,
   },
