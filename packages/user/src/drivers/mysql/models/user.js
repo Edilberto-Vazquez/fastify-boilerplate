@@ -74,16 +74,9 @@ const UserSchema = {
     field: 'deleted_at',
   },
   countryId: {
+    type: DataTypes.STRING(6),
     field: 'country_id',
     allowNull: false,
-    type: DataTypes.STRING(6),
-    unique: false,
-    references: {
-      model: 'Countries',
-      key: 'id',
-    },
-    onUpdate: 'CASCADE',
-    onDelete: 'CASCADE',
   },
 };
 

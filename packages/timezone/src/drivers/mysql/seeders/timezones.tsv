@@ -1,4 +1,4 @@
-id	name	gmtOffset	gmtOffsetDst
+id	name	gmt_offset	gmt_offset_dst
 1	Africa/Abidjan	0	0
 2	Africa/Accra	0	0
 3	Africa/Addis_Ababa	10800	10800
