@@ -1,8 +1,10 @@
-const list = (list) => async (filter, options) => {
-  if (!filter) filter = {};
-  if (!options) options = {};
-  const data = list(filter, options);
+const listUsers = (list) => async (filter, options) => {
+  let filterToUse = {};
+  let optionsToUse = {};
+  if (filter) filterToUse = filter;
+  if (options) optionsToUse = options;
+  const data = list(filterToUse, optionsToUse);
   return data;
 };
 
-module.exports = list;
+module.exports = listUsers;

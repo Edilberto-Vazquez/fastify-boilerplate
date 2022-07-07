@@ -1,5 +1,5 @@
 const getUserByEmail = (getByEmail) => async (email) => {
-  let user = await getByEmail(email);
+  const user = await getByEmail(email);
   return user;
 };
 

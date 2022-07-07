@@ -6,7 +6,7 @@ const list = (userModel, redis, processFilter) => async (filter, options) => {
   const order = options.ord ? [[options.ord, options.asc ? 'ASC' : 'DESC']] : [['updatedAt', 'DESC']];
   const limit = options.num || baseConfig.defaultNum;
   const offset = (options.pag || 0) * limit;
-  let data = await userModel.findAll({ where, limit, offset, order }).map((item) => item.get({ plain: true }));
+  const data = await userModel.findAll({ where, limit, offset, order }).map((item) => item.get({ plain: true }));
   await redis.set(users, JSON.stringify(data));
   return data;
 };

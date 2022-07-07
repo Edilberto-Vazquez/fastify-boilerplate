@@ -1,5 +1,10 @@
+const Sequelize = require('sequelize');
+
+const { Op } = Sequelize;
+
 // Drivers
 const { drivers } = require('@package/core');
+
 const { redis } = drivers;
 const sequelize = require('../drivers/mysql/connection');
 
@@ -11,9 +16,7 @@ const updateUser = require('./update');
 const removeUser = require('./delete');
 const countUsers = require('./count');
 const listUsers = require('./list');
-
-// Utils
-const processFilter = require('../utils/processFilter');
+const processFilter = require('./processFilter');
 
 // define the target model
 const userModel = sequelize.model('User');
@@ -26,6 +29,6 @@ module.exports = {
   create: createUser(userModel, redis.redis, redis.destroyCache, redis.pubsub, getById),
   update: updateUser(userModel, redis.destroyCache, redis.pubsub, getById),
   remove: removeUser(userModel, redis.redis, redis.destroyCache),
-  count: countUsers(userModel, redis.redis, processFilter),
-  list: listUsers(userModel, redis.redis, processFilter),
+  count: countUsers(userModel, redis.redis, processFilter(Op)),
+  list: listUsers(userModel, redis.redis, processFilter(Op)),
 };

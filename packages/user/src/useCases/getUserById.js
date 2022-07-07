@@ -1,5 +1,5 @@
 const getUserById = (getById) => async (id) => {
-  let user = await getById(id);
+  const user = await getById(id);
   return user;
 };
 

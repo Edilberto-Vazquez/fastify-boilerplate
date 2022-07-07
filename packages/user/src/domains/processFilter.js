@@ -1,6 +1,7 @@
-const processFilter = (filter) => {
+const processFilter = (Op) => (filter) => {
   let where = {};
-  for (let x in filter)
+  Object.values(filter).forEach((x) => {
+    // eslint-disable-next-line default-case
     switch (x) {
       case 'query':
         where = {
@@ -37,6 +38,7 @@ const processFilter = (filter) => {
             };
         break;
     }
+  });
   return where;
 };
 

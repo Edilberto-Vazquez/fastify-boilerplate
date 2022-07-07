@@ -1,8 +1,24 @@
 // Services
-const { getUserById, getUserByEmail, createUser, updateUser, deleteUser, countUsers, listUsers } = require('./useCases');
+const {
+  getUserById,
+  getUserByEmail,
+  createUser,
+  updateUser,
+  deleteUser,
+  countUsers,
+  listUsers,
+} = require('./useCases');
 
 // Domains
-const { getById, getByEmail, create, update, remove, count, list } = require('./domains');
+const {
+  getById,
+  getByEmail,
+  create,
+  update,
+  remove,
+  count,
+  list,
+} = require('./domains');
 
 module.exports = {
   getById: getUserById(getById),
