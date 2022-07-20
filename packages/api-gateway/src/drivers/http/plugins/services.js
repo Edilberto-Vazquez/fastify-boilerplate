@@ -9,7 +9,7 @@ async function services(fastify) {
 module.exports = {
   loadServicesAsPlugin: services,
   services: {
-    userServices: UserServices,
-    coreServices: CoreServices,
+    user: UserServices,
+    core: CoreServices,
   },
 };

@@ -3,18 +3,20 @@ scalar Country
 
 type User {
   id: ID!
-  firstName: String!
-  lastName: String!
-  email: String
-  phone: String
-  company: String
-  countryId: Country
-  stripeId: String
   connected: Boolean!
   connectedAt: DateTime
   disconnectedAt: DateTime
+  firstName: String!
+  lastName: String!
+  fullName: String!
+  email: String
+  phone: String
+  phoneCountry: Country
+  country: Country
+  company: String
   createdAt: DateTime!
   updatedAt: DateTime!
+  stripeId: String
 }
 
 input UserFilter {
@@ -40,8 +42,9 @@ input NewUser {
   lastName: String!
   email: String!
   phone: String!
+  phoneCountry: ID!
+  country: ID!
   company: String!
-  countryId: ID!
   password: String!
   createdAt: DateTime
 }
@@ -56,7 +59,7 @@ input UpdateUser {
   jobTitle: String
   profileImageId: ID
   company: String
-  countryId: String
+  country: String
   premium: Boolean
 }
 

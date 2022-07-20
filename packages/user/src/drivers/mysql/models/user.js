@@ -17,6 +17,10 @@ const UserSchema = {
     allowNull: false,
     field: 'last_name',
   },
+  company: {
+    type: DataTypes.STRING(150),
+    allowNull: false,
+  },
   email: {
     type: DataTypes.STRING(128),
     allowNull: false,
@@ -25,13 +29,14 @@ const UserSchema = {
     type: DataTypes.STRING(50),
     allowNull: false,
   },
-  company: {
-    type: DataTypes.STRING(150),
-    allowNull: false,
-  },
   password: {
     type: DataTypes.STRING(64),
     allowNull: false,
+  },
+  countryId: {
+    field: 'country_id',
+    allowNull: false,
+    type: DataTypes.STRING(6),
   },
   stripeId: {
     type: DataTypes.STRING(64),
@@ -73,23 +78,11 @@ const UserSchema = {
     type: DataTypes.DATE,
     field: 'deleted_at',
   },
-  countryId: {
-    field: 'country_id',
-    allowNull: false,
-    type: DataTypes.STRING(6),
-    unique: false,
-    references: {
-      model: 'Countries',
-      key: 'id',
-    },
-    onUpdate: 'CASCADE',
-    onDelete: 'CASCADE',
-  },
 };
 
 // add virtual fullname field to User
 // this schema only works when model is initialized and not use in migrations
-const UserSchemaWithFullName = {
+const UserSchemaWithVirtuals = {
   ...UserSchema,
   fullName: {
     type: DataTypes.VIRTUAL,
@@ -105,14 +98,10 @@ class User extends Model {
       as: 'payment_method',
       foreignKey: { name: 'userId', allowNull: true },
     });
-    this.hasOne(models.UserSearch, {
+    this.hasMany(models.UserSearch, {
       as: 'user_search',
       foreignKey: { name: 'userId', allowNull: true },
     });
-    // this.belongsTo(models.Country, {
-    //   as: 'country',
-    //   foreignKey: { name: 'countryId', allowNull: false },
-    // });
   }
 
   static config(sequelize) {
@@ -126,4 +115,4 @@ class User extends Model {
   }
 }
 
-module.exports = { USER_TABLE, UserSchema, UserSchemaWithFullName, User };
+module.exports = { USER_TABLE, UserSchema, UserSchemaWithVirtuals, User };

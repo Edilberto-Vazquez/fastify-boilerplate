@@ -14,9 +14,13 @@ const fastify = Fastify({ logger: true });
 // if use rest API or need that fastify use a service enable this line
 // fastify.register(PluginLoader(services.loadServicesAsPlugin));
 
-const typeDefs = loadFilesSync(path.join(__dirname, 'resolvers'), { extensions: ['graphql'] });
+const typeDefs = loadFilesSync(path.join(__dirname, 'resolvers'), {
+  extensions: ['graphql'],
+});
 
-const resolvers = loadFilesSync(path.join(__dirname, 'resolvers'), { extensions: ['js'] });
+const resolvers = loadFilesSync(path.join(__dirname, 'resolvers'), {
+  extensions: ['js'],
+});
 
 fastify.register(mercurius, {
   schema: print(mergeTypeDefs(typeDefs)),
@@ -27,11 +31,11 @@ fastify.register(mercurius, {
       return {
         request,
         reply,
-        pubsub: services.coreServices.drivers.redis.pubsub,
+        pubsub: services.core.drivers.redis.pubsub,
         services: services,
         ErrorWithProps,
       };
-    } else return { pubsub: services.coreServices.drivers.redis.pubsub };
+    } else return { pubsub: services.core.drivers.redis.pubsub };
   },
 });
 
@@ -40,7 +44,9 @@ async function start() {
     fastify.listen({ port: 4000 });
     fastify.log.info('🚀 Server ready at http://localhost:4000');
   } catch (error) {
-    fastify.log.error(`[http-server]: Error with message ${error.message} has happened`);
+    fastify.log.error(
+      `[http-server]: Error with message ${error.message} has happened`
+    );
     process.exit(1);
   }
 }

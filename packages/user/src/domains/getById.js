@@ -1,12 +1,11 @@
 const getById = (userModel, redis) => async (id) => {
-  const user = `user:id=${id}`;
-  const cache = await redis.get(user);
+  const userId = `user:id=${id}`;
+  const cache = await redis.get(userId);
   if (cache) return JSON.parse(cache);
-  let data = await userModel.findOne({ where: { id } });
+  const data = await userModel.findOne({ where: { id } });
   if (data) {
-    data = data.get({ plain: true });
-    await redis.set(user, JSON.stringify(data));
-    return data;
+    await redis.set(userId, JSON.stringify(data.get({ plain: true })));
+    return data.get({ plain: true });
   }
   return data;
 };

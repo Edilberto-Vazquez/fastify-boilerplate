@@ -10,12 +10,12 @@ const publisher = new Redis(redisConfig);
 
 const red = () => redis;
 
-const destroyCache = async (pattern) => {
+async function destroyCache(pattern) {
   const keys = await redis.keys(`${redisConfig.keyPrefix}${pattern}`);
   const pipeline = redis.pipeline();
   keys.forEach((key) => pipeline.del(key.replace(redisConfig.keyPrefix, '')));
   await pipeline.exec();
-};
+}
 
 const pubsub = new RedisPubSub({
   publisher,
